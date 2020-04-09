@@ -1,5 +1,4 @@
 ﻿uid,gid,year,week,player,first,last,name,position1,team,details,pstat,gstat
-25667,5070,2019,1,AA-0581,Antony,Auclair,Antony Auclair,TE,TB,Calf,Full,Available
 29844,5194,2019,10,AA-0581,Antony,Auclair,Antony Auclair,TE,TB,Toe,,IR
 30530,5213,2019,11,AA-0581,Antony,Auclair,Antony Auclair,TE,TB,Toe,,IR
 31097,5228,2019,12,AA-0581,Antony,Auclair,Antony Auclair,TE,TB,Toe,,IR
@@ -16,9 +15,6 @@
 27870,5140,2019,6,AB-1975,Alfred,Blue,Alfred Blue,RB,JAC,Ankle,,IR
 28348,5153,2019,7,AB-1975,Alfred,Blue,Alfred Blue,RB,JAC,Ankle,,IR
 28875,5169,2019,8,AB-1975,Alfred,Blue,Alfred Blue,RB,JAC,Ankle,,IR
-26213,5090,2019,3,AB-3150,A.J.,Brown,A.J. Brown,WR,TEN,Knee,Full,Available
-32478,5263,2019,14,AB-3150,A.J.,Brown,A.J. Brown,WR,TEN,Calf,FP,Available
-25728,5073,2019,1,AB-3500,Antonio,Brown,Antonio Brown,WR,OAK,Not injury related - conduct,,Available
 30838,5221,2019,12,AC-0387,Austin,Carr,Austin Carr,WR,NO,Ankle,DNP,IR
 31394,5236,2019,13,AC-0387,Austin,Carr,Austin Carr,WR,NO,Ankle,,IR
 32263,5258,2019,14,AC-0387,Austin,Carr,Austin Carr,WR,NO,Ankle,,IR
@@ -44,25 +40,8 @@
 34595,5313,2019,17,AC-1381,Adam,Choice,Adam Choice,RB,SEA,Undisclosed,,IR
 34745,5317,2019,18,AC-1381,Adam,Choice,Adam Choice,RB,SEA,Undisclosed,,IR
 34934,5321,2019,19,AC-1381,Adam,Choice,Adam Choice,RB,SEA,Undisclosed,,IR
-26074,5085,2019,2,AC-1837,A.J.,Cole,A.J. Cole,K,OAK,Right Foot,,Questionable
-25607,5069,2019,1,AC-2350,Amari,Cooper,Amari Cooper,WR,DAL,Foot,Full,Available
-25821,5077,2019,2,AC-2350,Amari,Cooper,Amari Cooper,WR,DAL,Foot,Full,Available
-26377,5096,2019,3,AC-2350,Amari,Cooper,Amari Cooper,WR,DAL,Foot,Full,Available
-27141,5119,2019,4,AC-2350,Amari,Cooper,Amari Cooper,WR,DAL,Ankle,Limited,Available
-27603,5133,2019,5,AC-2350,Amari,Cooper,Amari Cooper,WR,DAL,Ankle,Full,Available
-28068,5146,2019,6,AC-2350,Amari,Cooper,Amari Cooper,WR,DAL,Ankle,Limited,Available
-28635,5162,2019,7,AC-2350,Amari,Cooper,Amari Cooper,WR,DAL,Ankle,Limited,Questionable
-29759,5192,2019,9,AC-2350,Amari,Cooper,Amari Cooper,WR,DAL,Ankle,Full,Available
-30169,5204,2019,10,AC-2350,Amari,Cooper,Amari Cooper,WR,DAL,Knee/Ankle,LP,Questionable
-30361,5209,2019,11,AC-2350,Amari,Cooper,Amari Cooper,WR,DAL,Knee,Limited,Available
-31149,5230,2019,12,AC-2350,Amari,Cooper,Amari Cooper,WR,DAL,Knee,Full,Available
-31950,5250,2019,14,AC-2350,Amari,Cooper,Amari Cooper,WR,DAL,Knee,FP,Available
-33126,5279,2019,15,AC-2350,Amari,Cooper,Amari Cooper,WR,DAL,Knee,FP,Available
-30477,5212,2019,11,AD-1587,Ashton,Dulin,Ashton Dulin,WR,IND,Neck,Full,Available
 27525,5130,2019,5,AE-0775,Alex,Ellis,Alex Ellis,TE,PHI,Knee,DNP,Out
 27910,5141,2019,6,AE-0775,Alex,Ellis,Alex Ellis,TE,PHI,Knee,,IR
-27810,5138,2019,6,AE-1037,Alex,Erickson,Alex Erickson,WR,CIN,Concussion,Full,Available
-30640,5216,2019,11,AE-1037,Alex,Erickson,Alex Erickson,WR,CIN,Back,Full,Available
 25722,5073,2019,1,AF-0850,Austin,Fort,Austin Fort,TE,DEN,Knee - ACL,,IR
 26106,5086,2019,2,AF-0850,Austin,Fort,Austin Fort,TE,DEN,Knee - ACL,,IR
 26319,5094,2019,3,AF-0850,Austin,Fort,Austin Fort,TE,DEN,Knee - ACL,,IR
@@ -95,7 +74,6 @@
 33095,5278,2019,15,AG-1487,Alex,Gray,Alex Gray,TE,ATL,Undisclosed,,IR
 33508,5288,2019,16,AG-1487,Alex,Gray,Alex Gray,TE,ATL,Undisclosed,,IR
 33935,5298,2019,17,AG-1487,Alex,Gray,Alex Gray,TE,ATL,Undisclosed,,IR
-25510,5066,2019,1,AG-1500,A.J.,Green,A.J. Green,WR,CIN,Ankle,DNP,Available
 25994,5083,2019,2,AG-1500,A.J.,Green,A.J. Green,WR,CIN,Ankle,DNP,Out
 26299,5093,2019,3,AG-1500,A.J.,Green,A.J. Green,WR,CIN,Ankle,DNP,Out
 27174,5120,2019,4,AG-1500,A.J.,Green,A.J. Green,WR,CIN,Ankle,DNP,Out
@@ -114,87 +92,32 @@
 30292,5207,2019,11,AH-3650,Austin,Hooper,Austin Hooper,TE,ATL,Knee,DNP,Out
 31086,5228,2019,12,AH-3650,Austin,Hooper,Austin Hooper,TE,ATL,Knee,DNP,Out
 31385,5236,2019,13,AH-3650,Austin,Hooper,Austin Hooper,TE,ATL,Knee,DNP,Out
-32016,5252,2019,14,AH-3650,Austin,Hooper,Austin Hooper,TE,ATL,Knee,LP,Available
 32480,5263,2019,14,AH-3862,Adam,Humphries,Adam Humphries,WR,TEN,Ankle,DNP,Out
 32741,5270,2019,15,AH-3862,Adam,Humphries,Adam Humphries,WR,TEN,Ankle,DNP,Out
 33600,5290,2019,16,AH-3862,Adam,Humphries,Adam Humphries,WR,TEN,Ankle,DNP,Out
 34411,5309,2019,17,AH-3862,Adam,Humphries,Adam Humphries,WR,TEN,Ankle,DNP,Out
 34678,5315,2019,18,AH-3862,Adam,Humphries,Adam Humphries,WR,TEN,Ankle,DNP,Out
 34829,5319,2019,19,AH-3862,Adam,Humphries,Adam Humphries,WR,TEN,Ankle,DNP,Out
-34969,5322,2019,20,AH-3862,Adam,Humphries,Adam Humphries,WR,TEN,Ankle,LP,Questionable
 26851,5110,2019,4,AH-3900,Allen,Hurns,Allen Hurns,WR,MIA,Concussion,DNP,Out
-31518,5240,2019,13,AH-3900,Allen,Hurns,Allen Hurns,WR,MIA,Ankle,FP,Available
-32205,5257,2019,14,AH-3900,Allen,Hurns,Allen Hurns,WR,MIA,Ankle,LP,Available
-32760,5271,2019,15,AH-3900,Allen,Hurns,Allen Hurns,WR,MIA,Ankle/Knee,FP,Available
-33356,5285,2019,16,AH-3900,Allen,Hurns,Allen Hurns,WR,MIA,Ankle/Knee,LP,Available
-34168,5304,2019,17,AH-3900,Allen,Hurns,Allen Hurns,WR,MIA,Ankle/Neck,LP,Questionable
-32973,5276,2019,15,AI-0100,Andy,Isabella,Andy Isabella,WR,ARI,Shoulder,LP,Questionable
 25723,5073,2019,1,AJ-0375,Andy,Janovich,Andy Janovich,RB,DEN,Pectoral,DNP,Out
 26107,5086,2019,2,AJ-0375,Andy,Janovich,Andy Janovich,RB,DEN,Pectoral,DNP,Out
 26318,5094,2019,3,AJ-0375,Andy,Janovich,Andy Janovich,RB,DEN,Pectoral,Limited,Out
-27088,5117,2019,4,AJ-0375,Andy,Janovich,Andy Janovich,RB,DEN,Pectoral,Full,Questionable
 30866,5222,2019,12,AJ-0375,Andy,Janovich,Andy Janovich,RB,DEN,Elbow,,IR
 31793,5247,2019,13,AJ-0375,Andy,Janovich,Andy Janovich,RB,DEN,Elbow,,IR
 32089,5254,2019,14,AJ-0375,Andy,Janovich,Andy Janovich,RB,DEN,Elbow,,IR
 32693,5269,2019,15,AJ-0375,Andy,Janovich,Andy Janovich,RB,DEN,Elbow,,IR
 33409,5286,2019,16,AJ-0375,Andy,Janovich,Andy Janovich,RB,DEN,Elbow,,IR
 34545,5312,2019,17,AJ-0375,Andy,Janovich,Andy Janovich,RB,DEN,Elbow,,IR
-25492,5065,2019,1,AJ-0430,Alshon,Jeffery,Alshon Jeffery,WR,PHI,Bicep,Full,Available
-26734,5106,2019,4,AJ-0430,Alshon,Jeffery,Alshon Jeffery,WR,PHI,Calf,Full,Available
 30697,5217,2019,11,AJ-0430,Alshon,Jeffery,Alshon Jeffery,WR,PHI,Ankle,DNP,Out
-31239,5232,2019,12,AJ-0430,Alshon,Jeffery,Alshon Jeffery,WR,PHI,Ankle,Limited,Questionable
-31551,5240,2019,13,AJ-0430,Alshon,Jeffery,Alshon Jeffery,WR,PHI,Ankle,FP,Available
 32853,5273,2019,15,AJ-0430,Alshon,Jeffery,Alshon Jeffery,WR,PHI,Foot,DNP,IR
 33849,5295,2019,16,AJ-0430,Alshon,Jeffery,Alshon Jeffery,WR,PHI,Foot,,IR
 34343,5307,2019,17,AJ-0430,Alshon,Jeffery,Alshon Jeffery,WR,PHI,Foot,,IR
 34738,5317,2019,18,AJ-0430,Alshon,Jeffery,Alshon Jeffery,WR,PHI,Foot,,IR
-25346,5058,2019,1,AJ-1143,Aaron,Jones,Aaron Jones,RB,GB,Hamstring,Full,Available
-26715,5106,2019,4,AJ-1143,Aaron,Jones,Aaron Jones,RB,GB,Shoulder,Full,Available
-28472,5157,2019,7,AJ-1143,Aaron,Jones,Aaron Jones,RB,GB,Shoulder,Full,Available
-29692,5190,2019,9,AJ-1143,Aaron,Jones,Aaron Jones,RB,GB,Shoulder,Full,Available
-29982,5198,2019,10,AJ-1143,Aaron,Jones,Aaron Jones,RB,GB,Shoulder,FP,Available
-27886,5140,2019,6,AK-0050,Alvin,Kamara,Alvin Kamara,RB,NO,Ankle,DNP,Questionable
 28625,5161,2019,7,AK-0050,Alvin,Kamara,Alvin Kamara,RB,NO,Ankle,DNP,Out
-28783,5165,2019,8,AK-0050,Alvin,Kamara,Alvin Kamara,RB,NO,Ankle,Limited,Questionable
-29884,5195,2019,10,AK-0050,Alvin,Kamara,Alvin Kamara,RB,NO,Knee/Ankle,FP,Available
-29193,5177,2019,8,AL-0387,Allen,Lazard,Allen Lazard,WR,GB,Back,Full,Available
-34068,5301,2019,17,AL-0387,Allen,Lazard,Allen Lazard,WR,GB,Ankle,LP,Available
-34902,5321,2019,19,AL-0387,Allen,Lazard,Allen Lazard,WR,GB,Ankle,FP,Available
-34976,5323,2019,20,AL-0387,Allen,Lazard,Allen Lazard,WR,GB,Ankle,FP,Available
-27012,5115,2019,4,AL-0500,Andy,Lee,Andy Lee,K,ARI,Right Hip,DNP,Questionable
-27228,5122,2019,5,AL-0500,Andy,Lee,Andy Lee,K,ARI,Right Hip,Limited,Questionable
-27990,5144,2019,6,AL-0500,Andy,Lee,Andy Lee,K,ARI,Right Hip,Limited,Questionable
-28247,5151,2019,7,AL-0500,Andy,Lee,Andy Lee,K,ARI,Right Hip,Limited,Questionable
 33181,5280,2019,15,AM-0825,Alexander,Mattison,Alexander Mattison,RB,MIN,Ankle,DNP,Out
-33910,5297,2019,16,AM-0825,Alexander,Mattison,Alexander Mattison,RB,MIN,Ankle,LP,Questionable
-33985,5299,2019,17,AM-0825,Alexander,Mattison,Alexander Mattison,RB,MIN,Ankle,LP,Questionable
-34688,5316,2019,18,AM-0825,Alexander,Mattison,Alexander Mattison,RB,MIN,Ankle,FP,Available
-27301,5123,2019,5,AM-1550,Alex,McGough,Alex McGough,QB,HOU,Hamstring,Full,Available
-28145,5148,2019,6,AP-0388,Andre,Patton,Andre Patton,WR,LAC,Quadricep,Full,Available
-28551,5159,2019,7,AP-0388,Andre,Patton,Andre Patton,WR,LAC,Quadricep,Full,Available
-28521,5158,2019,7,AP-0700,Adrian,Peterson,Adrian Peterson,RB,WAS,Quadricep,Full,Available
-28745,5164,2019,8,AP-0700,Adrian,Peterson,Adrian Peterson,RB,WAS,Ankle,Limited,Questionable
-29549,5186,2019,9,AP-0700,Adrian,Peterson,Adrian Peterson,RB,WAS,Ankle,Full,Available
-30583,5214,2019,11,AP-0700,Adrian,Peterson,Adrian Peterson,RB,WAS,Toe,Full,Available
-30914,5223,2019,12,AP-0700,Adrian,Peterson,Adrian Peterson,RB,WAS,Toe,Limited,Questionable
-31715,5244,2019,13,AP-0700,Adrian,Peterson,Adrian Peterson,RB,WAS,Toe,FP,Available
-32322,5259,2019,14,AP-0700,Adrian,Peterson,Adrian Peterson,RB,WAS,Toe,FP,Available
-32877,5273,2019,15,AP-0700,Adrian,Peterson,Adrian Peterson,RB,WAS,Toe,FP,Available
-33654,5291,2019,16,AP-0700,Adrian,Peterson,Adrian Peterson,RB,WAS,Toe,FP,Available
-34481,5310,2019,17,AP-0700,Adrian,Peterson,Adrian Peterson,RB,WAS,Toe,FP,Available
 25399,5061,2019,1,AR-1100,Andre,Roberts,Andre Roberts,WR,BUF,Quad,DNP,Out
 25797,5076,2019,2,AR-1100,Andre,Roberts,Andre Roberts,WR,BUF,Quad,DNP,Out
-26295,5093,2019,3,AR-1100,Andre,Roberts,Andre Roberts,WR,BUF,Quad,Full,Available
 34273,5306,2019,17,AR-1100,Andre,Roberts,Andre Roberts,WR,BUF,Foo,DNP,Out
-34621,5314,2019,18,AR-1100,Andre,Roberts,Andre Roberts,WR,BUF,Foot,LP,Questionable
-28196,5149,2019,6,AR-1300,Aaron,Rodgers,Aaron Rodgers,QB,GB,Knee,Limited,Available
-28471,5157,2019,7,AR-1300,Aaron,Rodgers,Aaron Rodgers,QB,GB,Knee,Limited,Available
-29194,5177,2019,8,AR-1300,Aaron,Rodgers,Aaron Rodgers,QB,GB,Knee,Full,Available
-29690,5190,2019,9,AR-1300,Aaron,Rodgers,Aaron Rodgers,QB,GB,Knee,Full,Available
-29980,5198,2019,10,AR-1300,Aaron,Rodgers,Aaron Rodgers,QB,GB,Knee,FP,Available
-26654,5104,2019,3,AS-0575,Austin,Seibert,Austin Seibert,K,CLE,Hip,Full,Available
-26804,5108,2019,4,AS-0575,Austin,Seibert,Austin Seibert,K,CLE,Right Hip,Full,Available
-27697,5135,2019,5,AS-0575,Austin,Seibert,Austin Seibert,K,CLE,Right Hip,Full,Available
 30704,5218,2019,11,AS-0775,Adam,Shaheen,Adam Shaheen,TE,CHI,Foot,DNP,Out
 30962,5225,2019,12,AS-0775,Adam,Shaheen,Adam Shaheen,TE,CHI,Foot,DNP,Out
 31315,5234,2019,13,AS-0775,Adam,Shaheen,Adam Shaheen,TE,CHI,Foot,DNP,IR
@@ -202,24 +125,12 @@
 32646,5268,2019,15,AS-0775,Adam,Shaheen,Adam Shaheen,TE,CHI,Foot,,IR
 33862,5296,2019,16,AS-0775,Adam,Shaheen,Adam Shaheen,TE,CHI,Foot,,IR
 33975,5299,2019,17,AS-0775,Adam,Shaheen,Adam Shaheen,TE,CHI,Foot,,IR
-27848,5139,2019,6,AS-0900,Anthony,Sherman,Anthony Sherman,RB,KC,Shoulder,Full,Available
-28243,5150,2019,7,AS-0900,Anthony,Sherman,Anthony Sherman,RB,KC,Shoulder,Full,Available
-29215,5177,2019,8,AS-0900,Anthony,Sherman,Anthony Sherman,RB,KC,Hamstring,Full,Available
-25509,5066,2019,1,AT-0247,Auden,Tate,Auden Tate,WR,CIN,Knee,Full,Available
-25993,5083,2019,2,AT-0247,Auden,Tate,Auden Tate,WR,CIN,Knee,Full,Available
-31031,5227,2019,12,AT-0247,Auden,Tate,Auden Tate,WR,CIN,Concussion,Limited,Questionable
 32802,5272,2019,15,AT-0247,Auden,Tate,Auden Tate,WR,CIN,Knee - MCL,,IR
 33337,5285,2019,16,AT-0247,Auden,Tate,Auden Tate,WR,CIN,Knee - MCL,,IR
 33990,5300,2019,17,AT-0247,Auden,Tate,Auden Tate,WR,CIN,Knee - MCL,,IR
-27896,5141,2019,6,AT-0350,Adam,Thielen,Adam Thielen,WR,MIN,Illness,Full,Available
 28726,5164,2019,8,AT-0350,Adam,Thielen,Adam Thielen,WR,MIN,Hamstring,DNP,Out
-29432,5183,2019,9,AT-0350,Adam,Thielen,Adam Thielen,WR,MIN,Hamstring,Limited,Questionable
 30184,5204,2019,10,AT-0350,Adam,Thielen,Adam Thielen,WR,MIN,Hamstring,DNP,Out
 30421,5210,2019,11,AT-0350,Adam,Thielen,Adam Thielen,WR,MIN,Hamstring,DNP,Out
-31887,5249,2019,13,AT-0350,Adam,Thielen,Adam Thielen,WR,MIN,Hamstring,LP,Questionable
-32147,5255,2019,14,AT-0350,Adam,Thielen,Adam Thielen,WR,MIN,Hamstring,DNP,Doubtful
-33184,5280,2019,15,AT-0350,Adam,Thielen,Adam Thielen,WR,MIN,Hamstring,LP,Available
-34771,5318,2019,19,AT-0350,Adam,Thielen,Adam Thielen,WR,MIN,Ankle,DNP,Questionable
 32166,5256,2019,14,AV-0400,Adam,Vinatieri,Adam Vinatieri,K,IND,Left Knee,DNP,Out
 33204,5281,2019,15,AV-0400,Adam,Vinatieri,Adam Vinatieri,K,IND,Knee,,IR
 33332,5284,2019,16,AV-0400,Adam,Vinatieri,Adam Vinatieri,K,IND,Knee,,IR
@@ -241,34 +152,8 @@
 33671,5292,2019,16,AV-0500,Andrew,Vollert,Andrew Vollert,TE,LAC,Knee - ACL,,IR
 34165,5303,2019,17,AV-0500,Andrew,Vollert,Andrew Vollert,TE,LAC,Knee - ACL,,IR
 25621,5069,2019,1,AW-0865,Alex,Wesley,Alex Wesley,WR,NYG,Undisclosed,,IR
-25386,5060,2019,1,AW-1650,Albert,Wilson,Albert Wilson,WR,MIA,Hip,Limited,Questionable
-25971,5082,2019,2,AW-1650,Albert,Wilson,Albert Wilson,WR,MIA,Hip,Limited,Questionable
 26395,5096,2019,3,AW-1650,Albert,Wilson,Albert Wilson,WR,MIA,Hip/Calf,DNP,Out
-26850,5110,2019,4,AW-1650,Albert,Wilson,Albert Wilson,WR,MIA,Hip,Limited,Questionable
-27954,5143,2019,6,AW-1650,Albert,Wilson,Albert Wilson,WR,MIA,Calf,Limited,Questionable
-28417,5155,2019,7,AW-1650,Albert,Wilson,Albert Wilson,WR,MIA,Calf,Limited,Available
-29224,5178,2019,8,AW-1650,Albert,Wilson,Albert Wilson,WR,MIA,Hip,Full,Available
-29433,5184,2019,9,AW-1650,Albert,Wilson,Albert Wilson,WR,MIA,Ankle,Full,Available
-30121,5202,2019,10,AW-1650,Albert,Wilson,Albert Wilson,WR,MIA,Hip,FP,Available
-30329,5208,2019,11,AW-1650,Albert,Wilson,Albert Wilson,WR,MIA,Hip,Full,Available
-30940,5224,2019,12,AW-1650,Albert,Wilson,Albert Wilson,WR,MIA,Hip,Full,Available
-31520,5240,2019,13,AW-1650,Albert,Wilson,Albert Wilson,WR,MIA,Hip/Chest,FP,Available
-32758,5271,2019,15,AW-1650,Albert,Wilson,Albert Wilson,WR,MIA,Concussion,LP,Available
-33354,5285,2019,16,AW-1650,Albert,Wilson,Albert Wilson,WR,MIA,Hip,FP,Available
-29423,5183,2019,9,BB-1550,Blake,Bell,Blake Bell,TE,KC,Back,Full,Available
 30743,5219,2019,11,BB-1550,Blake,Bell,Blake Bell,TE,KC,Ankle,DNP,Out
-31498,5239,2019,13,BB-1550,Blake,Bell,Blake Bell,TE,KC,Ankle,FP,Available
-25414,5061,2019,1,BB-1950,Braxton,Berrios,Braxton Berrios,WR,NYJ,Hamstring,Limited,Questionable
-26179,5089,2019,2,BB-1950,Braxton,Berrios,Braxton Berrios,WR,NYJ,Hamstring,Limited,Questionable
-26438,5097,2019,3,BB-1950,Braxton,Berrios,Braxton Berrios,WR,NYJ,Hamstring,Full,Available
-28909,5169,2019,8,BB-1950,Braxton,Berrios,Braxton Berrios,WR,NYJ,Hamstring,Limited,Questionable
-29483,5184,2019,9,BB-1950,Braxton,Berrios,Braxton Berrios,WR,NYJ,Hamstring,Limited,Questionable
-30081,5201,2019,10,BB-1950,Braxton,Berrios,Braxton Berrios,WR,NYJ,Hamstring,FP,Available
-30563,5214,2019,11,BB-1950,Braxton,Berrios,Braxton Berrios,WR,NYJ,Hamstring,Full,Available
-31008,5226,2019,12,BB-1950,Braxton,Berrios,Braxton Berrios,WR,NYJ,Hamstring,Full,Available
-31476,5238,2019,13,BB-1950,Braxton,Berrios,Braxton Berrios,WR,NYJ,Hamstring/Hip,FP,Available
-25986,5082,2019,2,BB-2250,Brandon,Bolden,Brandon Bolden,RB,NE,Hamstring,Limited,Questionable
-26409,5097,2019,3,BB-2250,Brandon,Bolden,Brandon Bolden,RB,NE,Hamstring,,Available
 31313,5234,2019,13,BB-2712,Ben,Braunecker,Ben Braunecker,TE,CHI,Concussion,DNP,Out
 31934,5250,2019,14,BB-2712,Ben,Braunecker,Ben Braunecker,TE,CHI,Concussion,DNP,Out
 32645,5268,2019,15,BB-2712,Ben,Braunecker,Ben Braunecker,TE,CHI,Concussion,DNP,Out
@@ -290,12 +175,8 @@
 33203,5281,2019,15,BB-3285,Billy,Brown,Billy Brown,WR,IND,Undisclosed,,IR
 33331,5284,2019,16,BB-3285,Billy,Brown,Billy Brown,WR,IND,Undisclosed,,IR
 34098,5302,2019,17,BB-3285,Billy,Brown,Billy Brown,WR,IND,Undisclosed,,IR
-28039,5145,2019,6,BC-2325,Brandin,Cooks,Brandin Cooks,WR,LA,Concussion,Full,Available
 30139,5203,2019,10,BC-2325,Brandin,Cooks,Brandin Cooks,WR,LA,Concussion,LP,Out
 30711,5218,2019,11,BC-2325,Brandin,Cooks,Brandin Cooks,WR,LA,Concussion,Limited,Out
-31297,5233,2019,12,BC-2325,Brandin,Cooks,Brandin Cooks,WR,LA,Concussion,Full,Available
-26514,5100,2019,3,BF-0950,Bennie,Fowler,Bennie Fowler,WR,NYG,Hamstring,Limited,Questionable
-26978,5114,2019,4,BF-0950,Bennie,Fowler,Bennie Fowler,WR,NYG,Hamstring,Limited,Available
 25669,5070,2019,1,BG-0100,Blaine,Gabbert,Blaine Gabbert,QB,TB,Left Shoulder,DNP,Out
 25761,5074,2019,2,BG-0100,Blaine,Gabbert,Blaine Gabbert,QB,TB,Left Shoulder,DNP,Out
 26531,5100,2019,3,BG-0100,Blaine,Gabbert,Blaine Gabbert,QB,TB,Left Shoulder,DNP,Out
@@ -313,13 +194,7 @@
 33480,5287,2019,16,BG-0100,Blaine,Gabbert,Blaine Gabbert,QB,TB,Shoulder,,IR
 33959,5298,2019,17,BG-0100,Blaine,Gabbert,Blaine Gabbert,QB,TB,Shoulder,,IR
 25622,5069,2019,1,BG-0750,Brittan,Golden,Brittan Golden,WR,NYG,Calf,,IR
-25605,5069,2019,1,BJ-0950,Blake,Jarwin,Blake Jarwin,TE,DAL,Foot,Full,Available
-25822,5077,2019,2,BJ-0950,Blake,Jarwin,Blake Jarwin,TE,DAL,Foot,Full,Available
-26378,5096,2019,3,BJ-0950,Blake,Jarwin,Blake Jarwin,TE,DAL,Foot,Full,Available
 25576,5067,2019,1,BJ-1287,Ben,Johnson,Ben Johnson,TE,LAC,Undisclosed,,IR
-27355,5125,2019,5,BK-0700,Brett,Kern,Brett Kern,K,TEN,Right Groin,Limited,Available
-29118,5175,2019,8,BM-0650,Baker,Mayfield,Baker Mayfield,QB,CLE,Hip,Full,Available
-32067,5253,2019,14,BM-0650,Baker,Mayfield,Baker Mayfield,QB,CLE,Right hand/Ribs,FP,Available
 25670,5070,2019,1,BM-3350,Bryant,Mitchell,Bryant Mitchell,WR,TB,Achilles,,IR
 25762,5074,2019,2,BM-3350,Bryant,Mitchell,Bryant Mitchell,WR,TB,Achilles,,IR
 26532,5100,2019,3,BM-3350,Bryant,Mitchell,Bryant Mitchell,WR,TB,Achilles,,IR
@@ -336,15 +211,10 @@
 32972,5275,2019,15,BM-3350,Bryant,Mitchell,Bryant Mitchell,WR,TB,Achilles,,IR
 33482,5287,2019,16,BM-3350,Bryant,Mitchell,Bryant Mitchell,WR,TB,Achilles,,IR
 33961,5298,2019,17,BM-3350,Bryant,Mitchell,Bryant Mitchell,WR,TB,Achilles,,IR
-26533,5100,2019,3,BP-0450,Breshad,Perriman,Breshad Perriman,WR,TB,Quadriceps,Full,Available
-27066,5116,2019,4,BP-0450,Breshad,Perriman,Breshad Perriman,WR,TB,Quadricep,Full,Available
 27554,5131,2019,5,BP-0450,Breshad,Perriman,Breshad Perriman,WR,TB,Hamstring,DNP,Out
 27778,5137,2019,6,BP-0450,Breshad,Perriman,Breshad Perriman,WR,TB,Hamstring,DNP,Out
-29039,5173,2019,8,BP-0450,Breshad,Perriman,Breshad Perriman,WR,TB,Hamstring,Full,Available
 32598,5266,2019,15,BP-1200,Bilal,Powell,Bilal Powell,RB,NYJ,Ankle/Illness,DNP,Out
-33720,5293,2019,16,BP-1200,Bilal,Powell,Bilal Powell,RB,NYJ,Ankle,LP,Questionable
 33932,5298,2019,17,BP-1225,Brandon,Powell,Brandon Powell,WR,ATL,Wrist,DNP,Out
-26017,5084,2019,2,BR-1100,Ben,Roethlisberger,Ben Roethlisberger,QB,PIT,Not Injury Related,Full,Available
 26619,5103,2019,3,BR-1100,Ben,Roethlisberger,Ben Roethlisberger,QB,PIT,Elbow,,IR
 27193,5120,2019,4,BR-1100,Ben,Roethlisberger,Ben Roethlisberger,QB,PIT,Elbow,,IR
 27329,5124,2019,5,BR-1100,Ben,Roethlisberger,Ben Roethlisberger,QB,PIT,Elbow,,IR
@@ -359,10 +229,6 @@
 32616,5267,2019,15,BR-1100,Ben,Roethlisberger,Ben Roethlisberger,QB,PIT,Elbow,,IR
 33734,5293,2019,16,BR-1100,Ben,Roethlisberger,Ben Roethlisberger,QB,PIT,Elbow,,IR
 34364,5308,2019,17,BR-1100,Ben,Roethlisberger,Ben Roethlisberger,QB,PIT,Elbow,,IR
-32931,5275,2019,15,BS-0825,Bo,Scarbrough,Bo Scarbrough,RB,DET,ribs,DNP,Questionable
-33418,5286,2019,16,BS-0825,Bo,Scarbrough,Bo Scarbrough,RB,DET,ribs,LP,Questionable
-31046,5227,2019,12,BS-2950,Benny,Snell Jr.,Benny Snell Jr.,RB,PIT,Knee,Full,Available
-25763,5074,2019,2,BW-2475,Bobo,Wilson,Bobo Wilson,WR,TB,Ankle,Full,Available
 25475,5064,2019,1,CB-0950,Cameron,Batson,Cameron Batson,WR,TEN,Undisclosed,,IR
 25871,5078,2019,2,CB-0950,Cameron,Batson,Cameron Batson,WR,TEN,Undisclosed,,IR
 26212,5090,2019,3,CB-0950,Cameron,Batson,Cameron Batson,WR,TEN,Undisclosed,,IR
@@ -382,10 +248,6 @@
 34680,5315,2019,18,CB-0950,Cameron,Batson,Cameron Batson,WR,TEN,Undisclosed,,IR
 34831,5319,2019,19,CB-0950,Cameron,Batson,Cameron Batson,WR,TEN,Undisclosed,,IR
 34975,5322,2019,20,CB-0950,Cameron,Batson,Cameron Batson,WR,TEN,Undisclosed,,IR
-25796,5076,2019,2,CB-1130,Cole,Beasley,Cole Beasley,WR,BUF,Illness,Full,Available
-26885,5111,2019,4,CB-1130,Cole,Beasley,Cole Beasley,WR,BUF,Not Injury Related -- Resting ,DNP,Available
-27350,5125,2019,5,CB-1130,Cole,Beasley,Cole Beasley,WR,BUF,Ankle,DNP,Available
-28974,5171,2019,8,CB-1130,Cole,Beasley,Cole Beasley,WR,BUF,Not Injury Related -- Resting ,DNP,Available
 27138,5118,2019,4,CB-1152,Chad,Beebe,Chad Beebe,WR,MIN,Ankle,,IR
 27440,5128,2019,5,CB-1152,Chad,Beebe,Chad Beebe,WR,MIN,Ankle,,IR
 27894,5141,2019,6,CB-1152,Chad,Beebe,Chad Beebe,WR,MIN,Ankle,,IR
@@ -401,26 +263,10 @@
 33984,5299,2019,17,CB-1152,Chad,Beebe,Chad Beebe,WR,MIN,Ankle,,IR
 34689,5316,2019,18,CB-1152,Chad,Beebe,Chad Beebe,WR,MIN,Ankle,,IR
 34770,5318,2019,19,CB-1152,Chad,Beebe,Chad Beebe,WR,MIN,Ankle,,IR
-25673,5070,2019,1,CB-2775,Cameron,Brate,Cameron Brate,TE,TB,Calf,Full,Available
-29633,5188,2019,9,CB-2775,Cameron,Brate,Cameron Brate,TE,TB,Ribs,Full,Questionable
-29850,5194,2019,10,CB-2775,Cameron,Brate,Cameron Brate,TE,TB,Ribs,FP,Available
-27932,5142,2019,6,CC-0750,Chris,Carson,Chris Carson,RB,SEA,Shoulder,Full,Available
-28598,5160,2019,7,CC-0750,Chris,Carson,Chris Carson,RB,SEA,Not Injury Related,Full,Available
-29027,5172,2019,8,CC-0750,Chris,Carson,Chris Carson,RB,SEA,Not Injury Related,Full,Available
-29619,5188,2019,9,CC-0750,Chris,Carson,Chris Carson,RB,SEA,Not Injury Related,Full,Available
-30204,5205,2019,10,CC-0750,Chris,Carson,Chris Carson,RB,SEA,Not Injury Related,Full,Available
-31270,5232,2019,12,CC-0750,Chris,Carson,Chris Carson,RB,SEA,Not Injury Related,Full,Available
 34598,5313,2019,17,CC-0750,Chris,Carson,Chris Carson,RB,SEA,Hip,,IR
 34744,5317,2019,18,CC-0750,Chris,Carson,Chris Carson,RB,SEA,Hip,,IR
 34933,5321,2019,19,CC-0750,Chris,Carson,Chris Carson,RB,SEA,Hip,,IR
 31439,5238,2019,13,CC-0775,Cethan,Carter,Cethan Carter,TE,CIN,Concussion,DNP,Out
-32044,5253,2019,14,CC-0775,Cethan,Carter,Cethan Carter,TE,CIN,Concussion,FP,Available
-25767,5075,2019,2,CC-2100,Charles,Clay,Charles Clay,TE,ARI,Not-Injury Related,Full,Available
-26480,5099,2019,3,CC-2100,Charles,Clay,Charles Clay,TE,ARI,Not-Injury Related,Full,Available
-27231,5122,2019,5,CC-2100,Charles,Clay,Charles Clay,TE,ARI,Not Injury Related,Full,Available
-29258,5179,2019,9,CC-2100,Charles,Clay,Charles Clay,TE,ARI,Back,Full,Available
-34488,5311,2019,17,CC-2100,Charles,Clay,Charles Clay,TE,ARI,Calf,DNP,Questionable
-26732,5106,2019,4,CC-2350,Corey,Clement,Corey Clement,RB,PHI,Shoulder,Full,Questionable
 27907,5141,2019,6,CC-2350,Corey,Clement,Corey Clement,RB,PHI,Shoulder,DNP,IR
 28664,5162,2019,7,CC-2350,Corey,Clement,Corey Clement,RB,PHI,Shoulder,,IR
 28986,5171,2019,8,CC-2350,Corey,Clement,Corey Clement,RB,PHI,Shoulder,,IR
@@ -449,31 +295,11 @@
 32784,5271,2019,15,CC-3650,Corey,Coleman,Corey Coleman,WR,NYG,Knee - ACL,,IR
 33617,5291,2019,16,CC-3650,Corey,Coleman,Corey Coleman,WR,NYG,Knee - ACL,,IR
 34306,5307,2019,17,CC-3650,Corey,Coleman,Corey Coleman,WR,NYG,Knee - ACL,,IR
-26195,5090,2019,3,CC-3950,Chris,Conley,Chris Conley,WR,JAC,Hip,Limited,Available
-27099,5117,2019,4,CC-3950,Chris,Conley,Chris Conley,WR,JAC,Knee,Full,Available
-31110,5229,2019,12,CC-3950,Chris,Conley,Chris Conley,WR,JAC,Hamstring,Full,Available
-32342,5260,2019,14,CC-3950,Chris,Conley,Chris Conley,WR,JAC,Ankle,FP,Available
-32761,5271,2019,15,CC-4575,Chandler,Cox,Chandler Cox,RB,MIA,Shoulder,LP,Available
-33357,5285,2019,16,CC-4575,Chandler,Cox,Chandler Cox,RB,MIA,Shoulder,FP,Questionable
-34169,5304,2019,17,CC-4575,Chandler,Cox,Chandler Cox,RB,MIA,Shoulder,FP,Available
-29044,5173,2019,8,CD-0975,Corey,Davis,Corey Davis,WR,TEN,Illness,Full,Available
-30039,5200,2019,10,CD-0975,Corey,Davis,Corey Davis,WR,TEN,Hip,DNP,Doubtful
-31127,5229,2019,12,CD-0975,Corey,Davis,Corey Davis,WR,TEN,Hip,Full,Available
-32472,5263,2019,14,CD-0975,Corey,Davis,Corey Davis,WR,TEN,Not Injury Related,FP,Available
-33598,5290,2019,16,CD-0975,Corey,Davis,Corey Davis,WR,TEN,Ankle,FP,Available
-34409,5309,2019,17,CD-0975,Corey,Davis,Corey Davis,WR,TEN,Concussion,FP,Available
 29259,5179,2019,9,CE-0175,Chase,Edmonds,Chase Edmonds,RB,ARI,Hamstring,DNP,Out
 29822,5194,2019,10,CE-0175,Chase,Edmonds,Chase Edmonds,RB,ARI,Hamstring,DNP,Out
 30586,5215,2019,11,CE-0175,Chase,Edmonds,Chase Edmonds,RB,ARI,Hamstring,DNP,Out
-31724,5245,2019,13,CE-0175,Chase,Edmonds,Chase Edmonds,RB,ARI,Hamstring,FP,Available
-27072,5116,2019,4,CG-1425,Chris,Godwin,Chris Godwin,WR,TB,Hip,Limited,Questionable
-27552,5131,2019,5,CG-1425,Chris,Godwin,Chris Godwin,WR,TB,Hip,Full,Available
-27782,5137,2019,6,CG-1425,Chris,Godwin,Chris Godwin,WR,TB,Hip,Full,Available
-32191,5256,2019,14,CG-1425,Chris,Godwin,Chris Godwin,WR,TB,Shin,FP,Available
 33483,5287,2019,16,CG-1425,Chris,Godwin,Chris Godwin,WR,TB,Hamstring,DNP,Out
 33962,5298,2019,17,CG-1425,Chris,Godwin,Chris Godwin,WR,TB,Hamstring,DNP,Out
-30186,5204,2019,10,CH-0525,C.J.,Ham,C.J. Ham,RB,MIN,Ankle,FP,Available
-30423,5210,2019,11,CH-0525,C.J.,Ham,C.J. Ham,RB,MIN,Ankle,Full,Available
 25446,5062,2019,1,CH-2400,Chad,Henne,Chad Henne,QB,KC,Ankle,,IR
 26067,5085,2019,2,CH-2400,Chad,Henne,Chad Henne,QB,KC,Ankle,,IR
 26277,5092,2019,3,CH-2400,Chad,Henne,Chad Henne,QB,KC,Ankle,,IR
@@ -482,8 +308,6 @@
 27853,5139,2019,6,CH-2400,Chad,Henne,Chad Henne,QB,KC,Ankle,,IR
 28245,5150,2019,7,CH-2400,Chad,Henne,Chad Henne,QB,KC,Ankle,,IR
 29218,5177,2019,8,CH-2400,Chad,Henne,Chad Henne,QB,KC,Ankle,,IR
-30025,5200,2019,10,CH-2400,Chad,Henne,Chad Henne,QB,KC,Ankle,FP,Available
-30074,5201,2019,10,CH-2950,Chris,Herndon,Chris Herndon,TE,NYJ,Hamstring,LP,Questionable
 30556,5214,2019,11,CH-2950,Chris,Herndon,Chris Herndon,TE,NYJ,Ribs,,IR
 31000,5226,2019,12,CH-2950,Chris,Herndon,Chris Herndon,TE,NYJ,Ribs,,IR
 31465,5238,2019,13,CH-2950,Chris,Herndon,Chris Herndon,TE,NYJ,Ribs,,IR
@@ -501,58 +325,14 @@
 31686,5244,2019,13,CH-3350,Chris,Hogan,Chris Hogan,WR,CAR,Knee,,IR
 32027,5252,2019,14,CH-3350,Chris,Hogan,Chris Hogan,WR,CAR,Knee,,IR
 32882,5274,2019,15,CH-3350,Chris,Hogan,Chris Hogan,WR,CAR,Knee,,IR
-34406,5309,2019,17,CH-3775,Cody,Hollister,Cody Hollister,WR,TEN,Ankle,DNP,Questionable
-34684,5315,2019,18,CH-3775,Cody,Hollister,Cody Hollister,WR,TEN,Ankle,LP,Questionable
-34832,5319,2019,19,CH-3775,Cody,Hollister,Cody Hollister,WR,TEN,Ankle,LP,Questionable
-34974,5322,2019,20,CH-3775,Cody,Hollister,Cody Hollister,WR,TEN,Ankle,LP,Questionable
-26549,5101,2019,3,CH-5000,Carlos,Hyde,Carlos Hyde,RB,HOU,Shoulder,Full,Available
-26757,5107,2019,4,CH-5000,Carlos,Hyde,Carlos Hyde,RB,HOU,Shoulder,Full,Available
-27300,5123,2019,5,CH-5000,Carlos,Hyde,Carlos Hyde,RB,HOU,Shoulder,Full,Available
-27828,5139,2019,6,CH-5000,Carlos,Hyde,Carlos Hyde,RB,HOU,Shoulder,Full,Available
-28286,5152,2019,7,CH-5000,Carlos,Hyde,Carlos Hyde,RB,HOU,Calf,Full,Available
-33439,5287,2019,16,CH-5000,Carlos,Hyde,Carlos Hyde,RB,HOU,Ankle / Not Injury Related,LP,Questionable
 25490,5065,2019,1,CJ-1450,Charles,Johnson,Charles Johnson,WR,PHI,Ankle,,IR
-27607,5133,2019,5,CJ-2100,Chris,Jones,Chris Jones,K,DAL,Back,Full,Available
-28633,5162,2019,7,CJ-2100,Chris,Jones,Chris Jones,K,DAL,Back,Limited,Available
-33117,5279,2019,15,CJ-2100,Chris,Jones,Chris Jones,K,DAL,Abdomen,FP,Available
-33805,5295,2019,16,CJ-2100,Chris,Jones,Chris Jones,K,DAL,Abdomen,LP,Available
-34426,5310,2019,17,CJ-2100,Chris,Jones,Chris Jones,K,DAL,Abdomen,LP,Available
-27011,5114,2019,4,CK-0250,Case,Keenum,Case Keenum,QB,WAS,Foot,Full,Available
-27488,5129,2019,5,CK-0250,Case,Keenum,Case Keenum,QB,WAS,Foot,Limited,Questionable
-27980,5143,2019,6,CK-0250,Case,Keenum,Case Keenum,QB,WAS,Foot,Full,Available
-28522,5158,2019,7,CK-0250,Case,Keenum,Case Keenum,QB,WAS,Right Shoulder,Full,Available
-28746,5164,2019,8,CK-0250,Case,Keenum,Case Keenum,QB,WAS,Right Shoulder,Full,Available
 29554,5186,2019,9,CK-0250,Case,Keenum,Case Keenum,QB,WAS,Concussion,Limited,Out
-32401,5261,2019,14,CK-0550,Cody,Kessler,Cody Kessler,QB,NE,Illness,,Available
 27232,5122,2019,5,CK-0825,Christian,Kirk,Christian Kirk,WR,ARI,Ankle,DNP,Out
-27992,5144,2019,6,CK-0825,Christian,Kirk,Christian Kirk,WR,ARI,Ankle,Limited,Questionable
-28251,5151,2019,7,CK-0825,Christian,Kirk,Christian Kirk,WR,ARI,Ankle,Limited,Questionable
-28752,5165,2019,8,CK-0825,Christian,Kirk,Christian Kirk,WR,ARI,Ankle,Limited,Questionable
-32978,5276,2019,15,CK-0825,Christian,Kirk,Christian Kirk,WR,ARI,Ankle,FP,Available
-33754,5294,2019,16,CK-0825,Christian,Kirk,Christian Kirk,WR,ARI,Ankle,LP,Questionable
-30708,5218,2019,11,CK-1300,Cooper,Kupp,Cooper Kupp,WR,LA,Illness,DNP,Available
-25801,5076,2019,2,CL-0275,Cody,Latimer,Cody Latimer,WR,NYG,Calf,Limited,Questionable
 26515,5100,2019,3,CL-0275,Cody,Latimer,Cody Latimer,WR,NYG,Concussion,DNP,Out
-26980,5114,2019,4,CL-0275,Cody,Latimer,Cody Latimer,WR,NYG,Concussion,Full,Available
-28856,5168,2019,8,CL-0275,Cody,Latimer,Cody Latimer,WR,NYG,Quadricep,Full,Available
 27399,5127,2019,5,CM-0175,Chris,Manhertz,Chris Manhertz,TE,CAR,Concussion,DNP,Out
-27755,5137,2019,6,CM-0175,Chris,Manhertz,Chris Manhertz,TE,CAR,Concussion,Full,Questionable
-25746,5074,2019,2,CM-1225,Christian,McCaffrey,Christian McCaffrey,RB,CAR,Rest,Full,Available
-27400,5127,2019,5,CM-1225,Christian,McCaffrey,Christian McCaffrey,RB,CAR,Not Injury Related,Full,Available
-27756,5137,2019,6,CM-1225,Christian,McCaffrey,Christian McCaffrey,RB,CAR,Back,Full,Available
-29485,5185,2019,9,CM-1225,Christian,McCaffrey,Christian McCaffrey,RB,CAR,Knee,Full,Available
-29954,5198,2019,10,CM-1225,Christian,McCaffrey,Christian McCaffrey,RB,CAR,Knee,LP,Available
-30299,5207,2019,11,CM-1225,Christian,McCaffrey,Christian McCaffrey,RB,CAR,Foot,Full,Available
-31685,5244,2019,13,CM-1225,Christian,McCaffrey,Christian McCaffrey,RB,CAR,Rest,FP,Available
-32880,5274,2019,15,CM-1225,Christian,McCaffrey,Christian McCaffrey,RB,CAR,Rest,FP,Available
-33291,5284,2019,16,CM-1225,Christian,McCaffrey,Christian McCaffrey,RB,CAR,Rest,FP,Available
 25507,5065,2019,1,CM-1500,Colt,McCoy,Colt McCoy,QB,WAS,Fibula,DNP,Out
 25846,5077,2019,2,CM-1500,Colt,McCoy,Colt McCoy,QB,WAS,Fibula,DNP,Out
 26688,5105,2019,3,CM-1500,Colt,McCoy,Colt McCoy,QB,WAS,Fibula,DNP,Out
-27010,5114,2019,4,CM-1500,Colt,McCoy,Colt McCoy,QB,WAS,Fibula,Full,Available
-29893,5196,2019,10,CM-2675,Chris,Moore,Chris Moore,WR,BAL,Thumb,LP,Questionable
-30428,5211,2019,11,CM-2675,Chris,Moore,Chris Moore,WR,BAL,Thumb,Limited,Questionable
-31274,5233,2019,12,CM-2675,Chris,Moore,Chris Moore,WR,BAL,Thumb,Full,Questionable
 26495,5099,2019,3,CN-0500,Cam,Newton,Cam Newton,QB,CAR,Foot,DNP,Out
 26739,5107,2019,4,CN-0500,Cam,Newton,Cam Newton,QB,CAR,Foot,DNP,Out
 27402,5127,2019,5,CN-0500,Cam,Newton,Cam Newton,QB,CAR,Foot,DNP,Out
@@ -567,13 +347,9 @@
 32881,5274,2019,15,CN-0500,Cam,Newton,Cam Newton,QB,CAR,Foot,,IR
 33292,5284,2019,16,CN-0500,Cam,Newton,Cam Newton,QB,CAR,Foot,,IR
 34218,5305,2019,17,CN-0500,Cam,Newton,Cam Newton,QB,CAR,Foot,,IR
-27125,5118,2019,4,CP-0750,Cordarrelle,Patterson,Cordarrelle Patterson,WR,CHI,Tricep,Full,Available
-32649,5268,2019,15,CP-0750,Cordarrelle,Patterson,Cordarrelle Patterson,WR,CHI,Hamstring,FP,Available
 34596,5313,2019,17,CP-2550,C.J.,Prosise,C.J. Prosise,RB,SEA,Arm,,IR
 34742,5317,2019,18,CP-2550,C.J.,Prosise,C.J. Prosise,RB,SEA,Arm,,IR
 34931,5321,2019,19,CP-2550,C.J.,Prosise,C.J. Prosise,RB,SEA,Arm,,IR
-26962,5113,2019,4,CR-0862,Calvin,Ridley,Calvin Ridley,WR,ATL,Hip,Full,Available
-32013,5252,2019,14,CR-0862,Calvin,Ridley,Calvin Ridley,WR,ATL,Toe,LP,Available
 33091,5278,2019,15,CR-0862,Calvin,Ridley,Calvin Ridley,WR,ATL,Abdomen,,IR
 33507,5288,2019,16,CR-0862,Calvin,Ridley,Calvin Ridley,WR,ATL,Abdomen,,IR
 33931,5298,2019,17,CR-0862,Calvin,Ridley,Calvin Ridley,WR,ATL,Abdomen,,IR
@@ -581,55 +357,22 @@
 33200,5281,2019,15,CR-1525,Chester,Rogers,Chester Rogers,WR,IND,Knee,,IR
 33330,5284,2019,16,CR-1525,Chester,Rogers,Chester Rogers,WR,IND,Knee,,IR
 34095,5302,2019,17,CR-1525,Chester,Rogers,Chester Rogers,WR,IND,Knee,,IR
-27401,5127,2019,5,CS-0050,Curtis,Samuel,Curtis Samuel,WR,CAR,Not Injury Related,Full,Available
-29489,5185,2019,9,CS-0050,Curtis,Samuel,Curtis Samuel,WR,CAR,Shoulder,DNP,Questionable
-29956,5198,2019,10,CS-0050,Curtis,Samuel,Curtis Samuel,WR,CAR,Hamstring,FP,Available
-31683,5244,2019,13,CS-0050,Curtis,Samuel,Curtis Samuel,WR,CAR,Knee,FP,Available
-33290,5284,2019,16,CS-0050,Curtis,Samuel,Curtis Samuel,WR,CAR,Knee,DNP,Questionable
-26315,5094,2019,3,CS-4462,Courtland,Sutton,Courtland Sutton,WR,DEN,Ribs,Full,Available
-28114,5147,2019,6,CS-4462,Courtland,Sutton,Courtland Sutton,WR,DEN,Lower Leg,Full,Available
-32096,5254,2019,14,CS-4462,Courtland,Sutton,Courtland Sutton,WR,DEN,Hamstring,LP,Available
 28526,5158,2019,7,CT-1220,Chris,Thompson,Chris Thompson,RB,WAS,Toe,DNP,Out
 28750,5164,2019,8,CT-1220,Chris,Thompson,Chris Thompson,RB,WAS,Toe,DNP,Out
 29551,5186,2019,9,CT-1220,Chris,Thompson,Chris Thompson,RB,WAS,Toe,DNP,Out
 30581,5214,2019,11,CT-1220,Chris,Thompson,Chris Thompson,RB,WAS,Toe,DNP,Out
-30918,5223,2019,12,CT-1220,Chris,Thompson,Chris Thompson,RB,WAS,Toe,Limited,Questionable
-31720,5244,2019,13,CT-1220,Chris,Thompson,Chris Thompson,RB,WAS,Toe,LP,Questionable
-32323,5259,2019,14,CT-1220,Chris,Thompson,Chris Thompson,RB,WAS,Toe,FP,Available
-26300,5093,2019,3,CU-0150,C.J.,Uzomah,C.J. Uzomah,TE,CIN,Foot,Full,Available
-31550,5240,2019,13,CW-1425,Carson,Wentz,Carson Wentz,QB,PHI,Right Hand,FP,Available
 33122,5279,2019,15,CW-3250,Cedrick,Wilson,Cedrick Wilson,WR,DAL,Knee,,IR
 33814,5295,2019,16,CW-3250,Cedrick,Wilson,Cedrick Wilson,WR,DAL,Knee,,IR
 34438,5310,2019,17,CW-3250,Cedrick,Wilson,Cedrick Wilson,WR,DAL,Knee,,IR
-26341,5094,2019,3,DA-0212,Davante,Adams,Davante Adams,WR,GB,NIR (personal),DNP,Available
 27631,5133,2019,5,DA-0212,Davante,Adams,Davante Adams,WR,GB,Toe,DNP,Out
 28199,5149,2019,6,DA-0212,Davante,Adams,Davante Adams,WR,GB,Toe,DNP,Out
 28474,5157,2019,7,DA-0212,Davante,Adams,Davante Adams,WR,GB,Toe,DNP,Out
-29198,5177,2019,8,DA-0212,Davante,Adams,Davante Adams,WR,GB,Toe,DNP,Doubtful
-29697,5190,2019,9,DA-0212,Davante,Adams,Davante Adams,WR,GB,Toe,Limited,Questionable
-29985,5198,2019,10,DA-0212,Davante,Adams,Davante Adams,WR,GB,Toe,LP,Available
-31195,5231,2019,12,DA-0212,Davante,Adams,Davante Adams,WR,GB,Toe,Limited,Available
-31413,5237,2019,13,DA-0212,Davante,Adams,Davante Adams,WR,GB,Toe,LP,Available
-32304,5259,2019,14,DA-0212,Davante,Adams,Davante Adams,WR,GB,Toe,FP,Available
-32665,5268,2019,15,DA-0212,Davante,Adams,Davante Adams,WR,GB,Toe,LP,Available
-26806,5109,2019,4,DA-0900,Danny,Amendola,Danny Amendola,WR,DET,Chest,Limited,Questionable
-28173,5149,2019,6,DA-0900,Danny,Amendola,Danny Amendola,WR,DET,Chest,Limited,Questionable
-30003,5199,2019,10,DA-0900,Danny,Amendola,Danny Amendola,WR,DET,hand,FP,Available
-30377,5209,2019,11,DA-0900,Danny,Amendola,Danny Amendola,WR,DET,Hand,Full,Available
 26581,5102,2019,3,DB-3800,Drew,Brees,Drew Brees,QB,NO,Right Thumb,DNP,Out
 27170,5119,2019,4,DB-3800,Drew,Brees,Drew Brees,QB,NO,Right Thumb,DNP,Out
 27535,5131,2019,5,DB-3800,Drew,Brees,Drew Brees,QB,NO,Right Thumb,DNP,Out
 27883,5140,2019,6,DB-3800,Drew,Brees,Drew Brees,QB,NO,Right Thumb,DNP,Out
 28628,5161,2019,7,DB-3800,Drew,Brees,Drew Brees,QB,NO,Right Thumb,DNP,Out
-28785,5165,2019,8,DB-3800,Drew,Brees,Drew Brees,QB,NO,Right Thumb,Limited,Questionable
-29885,5195,2019,10,DB-3800,Drew,Brees,Drew Brees,QB,NO,Right Thumb,FP,Available
-33226,5281,2019,15,DB-3800,Drew,Brees,Drew Brees,QB,NO,Right Elbow,FP,Available
-34255,5305,2019,17,DB-3800,Drew,Brees,Drew Brees,QB,NO,Knee,FP,Available
-27505,5130,2019,5,DB-4387,Daniel,Brown,Daniel Brown,TE,NYJ,Ankle,Limited,Questionable
 27016,5115,2019,4,DB-6375,Damiere,Byrd,Damiere Byrd,WR,ARI,Hamstring,DNP,Out
-27235,5122,2019,5,DB-6375,Damiere,Byrd,Damiere Byrd,WR,ARI,Hamstring,DNP,Questionable
-27995,5144,2019,6,DB-6375,Damiere,Byrd,Damiere Byrd,WR,ARI,Hamstring,Limited,Questionable
-25866,5078,2019,2,DC-0025,Deon,Cain,Deon Cain,WR,IND,Heat Related,Full,Available
 25573,5067,2019,1,DC-0375,Dylan,Cantrell,Dylan Cantrell,WR,LAC,Shoulder,,IR
 25937,5080,2019,2,DC-0375,Dylan,Cantrell,Dylan Cantrell,WR,LAC,Shoulder,,IR
 26572,5101,2019,3,DC-0375,Dylan,Cantrell,Dylan Cantrell,WR,LAC,Shoulder,,IR
@@ -646,35 +389,11 @@
 33168,5280,2019,15,DC-0375,Dylan,Cantrell,Dylan Cantrell,WR,LAC,Shoulder,,IR
 33670,5292,2019,16,DC-0375,Dylan,Cantrell,Dylan Cantrell,WR,LAC,Shoulder,,IR
 34161,5303,2019,17,DC-0375,Dylan,Cantrell,Dylan Cantrell,WR,LAC,Shoulder,,IR
-26193,5090,2019,3,DC-1418,D.J.,Chark,D.J. Chark,WR,JAC,Ankle,Full,Available
-29322,5180,2019,9,DC-1418,D.J.,Chark,D.J. Chark,WR,JAC,Quadricep,Limited,Available
-31113,5229,2019,12,DC-1418,D.J.,Chark,D.J. Chark,WR,JAC,Hamstring,Full,Available
-32335,5260,2019,14,DC-1418,D.J.,Chark,D.J. Chark,WR,JAC,Back,FP,Available
 33031,5277,2019,15,DC-1418,D.J.,Chark,D.J. Chark,WR,JAC,Ankle,DNP,Out
-33524,5288,2019,16,DC-1418,D.J.,Chark,D.J. Chark,WR,JAC,Ankle,LP,Questionable
-34115,5302,2019,17,DC-1418,D.J.,Chark,D.J. Chark,WR,JAC,Ankle,LP,Available
-29426,5183,2019,9,DC-3200,Dustin,Colquitt,Dustin Colquitt,K,KC,Left Thigh,Limited,Available
-30024,5200,2019,10,DC-3200,Dustin,Colquitt,Dustin Colquitt,K,KC,Left Thigh,FP,Available
-33878,5296,2019,16,DC-3200,Dustin,Colquitt,Dustin Colquitt,K,KC,Right Knee,FP,Available
-31888,5249,2019,13,DC-3550,Dalvin,Cook,Dalvin Cook,RB,MIN,Chest,FP,Available
-32148,5255,2019,14,DC-3550,Dalvin,Cook,Dalvin Cook,RB,MIN,Chest,FP,Available
-33179,5280,2019,15,DC-3550,Dalvin,Cook,Dalvin Cook,RB,MIN,Chest,FP,Available
 33907,5297,2019,16,DC-3550,Dalvin,Cook,Dalvin Cook,RB,MIN,Chest,DNP,Out
 33982,5299,2019,17,DC-3550,Dalvin,Cook,Dalvin Cook,RB,MIN,Shoulder,LP,Out
-34687,5316,2019,18,DC-3550,Dalvin,Cook,Dalvin Cook,RB,MIN,Shoulder,FP,Available
-34773,5318,2019,19,DC-3550,Dalvin,Cook,Dalvin Cook,RB,MIN,Shoulder,FP,Available
-29261,5179,2019,9,DD-0075,Darrell,Daniels,Darrell Daniels,TE,ARI,Ankle,Full,Available
-32981,5276,2019,15,DD-0075,Darrell,Daniels,Darrell Daniels,TE,ARI,Chest,FP,Available
 34492,5311,2019,17,DD-0075,Darrell,Daniels,Darrell Daniels,TE,ARI,Biceps,DNP,Out
-31469,5238,2019,13,DF-0150,David,Fales,David Fales,QB,NYJ,Right Elbow,FP,Available
-32244,5257,2019,14,DF-0150,David,Fales,David Fales,QB,NYJ,Right Elbow,FP,Available
-32590,5266,2019,15,DF-0150,David,Fales,David Fales,QB,NYJ,Right Elbow,FP,Available
-33716,5293,2019,16,DF-0150,David,Fales,David Fales,QB,NYJ,Right Elbow,FP,Available
-33447,5287,2019,16,DF-0550,Darren,Fells,Darren Fells,TE,HOU,Hand,FP,Available
-34839,5320,2019,19,DF-0550,Darren,Fells,Darren Fells,TE,HOU,Hip,LP,Questionable
-25867,5078,2019,2,DF-1225,David,Fluellen,David Fluellen,RB,TEN,Hamstring,Limited,Questionable
 26209,5090,2019,3,DF-1225,David,Fluellen,David Fluellen,RB,TEN,Hamstring,DNP,Out
-26967,5113,2019,4,DF-1225,David,Fluellen,David Fluellen,RB,TEN,Hamstring,Full,Available
 27357,5125,2019,5,DF-1225,David,Fluellen,David Fluellen,RB,TEN,Knee,DNP,IR
 28129,5147,2019,6,DF-1225,David,Fluellen,David Fluellen,RB,TEN,Knee,,IR
 28562,5159,2019,7,DF-1225,David,Fluellen,David Fluellen,RB,TEN,Knee,,IR
@@ -718,9 +437,6 @@
 34089,5302,2019,17,DF-1478,Daurice,Fountain,Daurice Fountain,WR,IND,Ankle,,IR
 30289,5207,2019,11,DF-1875,Devonta,Freeman,Devonta Freeman,RB,ATL,Foot,DNP,Out
 31082,5228,2019,12,DF-1875,Devonta,Freeman,Devonta Freeman,RB,ATL,Foot,DNP,Out
-31381,5236,2019,13,DF-1875,Devonta,Freeman,Devonta Freeman,RB,ATL,Foot,,Available
-33088,5278,2019,15,DF-1875,Devonta,Freeman,Devonta Freeman,RB,ATL,Knee,FP,Available
-25556,5067,2019,1,DF-2200,Devin,Funchess,Devin Funchess,WR,IND,Back,Full,Available
 25865,5078,2019,2,DF-2200,Devin,Funchess,Devin Funchess,WR,IND,Collarbone,,IR
 26248,5091,2019,3,DF-2200,Devin,Funchess,Devin Funchess,WR,IND,Collarbone,,IR
 26923,5112,2019,4,DF-2200,Devin,Funchess,Devin Funchess,WR,IND,Collarbone,,IR
@@ -736,7 +452,6 @@
 33197,5281,2019,15,DF-2200,Devin,Funchess,Devin Funchess,WR,IND,Collarbone,,IR
 33327,5284,2019,16,DF-2200,Devin,Funchess,Devin Funchess,WR,IND,Collarbone,,IR
 34090,5302,2019,17,DF-2200,Devin,Funchess,Devin Funchess,WR,IND,Collarbone,,IR
-26729,5106,2019,4,DG-1287,Dallas,Goedert,Dallas Goedert,TE,PHI,Calf,Full,Available
 25447,5062,2019,1,DG-2493,Davon,Grayson,Davon Grayson,WR,KC,Knee,,IR
 26068,5085,2019,2,DG-2493,Davon,Grayson,Davon Grayson,WR,KC,Knee,,IR
 26278,5092,2019,3,DG-2493,Davon,Grayson,Davon Grayson,WR,KC,Knee,,IR
@@ -752,55 +467,21 @@
 32870,5273,2019,15,DG-3200,Derrius,Guice,Derrius Guice,RB,WAS,Knee - MCL,,IR
 33650,5291,2019,16,DG-3200,Derrius,Guice,Derrius Guice,RB,WAS,Knee - MCL,,IR
 34473,5310,2019,17,DG-3200,Derrius,Guice,Derrius Guice,RB,WAS,Knee - MCL,,IR
-30406,5210,2019,11,DH-1050,DaeSean,Hamilton,DaeSean Hamilton,WR,DEN,Knee,Limited,Questionable
-30672,5217,2019,11,DH-1362,Damien,Harris,Damien Harris,RB,NE,Hamstring,Limited,Questionable
-31161,5230,2019,12,DH-1362,Damien,Harris,Damien Harris,RB,NE,Hamstring,Limited,Questionable
-31765,5246,2019,13,DH-1450,Demetrius,Harris,Demetrius Harris,TE,CLE,Neck,FP,Available
-32075,5253,2019,14,DH-1450,Demetrius,Harris,Demetrius Harris,TE,CLE,Shoulder,LP,Questionable
-33010,5276,2019,15,DH-1450,Demetrius,Harris,Demetrius Harris,TE,CLE,Shoulder,FP,Available
 30510,5213,2019,11,DH-1487,Deonte,Harris,Deonte Harris,WR,NO,Hamstring,DNP,Out
 30840,5221,2019,12,DH-1487,Deonte,Harris,Deonte Harris,WR,NO,Hamstring,DNP,Out
-31392,5236,2019,13,DH-1487,Deonte,Harris,Deonte Harris,WR,NO,Hamstring,LP,Questionable
 26469,5098,2019,3,DH-1800,Dwayne,Harris,Dwayne Harris,WR,OAK,Ankle,DNP,Out
 26930,5112,2019,4,DH-1800,Dwayne,Harris,Dwayne Harris,WR,OAK,Ankle,DNP,Out
-27381,5126,2019,5,DH-1800,Dwayne,Harris,Dwayne Harris,WR,OAK,Ankle,Limited,Questionable
-28478,5157,2019,7,DH-1800,Dwayne,Harris,Dwayne Harris,WR,OAK,Ankle,Limited,Questionable
-28948,5170,2019,8,DH-1800,Dwayne,Harris,Dwayne Harris,WR,OAK,Ankle,Full,Available
-29577,5187,2019,9,DH-1800,Dwayne,Harris,Dwayne Harris,WR,OAK,Foot,DNP,Questionable
-29806,5193,2019,10,DH-1800,Dwayne,Harris,Dwayne Harris,WR,OAK,Foot,LP,Questionable
-30651,5216,2019,11,DH-1800,Dwayne,Harris,Dwayne Harris,WR,OAK,Foot,DNP,Questionable
 31014,5226,2019,12,DH-1800,Dwayne,Harris,Dwayne Harris,WR,OAK,Foot,,IR
 31503,5239,2019,13,DH-1800,Dwayne,Harris,Dwayne Harris,WR,OAK,Foot,,IR
 32455,5263,2019,14,DH-1800,Dwayne,Harris,Dwayne Harris,WR,OAK,Foot,,IR
 33058,5277,2019,15,DH-1800,Dwayne,Harris,Dwayne Harris,WR,OAK,Foot,,IR
 33680,5292,2019,16,DH-1800,Dwayne,Harris,Dwayne Harris,WR,OAK,Foot,,IR
 34554,5312,2019,17,DH-1800,Dwayne,Harris,Dwayne Harris,WR,OAK,Foot,,IR
-31709,5244,2019,13,DH-1912,Dwayne,Haskins,Dwayne Haskins,QB,WAS,Right Hand,FP,Available
-32869,5273,2019,15,DH-1912,Dwayne,Haskins,Dwayne Haskins,QB,WAS,Ankle,FP,Available
 34474,5310,2019,17,DH-1912,Dwayne,Haskins,Dwayne Haskins,QB,WAS,Ankle,DNP,Out
-34511,5311,2019,17,DH-2325,Darrell,Henderson,Darrell Henderson,RB,LA,Ankle,DNP,Out
 34512,5311,2019,17,DH-2325,Darrell,Henderson,Darrell Henderson,RB,LA,Ankle,,IR
-31668,5243,2019,13,DH-2450,Derrick,Henry,Derrick Henry,RB,TEN,Hamstring,FP,Available
-32471,5263,2019,14,DH-2450,Derrick,Henry,Derrick Henry,RB,TEN,Hamstring,FP,Available
-32749,5270,2019,15,DH-2450,Derrick,Henry,Derrick Henry,RB,TEN,Hamstring,DNP,Questionable
-33605,5290,2019,16,DH-2450,Derrick,Henry,Derrick Henry,RB,TEN,Hamstring,FP,Available
-34418,5309,2019,17,DH-2450,Derrick,Henry,Derrick Henry,RB,TEN,Hamstring,FP,Available
+34511,5311,2019,17,DH-2325,Darrell,Henderson,Darrell Henderson,RB,LA,Ankle,DNP,Out
 26160,5089,2019,2,DH-3137,Dontrell,Hilliard,Dontrell Hilliard,RB,CLE,Concussion,DNP,Out
-26653,5104,2019,3,DH-3137,Dontrell,Hilliard,Dontrell Hilliard,RB,CLE,Concussion,Full,Available
-31766,5246,2019,13,DH-3137,Dontrell,Hilliard,Dontrell Hilliard,RB,CLE,Knee,FP,Available
-32074,5253,2019,14,DH-3137,Dontrell,Hilliard,Dontrell Hilliard,RB,CLE,Knee,FP,Available
-33011,5276,2019,15,DH-3137,Dontrell,Hilliard,Dontrell Hilliard,RB,CLE,Knee,FP,Available
-33257,5282,2019,16,DH-3137,Dontrell,Hilliard,Dontrell Hilliard,RB,CLE,Neck,LP,Questionable
 34023,5300,2019,17,DH-3137,Dontrell,Hilliard,Dontrell Hilliard,RB,CLE,Knee,,IR
-25881,5079,2019,2,DH-3950,DeAndre,Hopkins,DeAndre Hopkins,WR,HOU,Ribs,Limited,Available
-26547,5101,2019,3,DH-3950,DeAndre,Hopkins,DeAndre Hopkins,WR,HOU,Ribs,Full,Available
-26753,5107,2019,4,DH-3950,DeAndre,Hopkins,DeAndre Hopkins,WR,HOU,Not Injury Related,Full,Available
-27297,5123,2019,5,DH-3950,DeAndre,Hopkins,DeAndre Hopkins,WR,HOU,Not Injury Related,Full,Available
-27830,5139,2019,6,DH-3950,DeAndre,Hopkins,DeAndre Hopkins,WR,HOU,Not Injury Related,Limited,Available
-28291,5152,2019,7,DH-3950,DeAndre,Hopkins,DeAndre Hopkins,WR,HOU,Ribs,Full,Available
-29302,5180,2019,9,DH-3950,DeAndre,Hopkins,DeAndre Hopkins,WR,HOU,Thumb,Full,Available
-33444,5287,2019,16,DH-3950,DeAndre,Hopkins,DeAndre Hopkins,WR,HOU,Illness,FP,Available
-34390,5309,2019,17,DH-3950,DeAndre,Hopkins,DeAndre Hopkins,WR,HOU,Illness,DNP,Questionable
 27586,5132,2019,5,DI-0075,Dontrelle,Inman,Dontrelle Inman,WR,LAC,Quadriceps,,IR
 28148,5148,2019,6,DI-0075,Dontrelle,Inman,Dontrelle Inman,WR,LAC,Quadriceps,,IR
 28546,5159,2019,7,DI-0075,Dontrelle,Inman,Dontrelle Inman,WR,LAC,Quadriceps,,IR
@@ -813,7 +494,6 @@
 27909,5141,2019,6,DJ-0200,DeSean,Jackson,DeSean Jackson,WR,PHI,Abdomen,DNP,Out
 28659,5162,2019,7,DJ-0200,DeSean,Jackson,DeSean Jackson,WR,PHI,Abdomen,DNP,Out
 28982,5171,2019,8,DJ-0200,DeSean,Jackson,DeSean Jackson,WR,PHI,Abdomen,DNP,Out
-29364,5181,2019,9,DJ-0200,DeSean,Jackson,DeSean Jackson,WR,PHI,Abdomen,Limited,Questionable
 30694,5217,2019,11,DJ-0200,DeSean,Jackson,DeSean Jackson,WR,PHI,Abdomen,,IR
 31233,5232,2019,12,DJ-0200,DeSean,Jackson,DeSean Jackson,WR,PHI,Abdomen,,IR
 31547,5240,2019,13,DJ-0200,DeSean,Jackson,DeSean Jackson,WR,PHI,Abdomen,,IR
@@ -822,20 +502,8 @@
 33843,5295,2019,16,DJ-0200,DeSean,Jackson,DeSean Jackson,WR,PHI,Abdomen,,IR
 34338,5307,2019,17,DJ-0200,DeSean,Jackson,DeSean Jackson,WR,PHI,Abdomen,,IR
 34736,5317,2019,18,DJ-0200,DeSean,Jackson,DeSean Jackson,WR,PHI,Abdomen,,IR
-26483,5099,2019,3,DJ-1325,David,Johnson,David Johnson,RB,ARI,Wrist,Full,Available
-27997,5144,2019,6,DJ-1325,David,Johnson,David Johnson,RB,ARI,Back,Limited,Questionable
-28256,5151,2019,7,DJ-1325,David,Johnson,David Johnson,RB,ARI,Ankle,Limited,Questionable
-28757,5165,2019,8,DJ-1325,David,Johnson,David Johnson,RB,ARI,Ankle,DNP,Questionable
-29264,5179,2019,9,DJ-1325,David,Johnson,David Johnson,RB,ARI,Ankle,Limited,Questionable
-29827,5194,2019,10,DJ-1325,David,Johnson,David Johnson,RB,ARI,Ankle,FP,Available
-31048,5227,2019,12,DJ-1675,Diontae,Johnson,Diontae Johnson,WR,PIT,Concussion,Full,Available
-32437,5262,2019,14,DJ-1675,Diontae,Johnson,Diontae Johnson,WR,PIT,Illness,FP,Available
 32526,5265,2019,14,DJ-2275,Daniel,Jones,Daniel Jones,QB,NYG,Ankle,DNP,Out
 32789,5271,2019,15,DJ-2275,Daniel,Jones,Daniel Jones,QB,NYG,Ankle,LP,Out
-33621,5291,2019,16,DJ-2275,Daniel,Jones,Daniel Jones,QB,NYG,Ankle,FP,Available
-30321,5208,2019,11,DK-0950,Dawson,Knox,Dawson Knox,TE,BUF,Knee,Full,Available
-33602,5290,2019,16,DL-1700,Dion,Lewis,Dion Lewis,RB,TEN,Ankle,FP,Available
-34828,5319,2019,19,DL-1700,Dion,Lewis,Dion Lewis,RB,TEN,Shoulder,FP,Available
 25727,5073,2019,1,DL-1787,Drew,Lock,Drew Lock,QB,DEN,Thumb,,IR
 26110,5086,2019,2,DL-1787,Drew,Lock,Drew Lock,QB,DEN,Thumb,,IR
 26320,5094,2019,3,DL-1787,Drew,Lock,Drew Lock,QB,DEN,Thumb,,IR
@@ -847,7 +515,6 @@
 29660,5189,2019,9,DL-1787,Drew,Lock,Drew Lock,QB,DEN,Thumb,,IR
 30405,5210,2019,11,DL-1787,Drew,Lock,Drew Lock,QB,DEN,Thumb,,IR
 30873,5222,2019,12,DL-1787,Drew,Lock,Drew Lock,QB,DEN,Thumb,,IR
-33401,5286,2019,16,DL-1787,Drew,Lock,Drew Lock,QB,DEN,Illness,FP,Available
 25423,5062,2019,1,DM-0675,Devante,Mays,Devante Mays,RB,JAC,Ankle,,IR
 25901,5079,2019,2,DM-0675,Devante,Mays,Devante Mays,RB,JAC,Ankle,,IR
 26184,5090,2019,3,DM-0675,Devante,Mays,Devante Mays,RB,JAC,Ankle,,IR
@@ -864,11 +531,6 @@
 33032,5277,2019,15,DM-0675,Devante,Mays,Devante Mays,RB,JAC,Ankle,,IR
 33525,5288,2019,16,DM-0675,Devante,Mays,Devante Mays,RB,JAC,Ankle,,IR
 34110,5302,2019,17,DM-0675,Devante,Mays,Devante Mays,RB,JAC,Ankle,,IR
-25539,5066,2019,1,DM-2275,D.K.,Metcalf,D.K. Metcalf,WR,SEA,Knee,Full,Available
-26614,5102,2019,3,DM-2275,D.K.,Metcalf,D.K. Metcalf,WR,SEA,NIR,,Available
-27045,5115,2019,4,DM-2275,D.K.,Metcalf,D.K. Metcalf,WR,SEA,Not Injury Related,Limited,Available
-31916,5249,2019,13,DM-2275,D.K.,Metcalf,D.K. Metcalf,WR,SEA,Knee,FP,Available
-34929,5321,2019,19,DM-2275,D.K.,Metcalf,D.K. Metcalf,WR,SEA,NIR,FP,Available
 25471,5064,2019,1,DM-2781,D.J.,Montgomery,D.J. Montgomery,WR,CLE,Hamstring,,IR
 26161,5089,2019,2,DM-2781,D.J.,Montgomery,D.J. Montgomery,WR,CLE,Hamstring,,IR
 26657,5104,2019,3,DM-2781,D.J.,Montgomery,D.J. Montgomery,WR,CLE,Hamstring,,IR
@@ -885,13 +547,9 @@
 33014,5276,2019,15,DM-2781,D.J.,Montgomery,D.J. Montgomery,WR,CLE,Hamstring,,IR
 33258,5282,2019,16,DM-2781,D.J.,Montgomery,D.J. Montgomery,WR,CLE,Hamstring,,IR
 34022,5300,2019,17,DM-2781,D.J.,Montgomery,D.J. Montgomery,WR,CLE,Hamstring,,IR
-30705,5218,2019,11,DM-2787,David,Montgomery,David Montgomery,RB,CHI,Ankle,Limited,Questionable
-31679,5244,2019,13,DM-2850,D.J.,Moore,D.J. Moore,WR,CAR,Ankle/Not injury related,FP,Available
 34226,5305,2019,17,DM-2850,D.J.,Moore,D.J. Moore,WR,CAR,Concussion,DNP,Out
 25540,5066,2019,1,DM-3050,David,Moore,David Moore,WR,SEA,Shoulder,DNP,Out
 26052,5084,2019,2,DM-3050,David,Moore,David Moore,WR,SEA,Shoulder,Limited,Out
-26615,5102,2019,3,DM-3050,David,Moore,David Moore,WR,SEA,Shoulder,Full,Available
-31917,5249,2019,13,DM-3050,David,Moore,David Moore,WR,SEA,Illness,DNP,Available
 26656,5104,2019,3,DN-1225,David,Njoku,David Njoku,TE,CLE,Wrist,DNP,IR
 26793,5108,2019,4,DN-1225,David,Njoku,David Njoku,TE,CLE,Wrist,,IR
 27688,5135,2019,5,DN-1225,David,Njoku,David Njoku,TE,CLE,Wrist,,IR
@@ -903,21 +561,8 @@
 30930,5224,2019,12,DN-1225,David,Njoku,David Njoku,TE,CLE,Wrist,,IR
 31763,5246,2019,13,DN-1225,David,Njoku,David Njoku,TE,CLE,Wrist,,IR
 32078,5253,2019,14,DN-1225,David,Njoku,David Njoku,TE,CLE,Wrist,,IR
-33015,5276,2019,15,DN-1225,David,Njoku,David Njoku,TE,CLE,Knee,FP,Available
-30333,5208,2019,11,DP-0350,DeVante,Parker,DeVante Parker,WR,MIA,Calf,Full,Available
-32763,5271,2019,15,DP-0350,DeVante,Parker,DeVante Parker,WR,MIA,Concussion,LP,Available
-33359,5285,2019,16,DP-0350,DeVante,Parker,DeVante Parker,WR,MIA,Hip,FP,Available
-25642,5070,2019,1,DP-1263,Dante,Pettis,Dante Pettis,WR,SF,Groin,Full,Available
-29089,5174,2019,8,DP-1263,Dante,Pettis,Dante Pettis,WR,SF,Knee,Full,Available
-30615,5215,2019,11,DP-1263,Dante,Pettis,Dante Pettis,WR,SF,Back,Limited,Questionable
 31578,5241,2019,13,DP-1263,Dante,Pettis,Dante Pettis,WR,SF,Knee,DNP,Out
-32270,5258,2019,14,DP-1263,Dante,Pettis,Dante Pettis,WR,SF,Knee,LP,Questionable
-33099,5278,2019,15,DP-1263,Dante,Pettis,Dante Pettis,WR,SF,Knee,FP,Available
-33128,5279,2019,15,DP-2037,Dak,Prescott,Dak Prescott,QB,DAL,Rt. Hand/Lt. Hand,FP,Available
-33817,5295,2019,16,DP-2037,Dak,Prescott,Dak Prescott,QB,DAL,Right Shoulder,LP,Available
-34433,5310,2019,17,DP-2037,Dak,Prescott,Dak Prescott,QB,DAL,Right Shoulder,DNP,Available
 25327,5058,2019,1,DR-0575,Dax,Raymond,Dax Raymond,TE,CHI,Head,,IR
-26281,5092,2019,3,DR-2225,Demarcus,Robinson,Demarcus Robinson,WR,KC,Elb,Full,Available
 30637,5216,2019,11,DS-0050,Drew,Sample,Drew Sample,TE,CIN,Ankle,DNP,Out
 31027,5227,2019,12,DS-0050,Drew,Sample,Drew Sample,TE,CIN,Ankle,DNP,Out
 31431,5238,2019,13,DS-0050,Drew,Sample,Drew Sample,TE,CIN,Ankle,DNP,Out
@@ -926,34 +571,13 @@
 33342,5285,2019,16,DS-0050,Drew,Sample,Drew Sample,TE,CIN,Ankle,,IR
 33992,5300,2019,17,DS-0050,Drew,Sample,Drew Sample,TE,CIN,Ankle,,IR
 28497,5158,2019,7,DS-0150,Deebo,Samuel,Deebo Samuel,WR,SF,Groin,DNP,Out
-29088,5174,2019,8,DS-0150,Deebo,Samuel,Deebo Samuel,WR,SF,Groin,Full,Available
-31211,5231,2019,12,DS-0150,Deebo,Samuel,Deebo Samuel,WR,SF,Shoulder,Limited,Questionable
-31581,5241,2019,13,DS-0150,Deebo,Samuel,Deebo Samuel,WR,SF,Shoulder,LP,Available
-32269,5258,2019,14,DS-0150,Deebo,Samuel,Deebo Samuel,WR,SF,Shoulder,FP,Available
-34602,5313,2019,17,DS-0150,Deebo,Samuel,Deebo Samuel,WR,SF,Shoulder,LP,Available
-25604,5069,2019,1,DS-0850,Dalton,Schultz,Dalton Schultz,TE,DAL,Ankle,Full,Available
-26373,5096,2019,3,DS-0850,Dalton,Schultz,Dalton Schultz,TE,DAL,Foot,Full,Available
 25351,5058,2019,1,DS-1862,Darrius,Shepherd,Darrius Shepherd,WR,GB,Hamstring,DNP,Out
 25957,5081,2019,2,DS-1862,Darrius,Shepherd,Darrius Shepherd,WR,GB,Hamstring,Limited,Out
-26351,5094,2019,3,DS-1862,Darrius,Shepherd,Darrius Shepherd,WR,GB,Hamstring,Limited,Questionable
-26709,5106,2019,4,DS-1862,Darrius,Shepherd,Darrius Shepherd,WR,GB,Hamstring,Full,Available
-28201,5149,2019,6,DS-1862,Darrius,Shepherd,Darrius Shepherd,WR,GB,Shoulder,Full,Available
 26293,5093,2019,3,DS-2177,Devin,Singletary,Devin Singletary,RB,BUF,Hamstring,DNP,Out
-26883,5111,2019,4,DS-2177,Devin,Singletary,Devin Singletary,RB,BUF,Hamstring,Limited,Questionable
-27348,5125,2019,5,DS-2177,Devin,Singletary,Devin Singletary,RB,BUF,Hamstring,Limited,Questionable
-28408,5155,2019,7,DS-2177,Devin,Singletary,Devin Singletary,RB,BUF,Hamstring,Full,Available
-25625,5069,2019,1,DS-2275,Darius,Slayton,Darius Slayton,WR,NYG,Hamstring,DNP,Available
 25800,5076,2019,2,DS-2275,Darius,Slayton,Darius Slayton,WR,NYG,Hamstring,DNP,Out
-26511,5100,2019,3,DS-2275,Darius,Slayton,Darius Slayton,WR,NYG,Hamstring,Full,Available
-34310,5307,2019,17,DS-2275,Darius,Slayton,Darius Slayton,WR,NYG,Knee,FP,Available
-33815,5295,2019,16,DS-3031,Devin,Smith,Devin Smith,WR,DAL,Knee,LP,Questionable
-34432,5310,2019,17,DS-3031,Devin,Smith,Devin Smith,WR,DAL,Knee,LP,Available
-30334,5208,2019,11,DS-3137,Durham,Smythe,Durham Smythe,TE,MIA,Knee,Full,Available
-34173,5304,2019,17,DS-3137,Durham,Smythe,Durham Smythe,TE,MIA,Quadricep,FP,Available
 27915,5141,2019,6,DS-3300,Darren,Sproles,Darren Sproles,RB,PHI,Quadricep,DNP,Out
 28658,5162,2019,7,DS-3300,Darren,Sproles,Darren Sproles,RB,PHI,Quadricep,DNP,Out
 28983,5171,2019,8,DS-3300,Darren,Sproles,Darren Sproles,RB,PHI,Quadricep,DNP,Out
-29365,5181,2019,9,DS-3300,Darren,Sproles,Darren Sproles,RB,PHI,Quadricep,Full,Available
 30693,5217,2019,11,DS-3300,Darren,Sproles,Darren Sproles,RB,PHI,Hip,DNP,IR
 31232,5232,2019,12,DS-3300,Darren,Sproles,Darren Sproles,RB,PHI,Hip,,IR
 31548,5240,2019,13,DS-3300,Darren,Sproles,Darren Sproles,RB,PHI,Hip,,IR
@@ -962,7 +586,6 @@
 33845,5295,2019,16,DS-3300,Darren,Sproles,Darren Sproles,RB,PHI,Hip,,IR
 34342,5307,2019,17,DS-3300,Darren,Sproles,Darren Sproles,RB,PHI,Hip,,IR
 34734,5317,2019,18,DS-3300,Darren,Sproles,Darren Sproles,RB,PHI,Hip,,IR
-26159,5089,2019,2,DS-3800,Drew,Stanton,Drew Stanton,QB,CLE,Knee,Full,Questionable
 26659,5104,2019,3,DS-3800,Drew,Stanton,Drew Stanton,QB,CLE,Knee,,IR
 26795,5108,2019,4,DS-3800,Drew,Stanton,Drew Stanton,QB,CLE,Knee,,IR
 27689,5135,2019,5,DS-3800,Drew,Stanton,Drew Stanton,QB,CLE,Knee,,IR
@@ -977,39 +600,9 @@
 33013,5276,2019,15,DS-3800,Drew,Stanton,Drew Stanton,QB,CLE,Knee,,IR
 33259,5282,2019,16,DS-3800,Drew,Stanton,Drew Stanton,QB,CLE,Knee,,IR
 34024,5300,2019,17,DS-3800,Drew,Stanton,Drew Stanton,QB,CLE,Knee,,IR
-25676,5071,2019,1,DT-0900,Demaryius,Thomas,Demaryius Thomas,WR,NE,Hamstring,Limited,Questionable
-26182,5089,2019,2,DT-0900,Demaryius,Thomas,Demaryius Thomas,WR,NYJ,Hamstring,DNP,Questionable
-26443,5097,2019,3,DT-0900,Demaryius,Thomas,Demaryius Thomas,WR,NYJ,Hamstring/Knee,DNP,Doubtful
-27500,5130,2019,5,DT-0900,Demaryius,Thomas,Demaryius Thomas,WR,NYJ,Hamstring,Limited,Questionable
-28102,5146,2019,6,DT-0900,Demaryius,Thomas,Demaryius Thomas,WR,NYJ,Hamstring,Limited,Questionable
-28703,5163,2019,7,DT-0900,Demaryius,Thomas,Demaryius Thomas,WR,NYJ,Hamstring,Limited,Questionable
-28902,5169,2019,8,DT-0900,Demaryius,Thomas,Demaryius Thomas,WR,NYJ,Hamstring,Full,Available
-29469,5184,2019,9,DT-0900,Demaryius,Thomas,Demaryius Thomas,WR,NYJ,Hamstring,Limited,Questionable
-30085,5201,2019,10,DT-0900,Demaryius,Thomas,Demaryius Thomas,WR,NYJ,Hamstring,LP,Questionable
-30553,5214,2019,11,DT-0900,Demaryius,Thomas,Demaryius Thomas,WR,NYJ,Knee,Limited,Questionable
-30995,5226,2019,12,DT-0900,Demaryius,Thomas,Demaryius Thomas,WR,NYJ,Hamstring,Limited,Questionable
-31464,5238,2019,13,DT-0900,Demaryius,Thomas,Demaryius Thomas,WR,NYJ,Hamstring,LP,Questionable
-32245,5257,2019,14,DT-0900,Demaryius,Thomas,Demaryius Thomas,WR,NYJ,Hamstring,LP,Questionable
-32589,5266,2019,15,DT-0900,Demaryius,Thomas,Demaryius Thomas,WR,NYJ,Hamstring/Knee,DNP,Doubtful
-33715,5293,2019,16,DT-0900,Demaryius,Thomas,Demaryius Thomas,WR,NYJ,Hamstring/Knee,DNP,Doubtful
-34295,5306,2019,17,DT-0900,Demaryius,Thomas,Demaryius Thomas,WR,NYJ,Hamstring/Knee,LP,Questionable
-25352,5058,2019,1,DV-0550,Dan,Vitale,Dan Vitale,RB,GB,Calf,Full,Available
-29688,5190,2019,9,DV-0550,Dan,Vitale,Dan Vitale,RB,GB,Knee,Limited,Available
-31200,5231,2019,12,DV-0550,Dan,Vitale,Dan Vitale,RB,GB,Knee,Limited,Questionable
-31409,5237,2019,13,DV-0550,Dan,Vitale,Dan Vitale,RB,GB,Knee,FP,Available
-32660,5268,2019,15,DV-0550,Dan,Vitale,Dan Vitale,RB,GB,Calf,FP,Available
-34066,5301,2019,17,DV-0550,Dan,Vitale,Dan Vitale,RB,GB,Knee,DNP,Doubtful
-34894,5321,2019,19,DV-0550,Dan,Vitale,Dan Vitale,RB,GB,Knee/Illness,DNP,Questionable
-34983,5323,2019,20,DV-0550,Dan,Vitale,Dan Vitale,RB,GB,Knee,LP,Questionable
-25870,5078,2019,2,DW-0500,Delanie,Walker,Delanie Walker,TE,TEN,Not Injury Related,Full,Available
-26970,5113,2019,4,DW-0500,Delanie,Walker,Delanie Walker,TE,TEN,Knee,Full,Available
-27361,5125,2019,5,DW-0500,Delanie,Walker,Delanie Walker,TE,TEN,Knee,Full,Available
-28126,5147,2019,6,DW-0500,Delanie,Walker,Delanie Walker,TE,TEN,Knee,Full,Available
-28559,5159,2019,7,DW-0500,Delanie,Walker,Delanie Walker,TE,TEN,Ankle,DNP,Questionable
 29053,5173,2019,8,DW-0500,Delanie,Walker,Delanie Walker,TE,TEN,Ankle,DNP,Out
 29515,5185,2019,9,DW-0500,Delanie,Walker,Delanie Walker,TE,TEN,Ankle,DNP,Out
 30035,5200,2019,10,DW-0500,Delanie,Walker,Delanie Walker,TE,TEN,Ankle,DNP,Out
-31133,5229,2019,12,DW-0500,Delanie,Walker,Delanie Walker,TE,TEN,Ankle,Limited,Doubtful
 31667,5243,2019,13,DW-0500,Delanie,Walker,Delanie Walker,TE,TEN,Ankle,,IR
 32469,5263,2019,14,DW-0500,Delanie,Walker,Delanie Walker,TE,TEN,Ankle,,IR
 32750,5270,2019,15,DW-0500,Delanie,Walker,Delanie Walker,TE,TEN,Ankle,,IR
@@ -1018,15 +611,6 @@
 34677,5315,2019,18,DW-0500,Delanie,Walker,Delanie Walker,TE,TEN,Ankle,,IR
 34827,5319,2019,19,DW-0500,Delanie,Walker,Delanie Walker,TE,TEN,Ankle,,IR
 34968,5322,2019,20,DW-0500,Delanie,Walker,Delanie Walker,TE,TEN,Ankle,,IR
-28487,5157,2019,7,DW-0675,Darren,Waller,Darren Waller,TE,OAK,Foot,Full,Available
-27389,5126,2019,5,DW-1350,DeAndre,Washington,DeAndre Washington,RB,OAK,Ankle,Full,Available
-25710,5072,2019,1,DW-1550,Dwayne,Washington,Dwayne Washington,RB,NO,Ankle/Concussion,Full,Available
-34708,5316,2019,18,DW-1550,Dwayne,Washington,Dwayne Washington,RB,NO,Ankle/Concussion,FP,Available
-25879,5079,2019,2,DW-1725,Deshaun,Watson,Deshaun Watson,QB,HOU,Back,Full,Available
-29305,5180,2019,9,DW-1725,Deshaun,Watson,Deshaun Watson,QB,HOU,Eye,Full,Available
-30771,5220,2019,12,DW-1725,Deshaun,Watson,Deshaun Watson,QB,HOU,Ankle,Full,Available
-34389,5309,2019,17,DW-1725,Deshaun,Watson,Deshaun Watson,QB,HOU,Back,LP,Questionable
-28835,5167,2019,8,DW-1750,Derek,Watt,Derek Watt,RB,LAC,Knee,Full,Questionable
 25444,5062,2019,1,DW-2075,David,Wells,David Wells,TE,KC,Undisclosed,,IR
 26069,5085,2019,2,DW-2075,David,Wells,David Wells,TE,KC,Undisclosed,,IR
 26282,5092,2019,3,DW-2075,David,Wells,David Wells,TE,KC,Undisclosed,,IR
@@ -1046,26 +630,10 @@
 34871,5320,2019,19,DW-2075,David,Wells,David Wells,TE,KC,Undisclosed,,IR
 34951,5322,2019,20,DW-2075,David,Wells,David Wells,TE,KC,Undisclosed,,IR
 35023,5324,2019,21,DW-2075,David,Wells,David Wells,TE,KC,Undisclosed,,IR
-27104,5117,2019,4,DW-2275,Dede,Westbrook,Dede Westbrook,WR,JAC,Not Injury Related,Full,Available
-28351,5153,2019,7,DW-2275,Dede,Westbrook,Dede Westbrook,WR,JAC,Shoulder,Limited,Questionable
-28879,5169,2019,8,DW-2275,Dede,Westbrook,Dede Westbrook,WR,JAC,Shoulder,Limited,Questionable
-29329,5180,2019,9,DW-2275,Dede,Westbrook,Dede Westbrook,WR,JAC,Neck,Limited,Questionable
-30490,5212,2019,11,DW-2275,Dede,Westbrook,Dede Westbrook,WR,JAC,Neck,Full,Available
-31105,5229,2019,12,DW-2275,Dede,Westbrook,Dede Westbrook,WR,JAC,Illness,Full,Available
-32338,5260,2019,14,DW-2275,Dede,Westbrook,Dede Westbrook,WR,JAC,Personal,LP,Available
-33028,5277,2019,15,DW-2275,Dede,Westbrook,Dede Westbrook,WR,JAC,Shoulder,FP,Available
-33518,5288,2019,16,DW-2275,Dede,Westbrook,Dede Westbrook,WR,JAC,Neck / Shoulder,FP,Available
-34109,5302,2019,17,DW-2275,Dede,Westbrook,Dede Westbrook,WR,JAC,Neck / Shoulder,DNP,Questionable
-28968,5171,2019,8,DW-2850,D'haquille,Williams,D'haquille Williams,WR,BUF,Shoulder,Limited,Questionable
 26283,5092,2019,3,DW-3125,Damien,Williams,Damien Williams,RB,KC,Knee,DNP,Out
 26819,5109,2019,4,DW-3125,Damien,Williams,Damien Williams,RB,KC,Knee,DNP,Out
-27665,5134,2019,5,DW-3125,Damien,Williams,Damien Williams,RB,KC,Knee,Full,Questionable
-30735,5219,2019,11,DW-3125,Damien,Williams,Damien Williams,RB,KC,Not Injury Related,DNP,Questionable
 31493,5239,2019,13,DW-3125,Damien,Williams,Damien Williams,RB,KC,Rib,DNP,Out
 32384,5261,2019,14,DW-3125,Damien,Williams,Damien Williams,RB,KC,Rib,DNP,Out
-32712,5269,2019,15,DW-3125,Damien,Williams,Damien Williams,RB,KC,Rib,DNP,Questionable
-33880,5296,2019,16,DW-3125,Damien,Williams,Damien Williams,RB,KC,Rib,FP,Available
-25445,5062,2019,1,DW-3243,Darrel,Williams,Darrel Williams,RB,KC,Shoulder,Full,Available
 32386,5261,2019,14,DW-3243,Darrel,Williams,Darrel Williams,RB,KC,Hamstring,,IR
 32713,5269,2019,15,DW-3243,Darrel,Williams,Darrel Williams,RB,KC,Hamstring,,IR
 33881,5296,2019,16,DW-3243,Darrel,Williams,Darrel Williams,RB,KC,Hamstring,,IR
@@ -1073,10 +641,6 @@
 34872,5320,2019,19,DW-3243,Darrel,Williams,Darrel Williams,RB,KC,Hamstring,,IR
 34952,5322,2019,20,DW-3243,Darrel,Williams,Darrel Williams,RB,KC,Hamstring,,IR
 35024,5324,2019,21,DW-3243,Darrel,Williams,Darrel Williams,RB,KC,Hamstring,,IR
-34895,5321,2019,19,DW-3906,Dexter,Williams,Dexter Williams,RB,GB,Illness,DNP,Questionable
-25443,5062,2019,1,DY-0075,Deon,Yelder,Deon Yelder,TE,KC,Ankle,Full,Available
-26071,5085,2019,2,DY-0075,Deon,Yelder,Deon Yelder,TE,KC,Ankle,Full,Available
-35025,5324,2019,21,DY-0075,Deon,Yelder,Deon Yelder,TE,KC,Achilles,FP,Available
 25535,5066,2019,1,ED-0400,Ed,Dickson,Ed Dickson,TE,SEA,Knee,,IR
 26055,5084,2019,2,ED-0400,Ed,Dickson,Ed Dickson,TE,SEA,Knee,,IR
 26612,5102,2019,3,ED-0400,Ed,Dickson,Ed Dickson,TE,SEA,Knee,,IR
@@ -1087,17 +651,12 @@
 29019,5172,2019,8,ED-0400,Ed,Dickson,Ed Dickson,TE,SEA,Knee,,IR
 29608,5188,2019,9,ED-0400,Ed,Dickson,Ed Dickson,TE,SEA,Knee,,IR
 30215,5205,2019,10,ED-0400,Ed,Dickson,Ed Dickson,TE,SEA,Knee,,IR
-31260,5232,2019,12,ED-0400,Ed,Dickson,Ed Dickson,TE,SEA,Knee,DNP,Available
-28320,5152,2019,7,EE-0050,Eric,Ebron,Eric Ebron,TE,IND,Illness,Full,Available
-29385,5182,2019,9,EE-0050,Eric,Ebron,Eric Ebron,TE,IND,Ankle,Full,Available
-30808,5220,2019,12,EE-0050,Eric,Ebron,Eric Ebron,TE,IND,Ankle,Full,Questionable
 31652,5243,2019,13,EE-0050,Eric,Ebron,Eric Ebron,TE,IND,Ankle,,IR
 32171,5256,2019,14,EE-0050,Eric,Ebron,Eric Ebron,TE,IND,Ankle,,IR
 33199,5281,2019,15,EE-0050,Eric,Ebron,Eric Ebron,TE,IND,Ankle,,IR
 33329,5284,2019,16,EE-0050,Eric,Ebron,Eric Ebron,TE,IND,Ankle,,IR
 34093,5302,2019,17,EE-0050,Eric,Ebron,Eric Ebron,TE,IND,Ankle,,IR
 27730,5136,2019,6,EE-0400,Evan,Engram,Evan Engram,TE,NYG,Knee,DNP,Out
-28273,5151,2019,7,EE-0400,Evan,Engram,Evan Engram,TE,NYG,Knee,Full,Available
 30049,5201,2019,10,EE-0400,Evan,Engram,Evan Engram,TE,NYG,Foot,DNP,Out
 30970,5225,2019,12,EE-0400,Evan,Engram,Evan Engram,TE,NYG,Foot,DNP,Out
 31420,5237,2019,13,EE-0400,Evan,Engram,Evan Engram,TE,NYG,Foot,DNP,Out
@@ -1105,17 +664,6 @@
 32786,5271,2019,15,EE-0400,Evan,Engram,Evan Engram,TE,NYG,Foot,DNP,Out
 33619,5291,2019,16,EE-0400,Evan,Engram,Evan Engram,TE,NYG,Foot,,IR
 34309,5307,2019,17,EE-0400,Evan,Engram,Evan Engram,TE,NYG,Foot,,IR
-27123,5118,2019,4,EP-0512,Eddy,Pineiro,Eddy Pineiro,K,CHI,Right Knee,Limited,Questionable
-27370,5126,2019,5,EP-0512,Eddy,Pineiro,Eddy Pineiro,K,CHI,Right Knee,Full,Available
-26323,5094,2019,3,ES-0200,Emmanuel,Sanders,Emmanuel Sanders,WR,DEN,NIR,Limited,Available
-27083,5117,2019,4,ES-0200,Emmanuel,Sanders,Emmanuel Sanders,WR,DEN,Quadricep,Limited,Available
-27570,5132,2019,5,ES-0200,Emmanuel,Sanders,Emmanuel Sanders,WR,DEN,Quadricep,Limited,Available
-28119,5147,2019,6,ES-0200,Emmanuel,Sanders,Emmanuel Sanders,WR,DEN,Knee,Limited,Available
-28217,5150,2019,7,ES-0200,Emmanuel,Sanders,Emmanuel Sanders,WR,DEN,Knee,Full,Available
-30613,5215,2019,11,ES-0200,Emmanuel,Sanders,Emmanuel Sanders,WR,SF,Ribs,DNP,Questionable
-31208,5231,2019,12,ES-0200,Emmanuel,Sanders,Emmanuel Sanders,WR,SF,Ribs,Limited,Questionable
-31580,5241,2019,13,ES-0200,Emmanuel,Sanders,Emmanuel Sanders,WR,SF,Ribs,LP,Available
-32268,5258,2019,14,ES-0200,Emmanuel,Sanders,Emmanuel Sanders,WR,SF,Ribs,FP,Available
 25344,5058,2019,1,ES-1175,Equanimeous,St. Brown,Equanimeous St. Brown,WR,GB,Ankle,,IR
 25958,5081,2019,2,ES-1175,Equanimeous,St. Brown,Equanimeous St. Brown,WR,GB,Ankle,,IR
 26348,5094,2019,3,ES-1175,Equanimeous,St. Brown,Equanimeous St. Brown,WR,GB,Ankle,,IR
@@ -1149,47 +697,24 @@
 34869,5320,2019,19,FD-0050,Felton,Davis,Felton Davis,WR,KC,Shoulder,,IR
 34950,5322,2019,20,FD-0050,Felton,Davis,Felton Davis,WR,KC,Shoulder,,IR
 35027,5324,2019,21,FD-0050,Felton,Davis,Felton Davis,WR,KC,Shoulder,,IR
-25798,5076,2019,2,FG-0200,Frank,Gore,Frank Gore,RB,BUF,Rest,Full,Available
-26881,5111,2019,4,FG-0200,Frank,Gore,Frank Gore,RB,BUF,Not Injury Related -- Resting ,DNP,Available
-27344,5125,2019,5,FG-0200,Frank,Gore,Frank Gore,RB,BUF,Not Injury Related -- Resting ,DNP,Available
-28406,5155,2019,7,FG-0200,Frank,Gore,Frank Gore,RB,BUF,Not Injury Related -- Resting ,Full,Available
-28967,5171,2019,8,FG-0200,Frank,Gore,Frank Gore,RB,BUF,Not Injury Related -- Resting ,Full,Available
-29529,5186,2019,9,FG-0200,Frank,Gore,Frank Gore,RB,BUF,Not Injury Related Resting Vet,Full,Available
-30320,5208,2019,11,FG-0200,Frank,Gore,Frank Gore,RB,BUF,Not Injury Related -- Resting ,Full,Available
-30851,5222,2019,12,FG-0200,Frank,Gore,Frank Gore,RB,BUF,Not Injury Related -- Resting ,Full,Available
-32612,5267,2019,15,FG-0200,Frank,Gore,Frank Gore,RB,BUF,Illness,FP,Available
 33052,5277,2019,15,FM-0675,Foster,Moreau,Foster Moreau,TE,OAK,Knee,,IR
 33678,5292,2019,16,FM-0675,Foster,Moreau,Foster Moreau,TE,OAK,Knee,,IR
 34552,5312,2019,17,FM-0675,Foster,Moreau,Foster Moreau,TE,OAK,Knee,,IR
-28470,5157,2019,7,GA-0250,Geronimo,Allison,Geronimo Allison,WR,GB,Concussion,DNP,Doubtful
-32662,5268,2019,15,GA-0250,Geronimo,Allison,Geronimo Allison,WR,GB,Knee,FP,Available
-34985,5323,2019,20,GA-0250,Geronimo,Allison,Geronimo Allison,WR,GB,Illness,FP,Available
-30617,5215,2019,11,GC-0350,Garrett,Celek,Garrett Celek,TE,SF,Back,Full,Available
 33097,5278,2019,15,GC-0350,Garrett,Celek,Garrett Celek,TE,SF,Back,,IR
 33555,5289,2019,16,GC-0350,Garrett,Celek,Garrett Celek,TE,SF,Back,,IR
 34601,5313,2019,17,GC-0350,Garrett,Celek,Garrett Celek,TE,SF,Back,,IR
 34790,5318,2019,19,GC-0350,Garrett,Celek,Garrett Celek,TE,SF,Back,,IR
 35001,5323,2019,20,GC-0350,Garrett,Celek,Garrett Celek,TE,SF,Back,,IR
 35052,5324,2019,21,GC-0350,Garrett,Celek,Garrett Celek,TE,SF,Back,,IR
-25569,5067,2019,1,GD-0050,Geremy,Davis,Geremy Davis,WR,LAC,Hamstring,DNP,Doubtful
-25930,5080,2019,2,GD-0050,Geremy,Davis,Geremy Davis,WR,LAC,Hamstring,Full,Questionable
-29709,5190,2019,9,GD-0050,Geremy,Davis,Geremy Davis,WR,LAC,Hamstring,DNP,Questionable
-29801,5193,2019,10,GD-0050,Geremy,Davis,Geremy Davis,WR,LAC,Hamstring,DNP,Doubtful
-30758,5219,2019,11,GD-0050,Geremy,Davis,Geremy Davis,WR,LAC,Hamstring,DNP,Doubtful
 31821,5247,2019,13,GD-0050,Geremy,Davis,Geremy Davis,WR,LAC,Hamstring,LP,IR
 32370,5260,2019,14,GD-0050,Geremy,Davis,Geremy Davis,WR,LAC,Hamstring,,IR
 33165,5280,2019,15,GD-0050,Geremy,Davis,Geremy Davis,WR,LAC,Hamstring,,IR
 33668,5292,2019,16,GD-0050,Geremy,Davis,Geremy Davis,WR,LAC,Hamstring,,IR
 34164,5303,2019,17,GD-0050,Geremy,Davis,Geremy Davis,WR,LAC,Hamstring,,IR
-25626,5069,2019,1,GD-0225,Garrett,Dickerson,Garrett Dickerson,RB,NYG,Quad,DNP,Available
 25806,5076,2019,2,GD-0225,Garrett,Dickerson,Garrett Dickerson,RB,NYG,Quad,DNP,Out
-26509,5100,2019,3,GD-0225,Garrett,Dickerson,Garrett Dickerson,RB,NYG,Quad,Full,Available
 25441,5062,2019,1,GD-0250,Gehrig,Dieter,Gehrig Dieter,WR,KC,Undisclosed,,IR
-30714,5218,2019,11,GE-0400,Gerald,Everett,Gerald Everett,TE,LA,Wrist,Limited,Questionable
 31744,5245,2019,13,GE-0400,Gerald,Everett,Gerald Everett,TE,LA,Knee,DNP,Out
 32485,5264,2019,14,GE-0400,Gerald,Everett,Gerald Everett,TE,LA,Knee,DNP,Out
-33147,5279,2019,15,GE-0400,Gerald,Everett,Gerald Everett,TE,LA,Knee,DNP,Available
-33543,5289,2019,16,GE-0400,Gerald,Everett,Gerald Everett,TE,LA,Knee,FP,Available
 25454,5063,2019,1,GG-0100,Graham,Gano,Graham Gano,K,CAR,Knee,,IR
 25749,5074,2019,2,GG-0100,Graham,Gano,Graham Gano,K,CAR,Knee,,IR
 26501,5099,2019,3,GG-0100,Graham,Gano,Graham Gano,K,CAR,Knee,,IR
@@ -1228,33 +753,8 @@
 32764,5271,2019,15,GJ-0375,Gary,Jennings,Gary Jennings,WR,MIA,Shoulder,,IR
 33363,5285,2019,16,GJ-0375,Gary,Jennings,Gary Jennings,WR,MIA,Shoulder,,IR
 34171,5304,2019,17,GJ-0375,Gary,Jennings,Gary Jennings,WR,MIA,Shoulder,,IR
-28045,5145,2019,6,GK-0075,George,Kittle,George Kittle,TE,SF,Groin,Limited,Questionable
-28495,5158,2019,7,GK-0075,George,Kittle,George Kittle,TE,SF,Groin,Limited,Available
-29086,5174,2019,8,GK-0075,George,Kittle,George Kittle,TE,SF,Groin,Full,Available
-30218,5205,2019,10,GK-0075,George,Kittle,George Kittle,TE,SF,Knee,DNP,Doubtful
-30616,5215,2019,11,GK-0075,George,Kittle,George Kittle,TE,SF,Knee,DNP,Doubtful
-31209,5231,2019,12,GK-0075,George,Kittle,George Kittle,TE,SF,Knee,Limited,Questionable
-31582,5241,2019,13,GK-0075,George,Kittle,George Kittle,TE,SF,Knee,LP,Available
-32267,5258,2019,14,GK-0075,George,Kittle,George Kittle,TE,SF,Knee,FP,Available
-35002,5323,2019,20,GK-0075,George,Kittle,George Kittle,TE,SF,Ankle,FP,Available
-27432,5127,2019,5,GM-1350,Gardner,Minshew,Gardner Minshew,QB,JAC,Knee,Full,Available
-27863,5140,2019,6,GM-1350,Gardner,Minshew,Gardner Minshew,QB,JAC,Groin,Full,Available
-29330,5180,2019,9,GM-1350,Gardner,Minshew,Gardner Minshew,QB,JAC,Right Shoulder,Full,Available
-33519,5288,2019,16,GM-1350,Gardner,Minshew,Gardner Minshew,QB,JAC,Right Shoulder,FP,Available
-34107,5302,2019,17,GM-1350,Gardner,Minshew,Gardner Minshew,QB,JAC,Right Shoulder,LP,Questionable
-25751,5074,2019,2,GO-0100,Greg,Olsen,Greg Olsen,TE,CAR,Back,Full,Questionable
-26502,5099,2019,3,GO-0100,Greg,Olsen,Greg Olsen,TE,CAR,Back,Full,Questionable
-26743,5107,2019,4,GO-0100,Greg,Olsen,Greg Olsen,TE,CAR,Back,Full,Available
-29069,5174,2019,8,GO-0100,Greg,Olsen,Greg Olsen,TE,CAR,Finger,Full,Available
 32021,5252,2019,14,GO-0100,Greg,Olsen,Greg Olsen,TE,CAR,Concussion,DNP,Out
 32887,5274,2019,15,GO-0100,Greg,Olsen,Greg Olsen,TE,CAR,Concussion,LP,Out
-33299,5284,2019,16,GO-0100,Greg,Olsen,Greg Olsen,TE,CAR,Concussion,FP,Available
-34224,5305,2019,17,GO-0100,Greg,Olsen,Greg Olsen,TE,CAR,Knee,FP,Available
-27473,5129,2019,5,GO-0150,Gunner,Olszewski,Gunner Olszewski,WR,NE,Hamstring,Limited,Available
-28669,5163,2019,7,GO-0150,Gunner,Olszewski,Gunner Olszewski,WR,NE,Hamstring,Limited,Questionable
-29128,5175,2019,8,GO-0150,Gunner,Olszewski,Gunner Olszewski,WR,NE,Ankle,Limited,Questionable
-29742,5191,2019,9,GO-0150,Gunner,Olszewski,Gunner Olszewski,WR,NE,Ankle,Limited,Questionable
-30674,5217,2019,11,GO-0150,Gunner,Olszewski,Gunner Olszewski,WR,NE,Ankle,Limited,Questionable
 31168,5230,2019,12,GO-0150,Gunner,Olszewski,Gunner Olszewski,WR,NE,Ankle,,IR
 31856,5248,2019,13,GO-0150,Gunner,Olszewski,Gunner Olszewski,WR,NE,Ankle,,IR
 32393,5261,2019,14,GO-0150,Gunner,Olszewski,Gunner Olszewski,WR,NE,Ankle,,IR
@@ -1262,10 +762,6 @@
 33279,5283,2019,16,GO-0150,Gunner,Olszewski,Gunner Olszewski,WR,NE,Ankle,,IR
 34199,5304,2019,17,GO-0150,Gunner,Olszewski,Gunner Olszewski,WR,NE,Ankle,,IR
 34660,5315,2019,18,GO-0150,Gunner,Olszewski,Gunner Olszewski,WR,NE,Ankle,,IR
-29605,5188,2019,9,GS-1050,Geno,Smith,Geno Smith,QB,SEA,Oblique,Full,Available
-32922,5274,2019,15,GS-1050,Geno,Smith,Geno Smith,QB,SEA,NIR - Personal,DNP,Available
-33796,5294,2019,16,GS-1050,Geno,Smith,Geno Smith,QB,SEA,R Finger,FP,Available
-27105,5117,2019,4,GS-1400,Geoff,Swaim,Geoff Swaim,TE,JAC,Illness,,Questionable
 28352,5153,2019,7,GS-1400,Geoff,Swaim,Geoff Swaim,TE,JAC,Concussion,DNP,Out
 28878,5169,2019,8,GS-1400,Geoff,Swaim,Geoff Swaim,TE,JAC,Concussion,,IR
 29331,5180,2019,9,GS-1400,Geoff,Swaim,Geoff Swaim,TE,JAC,Concussion,,IR
@@ -1277,10 +773,6 @@
 33520,5288,2019,16,GS-1400,Geoff,Swaim,Geoff Swaim,TE,JAC,Concussion,,IR
 34108,5302,2019,17,GS-1400,Geoff,Swaim,Geoff Swaim,TE,JAC,Concussion,,IR
 31422,5237,2019,13,GT-0100,Golden,Tate,Golden Tate,WR,NYG,Concussion,DNP,Out
-32523,5265,2019,14,GT-0100,Golden,Tate,Golden Tate,WR,NYG,Concussion,FP,Available
-32787,5271,2019,15,GT-0100,Golden,Tate,Golden Tate,WR,NYG,Foot,FP,Available
-33544,5289,2019,16,GZ-2000,Greg,Zuerlein,Greg Zuerlein,K,LA,Right Quad,DNP,Questionable
-34140,5303,2019,17,HB-0500,Harrison,Butker,Harrison Butker,K,KC,Glute,FP,Available
 25579,5068,2019,1,HB-0600,Hakeem,Butler,Hakeem Butler,WR,ARI,Hand,,IR
 25769,5075,2019,2,HB-0600,Hakeem,Butler,Hakeem Butler,WR,ARI,Hand,,IR
 26485,5099,2019,3,HB-0600,Hakeem,Butler,Hakeem Butler,WR,ARI,Hand,,IR
@@ -1301,11 +793,9 @@
 26574,5101,2019,3,HH-0225,Hunter,Henry,Hunter Henry,TE,LAC,Knee,DNP,Out
 26838,5110,2019,4,HH-0225,Hunter,Henry,Hunter Henry,TE,LAC,Knee,DNP,Out
 27580,5132,2019,5,HH-0225,Hunter,Henry,Hunter Henry,TE,LAC,Knee,DNP,Out
-28151,5148,2019,6,HH-0225,Hunter,Henry,Hunter Henry,TE,LAC,Knee,Full,Questionable
 31505,5239,2019,13,HR-0062,Hunter,Renfrow,Hunter Renfrow,WR,OAK,Rib,DNP,Out
 32450,5263,2019,14,HR-0062,Hunter,Renfrow,Hunter Renfrow,WR,OAK,Rib,DNP,Out
 33051,5277,2019,15,HR-0062,Hunter,Renfrow,Hunter Renfrow,WR,OAK,Rib,DNP,Out
-33676,5292,2019,16,HR-0062,Hunter,Renfrow,Hunter Renfrow,WR,OAK,Rib,FP,Available
 25732,5073,2019,1,IC-0300,Isaiah,Crowell,Isaiah Crowell,RB,OAK,Achilles,,IR
 26083,5085,2019,2,IC-0300,Isaiah,Crowell,Isaiah Crowell,RB,OAK,Achilles,,IR
 26458,5098,2019,3,IC-0300,Isaiah,Crowell,Isaiah Crowell,RB,OAK,Achilles,,IR
@@ -1322,8 +812,6 @@
 33054,5277,2019,15,IC-0300,Isaiah,Crowell,Isaiah Crowell,RB,OAK,Achilles,,IR
 33677,5292,2019,16,IC-0300,Isaiah,Crowell,Isaiah Crowell,RB,OAK,Achilles,,IR
 34557,5312,2019,17,IC-0300,Isaiah,Crowell,Isaiah Crowell,RB,OAK,Achilles,,IR
-34179,5304,2019,17,IF-0175,Isaiah,Ford,Isaiah Ford,WR,MIA,Knee,FP,Available
-26878,5111,2019,4,IM-0125,Isaiah,McKenzie,Isaiah McKenzie,WR,BUF,Ankle,Full,Questionable
 25630,5069,2019,1,IS-0106,Isaiah,Searight,Isaiah Searight,TE,NYG,Hamstring,,IR
 25808,5076,2019,2,IS-0106,Isaiah,Searight,Isaiah Searight,TE,NYG,Hamstring,,IR
 26512,5100,2019,3,IS-0106,Isaiah,Searight,Isaiah Searight,TE,NYG,Hamstring,,IR
@@ -1336,7 +824,6 @@
 32788,5271,2019,15,IS-0106,Isaiah,Searight,Isaiah Searight,TE,NYG,Hamstring,,IR
 33618,5291,2019,16,IS-0106,Isaiah,Searight,Isaiah Searight,TE,NYG,Hamstring,,IR
 34313,5307,2019,17,IS-0106,Isaiah,Searight,Isaiah Searight,TE,NYG,Hamstring,,IR
-26958,5113,2019,4,IS-0250,Ito,Smith,Ito Smith,RB,ATL,Concussion,Full,Available
 29000,5172,2019,8,IS-0250,Ito,Smith,Ito Smith,RB,ATL,Concussion,DNP,Out
 29868,5195,2019,10,IS-0250,Ito,Smith,Ito Smith,RB,ATL,Neck,DNP,Out
 30286,5207,2019,11,IS-0250,Ito,Smith,Ito Smith,RB,ATL,Concussion,,IR
@@ -1346,9 +833,6 @@
 33087,5278,2019,15,IS-0250,Ito,Smith,Ito Smith,RB,ATL,Concussion,,IR
 33503,5288,2019,16,IS-0250,Ito,Smith,Ito Smith,RB,ATL,Concussion,,IR
 33926,5298,2019,17,IS-0250,Ito,Smith,Ito Smith,RB,ATL,Concussion,,IR
-33294,5284,2019,16,IT-0150,Ian,Thomas,Ian Thomas,TE,CAR,Back,FP,Available
-34229,5305,2019,17,IT-0150,Ian,Thomas,Ian Thomas,TE,CAR,Ankle,FP,Available
-25694,5072,2019,1,IW-0037,Isaac,Whitney,Isaac Whitney,WR,HOU,Wrist,,Questionable
 25883,5079,2019,2,IW-0037,Isaac,Whitney,Isaac Whitney,WR,HOU,Wrist,,IR
 26543,5101,2019,3,IW-0037,Isaac,Whitney,Isaac Whitney,WR,HOU,Wrist,,IR
 26760,5107,2019,4,IW-0037,Isaac,Whitney,Isaac Whitney,WR,HOU,Wrist,,IR
@@ -1366,20 +850,6 @@
 34393,5309,2019,17,IW-0037,Isaac,Whitney,Isaac Whitney,WR,HOU,Wrist,,IR
 34645,5314,2019,18,IW-0037,Isaac,Whitney,Isaac Whitney,WR,HOU,Wrist,,IR
 34843,5320,2019,19,IW-0037,Isaac,Whitney,Isaac Whitney,WR,HOU,Wrist,,IR
-30549,5214,2019,11,JA-0275,Josh,Adams,Josh Adams,RB,NYJ,Illness,Full,Available
-32111,5254,2019,14,JA-0462,Jordan,Akins,Jordan Akins,TE,HOU,Knee,FP,Available
-34647,5314,2019,18,JA-0462,Jordan,Akins,Jordan Akins,TE,HOU,Hamstring,LP,Questionable
-34845,5320,2019,19,JA-0462,Jordan,Akins,Jordan Akins,TE,HOU,Hamstring,LP,Questionable
-27346,5125,2019,5,JA-1087,Josh,Allen,Josh Allen,QB,BUF,Concussion,Full,Questionable
-28411,5155,2019,7,JA-1087,Josh,Allen,Josh Allen,QB,BUF,Right Hand,Full,Available
-26725,5106,2019,4,JA-1975,J.J.,Arcega-Whiteside,J.J. Arcega-Whiteside,WR,PHI,Heel,Full,Available
-33842,5295,2019,16,JA-1975,J.J.,Arcega-Whiteside,J.J. Arcega-Whiteside,WR,PHI,Foot,LP,Available
-34335,5307,2019,17,JA-1975,J.J.,Arcega-Whiteside,J.J. Arcega-Whiteside,WR,PHI,Foot,FP,Available
-26440,5097,2019,3,JB-2950,Josh,Bellamy,Josh Bellamy,WR,NYJ,Shoulder,Limited,Questionable
-27499,5130,2019,5,JB-2950,Josh,Bellamy,Josh Bellamy,WR,NYJ,Shoulder,Limited,Questionable
-28100,5146,2019,6,JB-2950,Josh,Bellamy,Josh Bellamy,WR,NYJ,Shoulder,Limited,Questionable
-28706,5163,2019,7,JB-2950,Josh,Bellamy,Josh Bellamy,WR,NYJ,Shoulder,Full,Available
-28905,5169,2019,8,JB-2950,Josh,Bellamy,Josh Bellamy,WR,NYJ,Shoulder,Full,Available
 29471,5184,2019,9,JB-2950,Josh,Bellamy,Josh Bellamy,WR,NYJ,Foot,DNP,Out
 30089,5201,2019,10,JB-2950,Josh,Bellamy,Josh Bellamy,WR,NYJ,Shoulder,,IR
 30547,5214,2019,11,JB-2950,Josh,Bellamy,Josh Bellamy,WR,NYJ,Shoulder,,IR
@@ -1389,18 +859,6 @@
 32591,5266,2019,15,JB-2950,Josh,Bellamy,Josh Bellamy,WR,NYJ,Shoulder,,IR
 33712,5293,2019,16,JB-2950,Josh,Bellamy,Josh Bellamy,WR,NYJ,Shoulder,,IR
 34289,5306,2019,17,JB-2950,Josh,Bellamy,Josh Bellamy,WR,NYJ,Shoulder,,IR
-26253,5091,2019,3,JB-5725,Jacoby,Brissett,Jacoby Brissett,QB,IND,Knee,Full,Available
-30109,5202,2019,10,JB-5725,Jacoby,Brissett,Jacoby Brissett,QB,IND,Knee,LP,Questionable
-30471,5212,2019,11,JB-5725,Jacoby,Brissett,Jacoby Brissett,QB,IND,Knee,Full,Available
-25529,5066,2019,1,JB-6750,Jaron,Brown,Jaron Brown,WR,SEA,Toe,Full,Available
-26606,5102,2019,3,JB-6750,Jaron,Brown,Jaron Brown,WR,SEA,Toe,Full,Available
-34751,5317,2019,18,JB-6750,Jaron,Brown,Jaron Brown,WR,SEA,Knee,DNP,Available
-34923,5321,2019,19,JB-6750,Jaron,Brown,Jaron Brown,WR,SEA,Knee,FP,Available
-25790,5076,2019,2,JB-6950,John,Brown,John Brown,WR,BUF,Rest,Full,Available
-26877,5111,2019,4,JB-6950,John,Brown,John Brown,WR,BUF,Not Injury Related -- Resting ,DNP,Available
-28410,5155,2019,7,JB-6950,John,Brown,John Brown,WR,BUF,Groin,Full,Available
-28969,5171,2019,8,JB-6950,John,Brown,John Brown,WR,BUF,Not Injury Related -- Resting ,Full,Available
-30855,5222,2019,12,JB-6950,John,Brown,John Brown,WR,BUF,Not Injury Related -- Resting ,Full,Available
 25721,5073,2019,1,JB-8575,Jake,Butt,Jake Butt,TE,DEN,Knee,,IR
 26103,5086,2019,2,JB-8575,Jake,Butt,Jake Butt,TE,DEN,Knee,,IR
 26326,5094,2019,3,JB-8575,Jake,Butt,Jake Butt,TE,DEN,Knee,,IR
@@ -1417,22 +875,12 @@
 32681,5269,2019,15,JB-8575,Jake,Butt,Jake Butt,TE,DEN,Knee,,IR
 33397,5286,2019,16,JB-8575,Jake,Butt,Jake Butt,TE,DEN,Knee,,IR
 34536,5312,2019,17,JB-8575,Jake,Butt,Jake Butt,TE,DEN,Knee,,IR
-26021,5084,2019,2,JC-4075,James,Conner,James Conner,RB,PIT,Illness,Full,Available
-26617,5103,2019,3,JC-4075,James,Conner,James Conner,RB,PIT,Knee,Full,Available
-27332,5124,2019,5,JC-4075,James,Conner,James Conner,RB,PIT,Ankle,Full,Available
-29397,5182,2019,9,JC-4075,James,Conner,James Conner,RB,PIT,Shoulder,DNP,Doubtful
 30147,5203,2019,10,JC-4075,James,Conner,James Conner,RB,PIT,Shoulder,DNP,Out
-30258,5206,2019,11,JC-4075,James,Conner,James Conner,RB,PIT,Shoulder,Full,Available
 31047,5227,2019,12,JC-4075,James,Conner,James Conner,RB,PIT,Shoulder,DNP,Out
-31774,5246,2019,13,JC-4075,James,Conner,James Conner,RB,PIT,Shoulder,LP,Doubtful
 32436,5262,2019,14,JC-4075,James,Conner,James Conner,RB,PIT,Shoulder,LP,Out
-32622,5267,2019,15,JC-4075,James,Conner,James Conner,RB,PIT,Shoulder,FP,Questionable
 34369,5308,2019,17,JC-4075,James,Conner,James Conner,RB,PIT,Quad,DNP,Out
-27166,5119,2019,4,JC-4300,Jared,Cook,Jared Cook,TE,NO,Not Injury Related,Full,Available
 28622,5161,2019,7,JC-4300,Jared,Cook,Jared Cook,TE,NO,Ankle,DNP,Out
 28778,5165,2019,8,JC-4300,Jared,Cook,Jared Cook,TE,NO,Ankle,DNP,Out
-29888,5195,2019,10,JC-4300,Jared,Cook,Jared Cook,TE,NO,Ankle,FP,Available
-33213,5281,2019,15,JC-4300,Jared,Cook,Jared Cook,TE,NO,Concussion,FP,Available
 25398,5061,2019,1,JC-5675,Jason,Croom,Jason Croom,TE,BUF,Hamstring,,IR
 25791,5076,2019,2,JC-5675,Jason,Croom,Jason Croom,TE,BUF,Hamstring,,IR
 26294,5093,2019,3,JC-5675,Jason,Croom,Jason Croom,TE,BUF,Hamstring,,IR
@@ -1450,14 +898,6 @@
 33270,5283,2019,16,JC-5675,Jason,Croom,Jason Croom,TE,BUF,Hamstring,,IR
 34271,5306,2019,17,JC-5675,Jason,Croom,Jason Croom,TE,BUF,Hamstring,,IR
 34623,5314,2019,18,JC-5675,Jason,Croom,Jason Croom,TE,BUF,Hamstring,,IR
-28098,5146,2019,6,JC-5680,Jamison,Crowder,Jamison Crowder,WR,NYJ,Knee,Full,Available
-28904,5169,2019,8,JC-5680,Jamison,Crowder,Jamison Crowder,WR,NYJ,Knee,Full,Available
-29472,5184,2019,9,JC-5680,Jamison,Crowder,Jamison Crowder,WR,NYJ,Knee,Full,Available
-30087,5201,2019,10,JC-5680,Jamison,Crowder,Jamison Crowder,WR,NYJ,Knee,FP,Available
-30550,5214,2019,11,JC-5680,Jamison,Crowder,Jamison Crowder,WR,NYJ,Knee,Full,Available
-32249,5257,2019,14,JC-5680,Jamison,Crowder,Jamison Crowder,WR,NYJ,Knee,FP,Available
-34292,5306,2019,17,JC-5680,Jamison,Crowder,Jamison Crowder,WR,NYJ,Thumb,FP,Available
-27987,5143,2019,6,JC-6025,Jerome,Cunningham,Jerome Cunningham,TE,WAS,Concussion,Full,Available
 28534,5158,2019,7,JC-6025,Jerome,Cunningham,Jerome Cunningham,TE,WAS,Knee,,IR
 28741,5164,2019,8,JC-6025,Jerome,Cunningham,Jerome Cunningham,TE,WAS,Knee,,IR
 29544,5186,2019,9,JC-6025,Jerome,Cunningham,Jerome Cunningham,TE,WAS,Knee,,IR
@@ -1492,27 +932,12 @@
 28722,5164,2019,8,JD-2350,Josh,Doctson,Josh Doctson,WR,MIN,Hamstring,,IR
 29430,5183,2019,9,JD-2350,Josh,Doctson,Josh Doctson,WR,MIN,Hamstring,,IR
 30187,5204,2019,10,JD-2350,Josh,Doctson,Josh Doctson,WR,MIN,Hamstring,,IR
-29171,5176,2019,8,JD-2550,Jack,Doyle,Jack Doyle,TE,IND,Groin,Limited,Questionable
-30472,5212,2019,11,JD-2550,Jack,Doyle,Jack Doyle,TE,IND,Shoulder,Full,Available
 25515,5066,2019,1,JD-2850,Jeff,Driskel,Jeff Driskel,QB,CIN,Hamstring,,IR
 31323,5234,2019,13,JD-2850,Jeff,Driskel,Jeff Driskel,QB,DET,Hamstring,LP,IR
 32129,5255,2019,14,JD-2850,Jeff,Driskel,Jeff Driskel,QB,DET,Hamstring,,IR
 32943,5275,2019,15,JD-2850,Jeff,Driskel,Jeff Driskel,QB,DET,Hamstring,,IR
 33426,5286,2019,16,JD-2850,Jeff,Driskel,Jeff Driskel,QB,DET,Hamstring,,IR
 34036,5301,2019,17,JD-2850,Jeff,Driskel,Jeff Driskel,QB,DET,Hamstring,,IR
-26894,5111,2019,4,JE-0100,Julian,Edelman,Julian Edelman,WR,NE,Chest,Limited,Questionable
-27476,5129,2019,5,JE-0100,Julian,Edelman,Julian Edelman,WR,NE,Chest,Limited,Questionable
-27715,5136,2019,6,JE-0100,Julian,Edelman,Julian Edelman,WR,NE,Chest,Limited,Questionable
-28673,5163,2019,7,JE-0100,Julian,Edelman,Julian Edelman,WR,NE,Chest,Limited,Questionable
-29126,5175,2019,8,JE-0100,Julian,Edelman,Julian Edelman,WR,NE,Chest,Limited,Questionable
-29735,5191,2019,9,JE-0100,Julian,Edelman,Julian Edelman,WR,NE,Chest,Limited,Questionable
-31164,5230,2019,12,JE-0100,Julian,Edelman,Julian Edelman,WR,NE,Shoulder,Limited,Questionable
-31857,5248,2019,13,JE-0100,Julian,Edelman,Julian Edelman,WR,NE,Shoulder,LP,Questionable
-32397,5261,2019,14,JE-0100,Julian,Edelman,Julian Edelman,WR,NE,Shoulder,LP,Questionable
-32829,5272,2019,15,JE-0100,Julian,Edelman,Julian Edelman,WR,NE,Knee / Shoulder,LP,Questionable
-33286,5283,2019,16,JE-0100,Julian,Edelman,Julian Edelman,WR,NE,Knee / Shoulder,LP,Questionable
-34204,5304,2019,17,JE-0100,Julian,Edelman,Julian Edelman,WR,NE,Knee / Shoulder,LP,Questionable
-34666,5315,2019,18,JE-0100,Julian,Edelman,Julian Edelman,WR,NE,Knee / Shoulder,LP,Questionable
 29663,5189,2019,9,JF-1900,Joe,Flacco,Joe Flacco,QB,DEN,Neck,DNP,IR
 30408,5210,2019,11,JF-1900,Joe,Flacco,Joe Flacco,QB,DEN,Neck,,IR
 30875,5222,2019,12,JF-1900,Joe,Flacco,Joe Flacco,QB,DEN,Neck,,IR
@@ -1521,66 +946,15 @@
 32680,5269,2019,15,JF-1900,Joe,Flacco,Joe Flacco,QB,DEN,Neck,,IR
 33396,5286,2019,16,JF-1900,Joe,Flacco,Joe Flacco,QB,DEN,Neck,,IR
 34533,5312,2019,17,JF-1900,Joe,Flacco,Joe Flacco,QB,DEN,Neck,,IR
-33550,5289,2019,16,JG-1850,Jared,Goff,Jared Goff,QB,LA,Right Thumb,FP,Available
-27479,5129,2019,5,JG-2450,Josh,Gordon,Josh Gordon,WR,NE,Knee,Full,Available
-27716,5136,2019,6,JG-2450,Josh,Gordon,Josh Gordon,WR,NE,Knee,Limited,Questionable
 28674,5163,2019,7,JG-2450,Josh,Gordon,Josh Gordon,WR,NE,Knee,DNP,Out
 29124,5175,2019,8,JG-2450,Josh,Gordon,Josh Gordon,WR,NE,Knee,DNP,IR
-31265,5232,2019,12,JG-2450,Josh,Gordon,Josh Gordon,WR,SEA,Ankle,Full,Available
-31911,5249,2019,13,JG-2450,Josh,Gordon,Josh Gordon,WR,SEA,Ankle,FP,Available
-32916,5274,2019,15,JG-2450,Josh,Gordon,Josh Gordon,WR,SEA,Knee,FP,Available
-29873,5195,2019,10,JG-2687,Jaeden,Graham,Jaeden Graham,TE,ATL,Knee,FP,Available
-32006,5252,2019,14,JG-2687,Jaeden,Graham,Jaeden Graham,TE,ATL,Thigh,FP,Available
-33927,5298,2019,17,JG-2687,Jaeden,Graham,Jaeden Graham,TE,ATL,Knee,,Available
-25343,5058,2019,1,JG-2900,Jimmy,Graham,Jimmy Graham,TE,GB,Finger,Full,Available
-25949,5081,2019,2,JG-2900,Jimmy,Graham,Jimmy Graham,TE,GB,Finger,Limited,Available
-26347,5094,2019,3,JG-2900,Jimmy,Graham,Jimmy Graham,TE,GB,Groin,Limited,Questionable
-26711,5106,2019,4,JG-2900,Jimmy,Graham,Jimmy Graham,TE,GB,Groin,Limited,Available
-27626,5133,2019,5,JG-2900,Jimmy,Graham,Jimmy Graham,TE,GB,Not Injury Related,Limited,Available
-28205,5149,2019,6,JG-2900,Jimmy,Graham,Jimmy Graham,TE,GB,Not Injury Related,Limited,Available
-28469,5157,2019,7,JG-2900,Jimmy,Graham,Jimmy Graham,TE,GB,Ankle,Limited,Available
-29191,5177,2019,8,JG-2900,Jimmy,Graham,Jimmy Graham,TE,GB,Ankle,Limited,Available
-29689,5190,2019,9,JG-2900,Jimmy,Graham,Jimmy Graham,TE,GB,Ankle,Limited,Available
-29987,5198,2019,10,JG-2900,Jimmy,Graham,Jimmy Graham,TE,GB,NIR (veteran rest),LP,Available
-31203,5231,2019,12,JG-2900,Jimmy,Graham,Jimmy Graham,TE,GB,Not Injury Related,Limited,Available
-31407,5237,2019,13,JG-2900,Jimmy,Graham,Jimmy Graham,TE,GB,Calf,LP,Available
-32300,5259,2019,14,JG-2900,Jimmy,Graham,Jimmy Graham,TE,GB,Calf / Wrist,LP,Available
-32658,5268,2019,15,JG-2900,Jimmy,Graham,Jimmy Graham,TE,GB,Wrist/Groin,LP,Questionable
-33893,5297,2019,16,JG-2900,Jimmy,Graham,Jimmy Graham,TE,GB,Wrist/Groin,LP,Available
-34062,5301,2019,17,JG-2900,Jimmy,Graham,Jimmy Graham,TE,GB,NIR (veteran rest),LP,Available
-34893,5321,2019,19,JG-2900,Jimmy,Graham,Jimmy Graham,TE,GB,Wrist/NIR (veteran rest),LP,Available
-34987,5323,2019,20,JG-2900,Jimmy,Graham,Jimmy Graham,TE,GB,NIR (veteran rest),LP,Available
-27946,5143,2019,6,JG-2950,Jakeem,Grant,Jakeem Grant,WR,MIA,Hamstring,Limited,Questionable
-28422,5155,2019,7,JG-2950,Jakeem,Grant,Jakeem Grant,WR,MIA,Hamstring,Limited,Questionable
-29229,5178,2019,8,JG-2950,Jakeem,Grant,Jakeem Grant,WR,MIA,Hamstring,Full,Available
-30118,5202,2019,10,JG-2950,Jakeem,Grant,Jakeem Grant,WR,MIA,Toe,FP,Available
-30335,5208,2019,11,JG-2950,Jakeem,Grant,Jakeem Grant,WR,MIA,Toe,Full,Available
-30937,5224,2019,12,JG-2950,Jakeem,Grant,Jakeem Grant,WR,MIA,Achilles,Full,Available
 31525,5240,2019,13,JG-2950,Jakeem,Grant,Jakeem Grant,WR,MIA,Ankle,,IR
 32208,5257,2019,14,JG-2950,Jakeem,Grant,Jakeem Grant,WR,MIA,Ankle,,IR
 32771,5271,2019,15,JG-2950,Jakeem,Grant,Jakeem Grant,WR,MIA,Ankle,,IR
 33368,5285,2019,16,JG-2950,Jakeem,Grant,Jakeem Grant,WR,MIA,Ankle,,IR
 34176,5304,2019,17,JG-2950,Jakeem,Grant,Jakeem Grant,WR,MIA,Ankle,,IR
-31293,5233,2019,12,JH-3230,Johnny,Hekker,Johnny Hekker,K,LA,Illness,Full,Available
 29664,5189,2019,9,JH-3625,Jeff,Heuerman,Jeff Heuerman,TE,DEN,Knee,DNP,Out
-30407,5210,2019,11,JH-3625,Jeff,Heuerman,Jeff Heuerman,TE,DEN,Knee,Limited,Doubtful
-30876,5222,2019,12,JH-3625,Jeff,Heuerman,Jeff Heuerman,TE,DEN,Knee,Full,Questionable
-31800,5247,2019,13,JH-3625,Jeff,Heuerman,Jeff Heuerman,TE,DEN,Knee,FP,Available
-29889,5195,2019,10,JH-4070,Josh,Hill,Josh Hill,TE,NO,Calf,LP,Available
-30836,5221,2019,12,JH-4070,Josh,Hill,Josh Hill,TE,NO,Concussion,Full,Available
-31264,5232,2019,12,JH-4850,Jacob,Hollister,Jacob Hollister,TE,SEA,Not Injury Related,Full,Available
-31912,5249,2019,13,JH-4850,Jacob,Hollister,Jacob Hollister,TE,SEA,Toe,FP,Available
-32506,5264,2019,14,JH-4850,Jacob,Hollister,Jacob Hollister,TE,SEA,Quadriceps,FP,Available
-32915,5274,2019,15,JH-4850,Jacob,Hollister,Jacob Hollister,TE,SEA,Thigh,FP,Available
-32621,5267,2019,15,JH-5125,Johnny,Holton,Johnny Holton,WR,PIT,Illness,FP,Available
-30692,5217,2019,11,JH-5575,Jordan,Howard,Jordan Howard,RB,PHI,Shoulder,Limited,Questionable
-31236,5232,2019,12,JH-5575,Jordan,Howard,Jordan Howard,RB,PHI,Shoulder,Limited,Questionable
 31542,5240,2019,13,JH-5575,Jordan,Howard,Jordan Howard,RB,PHI,Shoulder,LP,Out
-32540,5265,2019,14,JH-5575,Jordan,Howard,Jordan Howard,RB,PHI,Shoulder,LP,Questionable
-32845,5273,2019,15,JH-5575,Jordan,Howard,Jordan Howard,RB,PHI,Shoulder,LP,Questionable
-33841,5295,2019,16,JH-5575,Jordan,Howard,Jordan Howard,RB,PHI,Shoulder,LP,Questionable
-34336,5307,2019,17,JH-5575,Jordan,Howard,Jordan Howard,RB,PHI,Shoulder,FP,Available
-25645,5070,2019,1,JH-6450,Jalen,Hurd,Jalen Hurd,WR,SF,Back,DNP,Available
 26009,5083,2019,2,JH-6450,Jalen,Hurd,Jalen Hurd,WR,SF,Back,DNP,Out
 26629,5103,2019,3,JH-6450,Jalen,Hurd,Jalen Hurd,WR,SF,Back,DNP,Out
 27710,5135,2019,5,JH-6450,Jalen,Hurd,Jalen Hurd,WR,SF,Back,,IR
@@ -1600,28 +974,8 @@
 35004,5323,2019,20,JH-6450,Jalen,Hurd,Jalen Hurd,WR,SF,Back,,IR
 35048,5324,2019,21,JH-6450,Jalen,Hurd,Jalen Hurd,WR,SF,Back,,IR
 26839,5110,2019,4,JJ-0575,Justin,Jackson,Justin Jackson,RB,LAC,Calf,DNP,Out
-27581,5132,2019,5,JJ-0575,Justin,Jackson,Justin Jackson,RB,LAC,Calf,DNP,Doubtful
-28150,5148,2019,6,JJ-0575,Justin,Jackson,Justin Jackson,RB,LAC,Calf,DNP,Doubtful
 28545,5159,2019,7,JJ-0575,Justin,Jackson,Justin Jackson,RB,LAC,Calf,DNP,Out
-28833,5167,2019,8,JJ-0575,Justin,Jackson,Justin Jackson,RB,LAC,Calf,Limited,Questionable
-29791,5193,2019,10,JJ-0575,Justin,Jackson,Justin Jackson,RB,LAC,Calf,DNP,Doubtful
-30757,5219,2019,11,JJ-0575,Justin,Jackson,Justin Jackson,RB,LAC,Calf,DNP,Doubtful
-31820,5247,2019,13,JJ-0575,Justin,Jackson,Justin Jackson,RB,LAC,Calf,FP,Available
-33666,5292,2019,16,JJ-0575,Justin,Jackson,Justin Jackson,RB,LAC,Hamstring,LP,Questionable
-34160,5303,2019,17,JJ-0575,Justin,Jackson,Justin Jackson,RB,LAC,Hamstring,FP,Available
-26462,5098,2019,3,JJ-0587,Josh,Jacobs,Josh Jacobs,RB,OAK,Hip,Full,Available
-27384,5126,2019,5,JJ-0587,Josh,Jacobs,Josh Jacobs,RB,OAK,Elbow,Full,Available
-28484,5157,2019,7,JJ-0587,Josh,Jacobs,Josh Jacobs,RB,OAK,Elbow,Full,Available
-28947,5170,2019,8,JJ-0587,Josh,Jacobs,Josh Jacobs,RB,OAK,Shoulder,Limited,Questionable
-29571,5187,2019,9,JJ-0587,Josh,Jacobs,Josh Jacobs,RB,OAK,Shoulder,Limited,Available
-29812,5193,2019,10,JJ-0587,Josh,Jacobs,Josh Jacobs,RB,OAK,Shoulder,FP,Available
-30653,5216,2019,11,JJ-0587,Josh,Jacobs,Josh Jacobs,RB,OAK,Shoulder,Limited,Available
-31015,5226,2019,12,JJ-0587,Josh,Jacobs,Josh Jacobs,RB,OAK,Shoulder,Limited,Available
-31508,5239,2019,13,JJ-0587,Josh,Jacobs,Josh Jacobs,RB,OAK,Shoulder,LP,Available
-32462,5263,2019,14,JJ-0587,Josh,Jacobs,Josh Jacobs,RB,OAK,Shoulder,LP,Questionable
-33062,5277,2019,15,JJ-0587,Josh,Jacobs,Josh Jacobs,RB,OAK,Shoulder,LP,Questionable
 33683,5292,2019,16,JJ-0587,Josh,Jacobs,Josh Jacobs,RB,OAK,Shoulder,DNP,Out
-34555,5312,2019,17,JJ-0587,Josh,Jacobs,Josh Jacobs,RB,OAK,Shoulder/Illness,DNP,Doubtful
 28672,5163,2019,7,JJ-2518,Jakob,Johnson,Jakob Johnson,RB,NE,Shoulder,,IR
 29123,5175,2019,8,JJ-2518,Jakob,Johnson,Jakob Johnson,RB,NE,Shoulder,,IR
 29739,5191,2019,9,JJ-2518,Jakob,Johnson,Jakob Johnson,RB,NE,Shoulder,,IR
@@ -1667,15 +1021,6 @@
 34586,5313,2019,17,JJ-3650,Justin,Johnson,Justin Johnson,TE,SEA,Achilles,,IR
 34753,5317,2019,18,JJ-3650,Justin,Johnson,Justin Johnson,TE,SEA,Achilles,,IR
 34915,5321,2019,19,JJ-3650,Justin,Johnson,Justin Johnson,TE,SEA,Achilles,,IR
-25362,5059,2019,1,JJ-4700,Julio,Jones,Julio Jones,WR,ATL,Rest,Limited,Available
-28026,5144,2019,6,JJ-4700,Julio,Jones,Julio Jones,WR,ATL,Hip,Limited,Available
-28375,5154,2019,7,JJ-4700,Julio,Jones,Julio Jones,WR,ATL,Hip,Limited,Available
-31080,5228,2019,12,JJ-4700,Julio,Jones,Julio Jones,WR,ATL,Foot,Full,Available
-31378,5236,2019,13,JJ-4700,Julio,Jones,Julio Jones,WR,ATL,Shoulder,DNP,Questionable
-32007,5252,2019,14,JJ-4700,Julio,Jones,Julio Jones,WR,ATL,Shoulder,LP,Available
-33083,5278,2019,15,JJ-4700,Julio,Jones,Julio Jones,WR,ATL,Shoulder,FP,Available
-33498,5288,2019,16,JJ-4700,Julio,Jones,Julio Jones,WR,ATL,Shoulder,LP,Available
-33928,5298,2019,17,JJ-4700,Julio,Jones,Julio Jones,WR,ATL,Knee/shoulder,FP,Available
 25594,5068,2019,1,JK-0250,Jermaine,Kearse,Jermaine Kearse,WR,DET,Leg,,IR
 25920,5080,2019,2,JK-0250,Jermaine,Kearse,Jermaine Kearse,WR,DET,Leg,,IR
 26353,5095,2019,3,JK-0250,Jermaine,Kearse,Jermaine Kearse,WR,DET,Leg,,IR
@@ -1698,23 +1043,6 @@
 26799,5108,2019,4,JK-1012,Joe,Kerridge,Joe Kerridge,RB,CLE,Concussion,,IR
 27692,5135,2019,5,JK-1012,Joe,Kerridge,Joe Kerridge,RB,CLE,Concussion,,IR
 27928,5142,2019,6,JK-1012,Joe,Kerridge,Joe Kerridge,RB,CLE,Concussion,,IR
-26346,5094,2019,3,JK-2250,Jake,Kumerow,Jake Kumerow,WR,GB,Shoulder,Limited,Questionable
-26712,5106,2019,4,JK-2250,Jake,Kumerow,Jake Kumerow,WR,GB,Shoulder,Limited,Questionable
-27625,5133,2019,5,JK-2250,Jake,Kumerow,Jake Kumerow,WR,GB,Shoulder,Full,Available
-29979,5198,2019,10,JK-2250,Jake,Kumerow,Jake Kumerow,WR,GB,Shoulder,FP,Available
-31202,5231,2019,12,JK-2250,Jake,Kumerow,Jake Kumerow,WR,GB,Finger,Full,Available
-34063,5301,2019,17,JK-2250,Jake,Kumerow,Jake Kumerow,WR,GB,Illness,DNP,Questionable
-29328,5180,2019,9,JL-0207,Josh,Lambo,Josh Lambo,K,JAC,Right Groin,Limited,Available
-27693,5135,2019,5,JL-0215,Jarvis,Landry,Jarvis Landry,WR,CLE,Concussion,Full,Available
-29646,5189,2019,9,JL-0215,Jarvis,Landry,Jarvis Landry,WR,CLE,Shoulder,Limited,Available
-29936,5197,2019,10,JL-0215,Jarvis,Landry,Jarvis Landry,WR,CLE,Shoulder,FP,Available
-30243,5206,2019,11,JL-0215,Jarvis,Landry,Jarvis Landry,WR,CLE,Hip,Full,Available
-30933,5224,2019,12,JL-0215,Jarvis,Landry,Jarvis Landry,WR,CLE,Hip,Full,Available
-31756,5246,2019,13,JL-0215,Jarvis,Landry,Jarvis Landry,WR,CLE,Hip,FP,Available
-32066,5253,2019,14,JL-0215,Jarvis,Landry,Jarvis Landry,WR,CLE,Hip,FP,Available
-33008,5276,2019,15,JL-0215,Jarvis,Landry,Jarvis Landry,WR,CLE,Hip,FP,Available
-33254,5282,2019,16,JL-0215,Jarvis,Landry,Jarvis Landry,WR,CLE,Hip,FP,Available
-34019,5300,2019,17,JL-0215,Jarvis,Landry,Jarvis Landry,WR,CLE,Hip,FP,Available
 25438,5062,2019,1,JL-2925,John,Lovett,John Lovett,QB,KC,Shoulder,,IR
 26061,5085,2019,2,JL-2925,John,Lovett,John Lovett,QB,KC,Shoulder,,IR
 26280,5092,2019,3,JL-2925,John,Lovett,John Lovett,QB,KC,Shoulder,,IR
@@ -1753,19 +1081,11 @@
 34794,5318,2019,19,JM-3450,Jerick,McKinnon,Jerick McKinnon,RB,SF,Knee - ACL,,IR
 35003,5323,2019,20,JM-3450,Jerick,McKinnon,Jerick McKinnon,RB,SF,Knee - ACL,,IR
 35049,5324,2019,21,JM-3450,Jerick,McKinnon,Jerick McKinnon,RB,SF,Knee - ACL,,IR
-25997,5083,2019,2,JM-5275,Joe,Mixon,Joe Mixon,RB,CIN,Ankle,Limited,Questionable
-33346,5285,2019,16,JM-5275,Joe,Mixon,Joe Mixon,RB,CIN,Calf,FP,Available
-30718,5218,2019,11,JM-6775,Johnny,Mundt,Johnny Mundt,TE,LA,Groin,Limited,Questionable
-31244,5232,2019,12,JM-7000,Jason,Myers,Jason Myers,K,SEA,Right Hip,Full,Available
-30140,5203,2019,10,JN-0350,JoJo,Natson,JoJo Natson,WR,LA,Illness,DNP,Available
 32493,5264,2019,14,JN-0350,JoJo,Natson,JoJo Natson,WR,LA,Hamstring,,IR
 33150,5279,2019,15,JN-0350,JoJo,Natson,JoJo Natson,WR,LA,Hamstring,,IR
 33546,5289,2019,16,JN-0350,JoJo,Natson,JoJo Natson,WR,LA,Hamstring,,IR
 34516,5311,2019,17,JN-0350,JoJo,Natson,JoJo Natson,WR,LA,Hamstring,,IR
-25736,5073,2019,1,JN-0625,J.J.,Nelson,J.J. Nelson,WR,OAK,Ankle,Limited,Questionable
 26077,5085,2019,2,JN-0625,J.J.,Nelson,J.J. Nelson,WR,OAK,Ankle,DNP,Out
-26463,5098,2019,3,JN-0625,J.J.,Nelson,J.J. Nelson,WR,OAK,Ankle,Full,Available
-27388,5126,2019,5,JN-0625,J.J.,Nelson,J.J. Nelson,WR,OAK,Knee,DNP,Questionable
 27859,5140,2019,6,JO-0150,James,O'Shaughnessy,James O'Shaughnessy,TE,JAC,Knee - ACL,,IR
 28354,5153,2019,7,JO-0150,James,O'Shaughnessy,James O'Shaughnessy,TE,JAC,Knee - ACL,,IR
 28889,5169,2019,8,JO-0150,James,O'Shaughnessy,James O'Shaughnessy,TE,JAC,Knee - ACL,,IR
@@ -1783,14 +1103,12 @@
 27101,5117,2019,4,JO-0562,Josh,Oliver,Josh Oliver,TE,JAC,Hamstring,DNP,Out
 27429,5127,2019,5,JO-0562,Josh,Oliver,Josh Oliver,TE,JAC,Hamstring,Limited,Out
 27860,5140,2019,6,JO-0562,Josh,Oliver,Josh Oliver,TE,JAC,Hamstring,Limited,Out
-28355,5153,2019,7,JO-0562,Josh,Oliver,Josh Oliver,TE,JAC,Hamstring,Full,Available
 31117,5229,2019,12,JO-0562,Josh,Oliver,Josh Oliver,TE,JAC,Back,,IR
 31606,5242,2019,13,JO-0562,Josh,Oliver,Josh Oliver,TE,JAC,Back,,IR
 32347,5260,2019,14,JO-0562,Josh,Oliver,Josh Oliver,TE,JAC,Back,,IR
 33034,5277,2019,15,JO-0562,Josh,Oliver,Josh Oliver,TE,JAC,Back,,IR
 33529,5288,2019,16,JO-0562,Josh,Oliver,Josh Oliver,TE,JAC,Back,,IR
 34120,5302,2019,17,JO-0562,Josh,Oliver,Josh Oliver,TE,JAC,Back,,IR
-25502,5065,2019,1,JR-1150,Jordan,Reed,Jordan Reed,TE,WAS,Concussion,Limited,Questionable
 25843,5077,2019,2,JR-1150,Jordan,Reed,Jordan Reed,TE,WAS,Concussion,DNP,Out
 26691,5105,2019,3,JR-1150,Jordan,Reed,Jordan Reed,TE,WAS,Concussion,DNP,Out
 27000,5114,2019,4,JR-1150,Jordan,Reed,Jordan Reed,TE,WAS,Concussion,DNP,Out
@@ -1806,12 +1124,6 @@
 32866,5273,2019,15,JR-1150,Jordan,Reed,Jordan Reed,TE,WAS,Concussion,,IR
 33643,5291,2019,16,JR-1150,Jordan,Reed,Jordan Reed,TE,WAS,Concussion,,IR
 34468,5310,2019,17,JR-1150,Jordan,Reed,Jordan Reed,TE,WAS,Concussion,,IR
-31300,5233,2019,12,JR-1950,Josh,Reynolds,Josh Reynolds,WR,LA,Illness,Full,Available
-28952,5170,2019,8,JR-2075,Jalen,Richard,Jalen Richard,RB,OAK,Ankle,Full,Available
-26393,5096,2019,3,JR-3250,Josh,Rosen,Josh Rosen,QB,MIA,Knee,,Available
-26856,5110,2019,4,JR-3250,Josh,Rosen,Josh Rosen,QB,MIA,Right Elbow,Full,Available
-28431,5155,2019,7,JR-3250,Josh,Rosen,Josh Rosen,QB,MIA,Groin,Full,Available
-29239,5178,2019,8,JR-3250,Josh,Rosen,Josh Rosen,QB,MIA,Neck,Full,Available
 27256,5122,2019,5,JR-3280,John,Ross,John Ross,WR,CIN,Shoulder,DNP,IR
 27803,5138,2019,6,JR-3280,John,Ross,John Ross,WR,CIN,Shoulder,,IR
 28339,5153,2019,7,JR-3280,John,Ross,John Ross,WR,CIN,Shoulder,,IR
@@ -1821,10 +1133,6 @@
 31036,5227,2019,12,JR-3280,John,Ross,John Ross,WR,CIN,Shoulder,,IR
 31442,5238,2019,13,JR-3280,John,Ross,John Ross,WR,CIN,Shoulder,,IR
 28156,5148,2019,6,JS-0280,Jaylen,Samuels,Jaylen Samuels,RB,PIT,Knee,DNP,Out
-29250,5178,2019,8,JS-0280,Jaylen,Samuels,Jaylen Samuels,RB,PIT,Knee,Full,Questionable
-29399,5182,2019,9,JS-0280,Jaylen,Samuels,Jaylen Samuels,RB,PIT,Knee,Full,Available
-32619,5267,2019,15,JS-0280,Jaylen,Samuels,Jaylen Samuels,RB,PIT,Groin,FP,Available
-33366,5285,2019,16,JS-0350,Jason,Sanders,Jason Sanders,K,MIA,Illness,LP,Questionable
 31693,5244,2019,13,JS-0825,Jordan,Scarlett,Jordan Scarlett,RB,CAR,Knee,DNP,IR
 32034,5252,2019,14,JS-0825,Jordan,Scarlett,Jordan Scarlett,RB,CAR,Knee,,IR
 32894,5274,2019,15,JS-0825,Jordan,Scarlett,Jordan Scarlett,RB,CAR,Knee,,IR
@@ -1833,15 +1141,10 @@
 25610,5069,2019,1,JS-2825,Jameill,Showers,Jameill Showers,QB,DAL,Hamstring,,IR
 33711,5293,2019,16,JS-4212,Jeff,Smith,Jeff Smith,WR,NYJ,Ankle,,IR
 34286,5306,2019,17,JS-4212,Jeff,Smith,Jeff Smith,WR,NYJ,Ankle,,IR
-26020,5084,2019,2,JS-4750,Juju,Smith-Schuster,Juju Smith-Schuster,WR,PIT,Toe,Full,Available
-27331,5124,2019,5,JS-4750,Juju,Smith-Schuster,Juju Smith-Schuster,WR,PIT,Toe,Full,Questionable
-29252,5178,2019,8,JS-4750,Juju,Smith-Schuster,Juju Smith-Schuster,WR,PIT,Illness,Full,Available
-30149,5203,2019,10,JS-4750,Juju,Smith-Schuster,Juju Smith-Schuster,WR,PIT,Foot,LP,Questionable
 31058,5227,2019,12,JS-4750,Juju,Smith-Schuster,Juju Smith-Schuster,WR,PIT,Concussion,DNP,Out
 31775,5246,2019,13,JS-4750,Juju,Smith-Schuster,Juju Smith-Schuster,WR,PIT,Concussion/Knee,DNP,Out
 32442,5262,2019,14,JS-4750,Juju,Smith-Schuster,Juju Smith-Schuster,WR,PIT,Knee,DNP,Out
 32620,5267,2019,15,JS-4750,Juju,Smith-Schuster,Juju Smith-Schuster,WR,PIT,Knee,DNP,Out
-33737,5293,2019,16,JS-4750,Juju,Smith-Schuster,Juju Smith-Schuster,WR,PIT,Knee,FP,Available
 25336,5058,2019,1,JS-6325,Jace,Sternberger,Jace Sternberger,TE,GB,Ankle,,IR
 25945,5081,2019,2,JS-6325,Jace,Sternberger,Jace Sternberger,TE,GB,Ankle,,IR
 26340,5094,2019,3,JS-6325,Jace,Sternberger,Jace Sternberger,TE,GB,Ankle,,IR
@@ -1860,14 +1163,12 @@
 28935,5170,2019,8,JT-1775,Jordan,Thomas,Jordan Thomas,TE,HOU,Ribs,,IR
 29308,5180,2019,9,JT-1775,Jordan,Thomas,Jordan Thomas,TE,HOU,Ribs,,IR
 30450,5211,2019,11,JT-1775,Jordan,Thomas,Jordan Thomas,TE,HOU,Ribs,,IR
-34642,5314,2019,18,JT-1775,Jordan,Thomas,Jordan Thomas,TE,HOU,Illness,FP,Available
 32257,5258,2019,14,JV-0050,Jason,Vander Laan,Jason Vander Laan,TE,NO,Head,DNP,IR
 33218,5281,2019,15,JV-0050,Jason,Vander Laan,Jason Vander Laan,TE,NO,Head,,IR
 33586,5290,2019,16,JV-0050,Jason,Vander Laan,Jason Vander Laan,TE,NO,Head,,IR
 34249,5305,2019,17,JV-0050,Jason,Vander Laan,Jason Vander Laan,TE,NO,Head,,IR
 34711,5316,2019,18,JV-0050,Jason,Vander Laan,Jason Vander Laan,TE,NO,Head,,IR
 28155,5148,2019,6,JW-0934,James,Washington,James Washington,WR,PIT,Shoulder,DNP,Out
-29251,5178,2019,8,JW-0934,James,Washington,James Washington,WR,PIT,Shoulder,Full,Available
 25696,5072,2019,1,JW-1500,Joe,Webb,Joe Webb,QB,HOU,Foot,,IR
 25890,5079,2019,2,JW-1500,Joe,Webb,Joe Webb,QB,HOU,Foot,,IR
 26551,5101,2019,3,JW-1500,Joe,Webb,Joe Webb,QB,HOU,Foot,,IR
@@ -1886,36 +1187,13 @@
 34396,5309,2019,17,JW-1500,Joe,Webb,Joe Webb,QB,HOU,Foot,,IR
 34644,5314,2019,18,JW-1500,Joe,Webb,Joe Webb,QB,HOU,Foot,,IR
 34847,5320,2019,19,JW-1500,Joe,Webb,Joe Webb,QB,HOU,Foot,,IR
-28937,5170,2019,8,JW-1700,Jon,Weeks,Jon Weeks,TE,HOU,Ankle,Full,Available
-29311,5180,2019,9,JW-1700,Jon,Weeks,Jon Weeks,TE,HOU,Ankle,Full,Available
-29748,5191,2019,9,JW-2550,James,White,James White,RB,NE,Toe,Limited,Questionable
-25549,5067,2019,1,JW-3325,Jordan,Wilkins,Jordan Wilkins,RB,IND,Ankle,Full,Questionable
-30465,5212,2019,11,JW-3325,Jordan,Wilkins,Jordan Wilkins,RB,IND,Ankle,DNP,Questionable
-30799,5220,2019,12,JW-3325,Jordan,Wilkins,Jordan Wilkins,RB,IND,Ankle,Full,Available
 34085,5302,2019,17,JW-3325,Jordan,Wilkins,Jordan Wilkins,RB,IND,Ankle,LP,Out
-25338,5058,2019,1,JW-3650,Jamaal,Williams,Jamaal Williams,RB,GB,Hamstring,Full,Available
-25943,5081,2019,2,JW-3650,Jamaal,Williams,Jamaal Williams,RB,GB,Shoulder,Full,Available
-26339,5094,2019,3,JW-3650,Jamaal,Williams,Jamaal Williams,RB,GB,Ankle,Full,Available
-26705,5106,2019,4,JW-3650,Jamaal,Williams,Jamaal Williams,RB,GB,Neck,Full,Available
 27637,5133,2019,5,JW-3650,Jamaal,Williams,Jamaal Williams,RB,GB,Concussion,DNP,Out
-28190,5149,2019,6,JW-3650,Jamaal,Williams,Jamaal Williams,RB,GB,Concussion,Full,Available
-32298,5259,2019,14,JW-3650,Jamaal,Williams,Jamaal Williams,RB,GB,Knee,LP,Available
-34060,5301,2019,17,JW-3650,Jamaal,Williams,Jamaal Williams,RB,GB,Shoulder,DNP,Doubtful
-34888,5321,2019,19,JW-3650,Jamaal,Williams,Jamaal Williams,RB,GB,Shoulder,FP,Available
 25548,5067,2019,1,JW-4625,Jonathan,Williams,Jonathan Williams,RB,IND,Rib,DNP,Out
 25853,5078,2019,2,JW-4625,Jonathan,Williams,Jonathan Williams,RB,IND,Rib,Limited,Out
-26242,5091,2019,3,JW-4625,Jonathan,Williams,Jonathan Williams,RB,IND,Rib,Full,Questionable
-26911,5112,2019,4,JW-4625,Jonathan,Williams,Jonathan Williams,RB,IND,Rib,Full,Available
-32641,5268,2019,15,JW-5475,Javon,Wims,Javon Wims,WR,CHI,Knee,LP,Questionable
 32678,5269,2019,15,JW-5637,Juwann,Winfree,Juwann Winfree,WR,DEN,Hamstring,DNP,IR
 33399,5286,2019,16,JW-5637,Juwann,Winfree,Juwann Winfree,WR,DEN,Hamstring,,IR
 34532,5312,2019,17,JW-5637,Juwann,Winfree,Juwann Winfree,WR,DEN,Hamstring,,IR
-26526,5100,2019,3,JW-5650,Jameis,Winston,Jameis Winston,QB,TB,Foot,Full,Available
-31090,5228,2019,12,JW-5650,Jameis,Winston,Jameis Winston,QB,TB,Ankle,Full,Available
-32184,5256,2019,14,JW-5650,Jameis,Winston,Jameis Winston,QB,TB,Knee,FP,Available
-32963,5275,2019,15,JW-5650,Jameis,Winston,Jameis Winston,QB,TB,Right Thumb/Knee,FP,Questionable
-33469,5287,2019,16,JW-5650,Jameis,Winston,Jameis Winston,QB,TB,Right thumb/knee,FP,Questionable
-33951,5298,2019,17,JW-5650,Jameis,Winston,Jameis Winston,QB,TB,Right thumb/knee,FP,Questionable
 25501,5065,2019,1,JW-6275,Josh,Woodrum,Josh Woodrum,QB,WAS,Pectoral,,IR
 25842,5077,2019,2,JW-6275,Josh,Woodrum,Josh Woodrum,QB,WAS,Pectoral,,IR
 26679,5105,2019,3,JW-6275,Josh,Woodrum,Josh Woodrum,QB,WAS,Pectoral,,IR
@@ -1932,25 +1210,12 @@
 32865,5273,2019,15,JW-6275,Josh,Woodrum,Josh Woodrum,QB,WAS,Pectoral,,IR
 33642,5291,2019,16,JW-6275,Josh,Woodrum,Josh Woodrum,QB,WAS,Pectoral,,IR
 34467,5310,2019,17,JW-6275,Josh,Woodrum,Josh Woodrum,QB,WAS,Pectoral,,IR
-29499,5185,2019,9,JW-6560,Jarius,Wright,Jarius Wright,WR,CAR,Ankle,Full,Available
-26568,5101,2019,3,KA-0650,Keenan,Allen,Keenan Allen,WR,LAC,Knee,Full,Available
-28823,5167,2019,8,KA-0650,Keenan,Allen,Keenan Allen,WR,LAC,Hamstring,DNP,Questionable
-29699,5190,2019,9,KA-0650,Keenan,Allen,Keenan Allen,WR,LAC,Hamstring,Full,Available
-29961,5198,2019,10,KA-0737,Kyle,Allen,Kyle Allen,QB,CAR,Right Shoulder,FP,Available
-27962,5143,2019,6,KB-0150,Kalen,Ballage,Kalen Ballage,RB,MIA,Foot,Limited,Questionable
-30340,5208,2019,11,KB-0150,Kalen,Ballage,Kalen Ballage,RB,MIA,Neck,Full,Available
-31528,5240,2019,13,KB-0150,Kalen,Ballage,Kalen Ballage,RB,MIA,Achilles,FP,Available
 32211,5257,2019,14,KB-0150,Kalen,Ballage,Kalen Ballage,RB,MIA,Achilles,,IR
 32768,5271,2019,15,KB-0150,Kalen,Ballage,Kalen Ballage,RB,MIA,Achilles,,IR
 33364,5285,2019,16,KB-0150,Kalen,Ballage,Kalen Ballage,RB,MIA,Achilles,,IR
 34182,5304,2019,17,KB-0150,Kalen,Ballage,Kalen Ballage,RB,MIA,Achilles,,IR
-26138,5088,2019,2,KB-0350,Kenjon,Barner,Kenjon Barner,RB,ATL,Ankle,Full,Available
-26233,5091,2019,3,KB-0350,Kenjon,Barner,Kenjon Barner,RB,ATL,Ankle,Full,Available
 26954,5113,2019,4,KB-0350,Kenjon,Barner,Kenjon Barner,RB,ATL,Concussion,DNP,Out
 27273,5123,2019,5,KB-0350,Kenjon,Barner,Kenjon Barner,RB,ATL,Knee,DNP,Out
-28023,5144,2019,6,KB-0350,Kenjon,Barner,Kenjon Barner,RB,ATL,Knee,Full,Available
-33495,5288,2019,16,KB-0350,Kenjon,Barner,Kenjon Barner,RB,ATL,Shoulder/Knee,LP,Available
-33921,5298,2019,17,KB-0350,Kenjon,Barner,Kenjon Barner,RB,ATL,Shoulder/Hip,FP,Available
 25360,5059,2019,1,KB-0975,Kurt,Benkert,Kurt Benkert,QB,ATL,Toe,,IR
 26136,5088,2019,2,KB-0975,Kurt,Benkert,Kurt Benkert,QB,ATL,Toe,,IR
 26234,5091,2019,3,KB-0975,Kurt,Benkert,Kurt Benkert,QB,ATL,Toe,,IR
@@ -1972,12 +1237,6 @@
 26527,5100,2019,3,KB-1812,K.J.,Brent,K.J. Brent,WR,TB,Undisclosed,,IR
 27059,5116,2019,4,KB-1812,K.J.,Brent,K.J. Brent,WR,TB,Undisclosed,,IR
 27557,5131,2019,5,KB-1812,K.J.,Brent,K.J. Brent,WR,TB,Undisclosed,,IR
-25695,5072,2019,1,KC-2375,Keke,Coutee,Keke Coutee,WR,HOU,Ankle,Limited,Questionable
-25885,5079,2019,2,KC-2375,Keke,Coutee,Keke Coutee,WR,HOU,Ankle,Full,Available
-31758,5246,2019,13,KH-2025,Khadarel,Hodge,Khadarel Hodge,WR,CLE,Achilles,FP,Questionable
-32065,5253,2019,14,KH-2025,Khadarel,Hodge,Khadarel Hodge,WR,CLE,Achilles,FP,Available
-33006,5276,2019,15,KH-2025,Khadarel,Hodge,Khadarel Hodge,WR,CLE,Achilles,FP,Available
-34017,5300,2019,17,KH-2025,Khadarel,Hodge,Khadarel Hodge,WR,CLE,Neck,FP,Available
 34252,5305,2019,17,KH-2075,Krishawn,Hogan,Krishawn Hogan,WR,NO,Hamstring,,IR
 34715,5316,2019,18,KH-2075,Krishawn,Hogan,Krishawn Hogan,WR,NO,Hamstring,,IR
 28855,5168,2019,8,KJ-0587,Kerryon,Johnson,Kerryon Johnson,RB,DET,Knee,,IR
@@ -1993,7 +1252,6 @@
 28512,5158,2019,7,KJ-1400,Kyle,Juszczyk,Kyle Juszczyk,RB,SF,Knee,DNP,Out
 29097,5174,2019,8,KJ-1400,Kyle,Juszczyk,Kyle Juszczyk,RB,SF,Knee,DNP,Out
 29284,5179,2019,9,KJ-1400,Kyle,Juszczyk,Kyle Juszczyk,RB,SF,Knee,DNP,Out
-30226,5205,2019,10,KJ-1400,Kyle,Juszczyk,Kyle Juszczyk,RB,SF,Knee,Full,Available
 26580,5102,2019,3,KK-0825,Keith,Kirkwood,Keith Kirkwood,WR,NO,Hamstring,,IR
 27164,5119,2019,4,KK-0825,Keith,Kirkwood,Keith Kirkwood,WR,NO,Hamstring,,IR
 27541,5131,2019,5,KK-0825,Keith,Kirkwood,Keith Kirkwood,WR,NO,Hamstring,,IR
@@ -2009,22 +1267,7 @@
 33584,5290,2019,16,KK-0825,Keith,Kirkwood,Keith Kirkwood,WR,NO,Hamstring,,IR
 34251,5305,2019,17,KK-0825,Keith,Kirkwood,Keith Kirkwood,WR,NO,Hamstring,,IR
 34716,5316,2019,18,KK-0825,Keith,Kirkwood,Keith Kirkwood,WR,NO,Hamstring,,IR
-34498,5311,2019,17,KM-3500,Kyler,Murray,Kyler Murray,QB,ARI,Hamstring,LP,Questionable
-33610,5290,2019,16,KR-0312,Kalif,Raymond,Kalif Raymond,WR,TEN,Knee,FP,Available
 34422,5309,2019,17,KR-0312,Kalif,Raymond,Kalif Raymond,WR,TEN,Concussion,DNP,Out
-34673,5315,2019,18,KR-0312,Kalif,Raymond,Kalif Raymond,WR,TEN,Concussion,LP,Doubtful
-34822,5319,2019,19,KR-0312,Kalif,Raymond,Kalif Raymond,WR,TEN,Concussion,FP,Available
-28715,5164,2019,8,KR-1200,Kyle,Rudolph,Kyle Rudolph,TE,MIN,Thumb,Full,Available
-33177,5280,2019,15,KR-1200,Kyle,Rudolph,Kyle Rudolph,TE,MIN,Groin,FP,Available
-28371,5154,2019,7,KS-1450,Keith,Smith,Keith Smith,RB,ATL,Knee,Full,Available
-27294,5123,2019,5,KS-2350,Kenny,Stills,Kenny Stills,WR,HOU,Hamstring,Limited,Questionable
-27836,5139,2019,6,KS-2350,Kenny,Stills,Kenny Stills,WR,HOU,Hamstring,Limited,Questionable
-28303,5152,2019,7,KS-2350,Kenny,Stills,Kenny Stills,WR,HOU,Hamstring,Full,Available
-28939,5170,2019,8,KS-2350,Kenny,Stills,Kenny Stills,WR,HOU,Ankle,Full,Available
-29314,5180,2019,9,KS-2350,Kenny,Stills,Kenny Stills,WR,HOU,Hamstring,Full,Available
-34401,5309,2019,17,KS-2350,Kenny,Stills,Kenny Stills,WR,HOU,Knee,LP,Questionable
-34638,5314,2019,18,KS-2350,Kenny,Stills,Kenny Stills,WR,HOU,Knee,FP,Available
-34851,5320,2019,19,KS-2350,Kenny,Stills,Kenny Stills,WR,HOU,Knee,LP,Questionable
 25697,5072,2019,1,KW-0550,Kahale,Warring,Kahale Warring,TE,HOU,Concussion,,IR
 25886,5079,2019,2,KW-0550,Kahale,Warring,Kahale Warring,TE,HOU,Concussion,,IR
 26554,5101,2019,3,KW-0550,Kahale,Warring,Kahale Warring,TE,HOU,Concussion,,IR
@@ -2043,27 +1286,6 @@
 34402,5309,2019,17,KW-0550,Kahale,Warring,Kahale Warring,TE,HOU,Concussion,,IR
 34639,5314,2019,18,KW-0550,Kahale,Warring,Kahale Warring,TE,HOU,Concussion,,IR
 34852,5320,2019,19,KW-0550,Kahale,Warring,Kahale Warring,TE,HOU,Concussion,,IR
-26174,5089,2019,2,LB-0250,Le'Veon,Bell,Le'Veon Bell,RB,NYJ,Shoulder,Limited,Questionable
-30070,5201,2019,10,LB-0250,Le'Veon,Bell,Le'Veon Bell,RB,NYJ,Knee/Ankle,LP,Questionable
-30546,5214,2019,11,LB-0250,Le'Veon,Bell,Le'Veon Bell,RB,NYJ,Illness,Limited,Questionable
-32230,5257,2019,14,LB-0250,Le'Veon,Bell,Le'Veon Bell,RB,NYJ,Illness,DNP,Questionable
-32586,5266,2019,15,LB-0250,Le'Veon,Bell,Le'Veon Bell,RB,NYJ,Illness,FP,Available
-33037,5277,2019,15,LC-0875,Logan,Cooke,Logan Cooke,K,JAC,Right Hamstring,FP,Available
-25773,5075,2019,2,LF-0200,Larry,Fitzgerald,Larry Fitzgerald,WR,ARI,Not-Injury Related,Full,Available
-26489,5099,2019,3,LF-0200,Larry,Fitzgerald,Larry Fitzgerald,WR,ARI,Not-Injury Related,Full,Available
-27242,5122,2019,5,LF-0200,Larry,Fitzgerald,Larry Fitzgerald,WR,ARI,Not Injury Related,Full,Available
-28004,5144,2019,6,LF-0200,Larry,Fitzgerald,Larry Fitzgerald,WR,ARI,Not Injury Related,Full,Available
-28262,5151,2019,7,LF-0200,Larry,Fitzgerald,Larry Fitzgerald,WR,ARI,Not Injury Related,Full,Available
-28764,5165,2019,8,LF-0200,Larry,Fitzgerald,Larry Fitzgerald,WR,ARI,Not Injury Related,Full,Available
-29833,5194,2019,10,LF-0200,Larry,Fitzgerald,Larry Fitzgerald,WR,ARI,Not-Injury Related,FP,Available
-30597,5215,2019,11,LF-0200,Larry,Fitzgerald,Larry Fitzgerald,WR,ARI,Not Injury Related,Full,Available
-31733,5245,2019,13,LF-0200,Larry,Fitzgerald,Larry Fitzgerald,WR,ARI,Non-Injury Related,FP,Available
-32428,5262,2019,14,LF-0200,Larry,Fitzgerald,Larry Fitzgerald,WR,ARI,Not-Injury Related,FP,Available
-32991,5276,2019,15,LF-0200,Larry,Fitzgerald,Larry Fitzgerald,WR,ARI,Not-Injury Related,FP,Available
-33768,5294,2019,16,LF-0200,Larry,Fitzgerald,Larry Fitzgerald,WR,ARI,Non-Injury Related,FP,Available
-34127,5302,2019,17,LF-0650,Leonard,Fournette,Leonard Fournette,RB,JAC,Neck,DNP,Questionable
-29898,5196,2019,10,LJ-0150,Lamar,Jackson,Lamar Jackson,QB,BAL,Illness,FP,Questionable
-32559,5266,2019,15,LJ-0150,Lamar,Jackson,Lamar Jackson,QB,BAL,Quad,FP,Questionable
 25608,5069,2019,1,LL-0650,Lance,Lenoir,Lance Lenoir,WR,DAL,Knee,,IR
 25823,5077,2019,2,LL-0650,Lance,Lenoir,Lance Lenoir,WR,DAL,Knee,,IR
 26387,5096,2019,3,LL-0650,Lance,Lenoir,Lance Lenoir,WR,DAL,Knee,,IR
@@ -2080,11 +1302,6 @@
 33136,5279,2019,15,LL-0650,Lance,Lenoir,Lance Lenoir,WR,DAL,Knee,,IR
 33827,5295,2019,16,LL-0650,Lance,Lenoir,Lance Lenoir,WR,DAL,Knee,,IR
 34448,5310,2019,17,LL-0650,Lance,Lenoir,Lance Lenoir,WR,DAL,Knee,,IR
-26273,5092,2019,3,LM-1000,LeSean,McCoy,LeSean McCoy,RB,KC,Ankle,Full,Questionable
-26815,5109,2019,4,LM-1000,LeSean,McCoy,LeSean McCoy,RB,KC,Ankle,Full,Available
-27676,5134,2019,5,LM-1000,LeSean,McCoy,LeSean McCoy,RB,KC,Ankle,Full,Available
-27840,5139,2019,6,LM-1000,LeSean,McCoy,LeSean McCoy,RB,KC,Ankle,Full,Available
-34946,5322,2019,20,LM-1000,LeSean,McCoy,LeSean McCoy,RB,KC,Illnes,LP,Questionable
 25700,5072,2019,1,LM-1150,Lamar,Miller,Lamar Miller,RB,HOU,Knee - ACL,,IR
 25887,5079,2019,2,LM-1150,Lamar,Miller,Lamar Miller,RB,HOU,Knee - ACL,,IR
 26553,5101,2019,3,LM-1150,Lamar,Miller,Lamar Miller,RB,HOU,Knee - ACL,,IR
@@ -2103,44 +1320,7 @@
 34400,5309,2019,17,LM-1150,Lamar,Miller,Lamar Miller,RB,HOU,Knee - ACL,,IR
 34636,5314,2019,18,LM-1150,Lamar,Miller,Lamar Miller,RB,HOU,Knee - ACL,,IR
 34853,5320,2019,19,LM-1150,Lamar,Miller,Lamar Miller,RB,HOU,Knee - ACL,,IR
-27880,5140,2019,6,LM-1850,Latavius,Murray,Latavius Murray,RB,NO,Not Injury Related -- Personal,DNP,Available
-26229,5091,2019,3,LS-1900,Luke,Stocker,Luke Stocker,TE,ATL,Foot,Full,Available
-30279,5207,2019,11,LS-1900,Luke,Stocker,Luke Stocker,TE,ATL,Knee,Full,Available
-31370,5236,2019,13,LS-1900,Luke,Stocker,Luke Stocker,TE,ATL,Back,DNP,Questionable
-32001,5252,2019,14,LS-1900,Luke,Stocker,Luke Stocker,TE,ATL,Back,FP,Available
-33491,5288,2019,16,LS-1900,Luke,Stocker,Luke Stocker,TE,ATL,Hip,LP,Available
-28445,5156,2019,7,LT-0275,Logan,Thomas,Logan Thomas,TE,DET,Shoulder,Full,Available
-29103,5174,2019,8,LT-0550,Levine,Toilolo,Levine Toilolo,TE,SF,Groin,Limited,Questionable
-29285,5179,2019,9,LT-0550,Levine,Toilolo,Levine Toilolo,TE,SF,Groin,Limited,Questionable
-30230,5205,2019,10,LT-0550,Levine,Toilolo,Levine Toilolo,TE,SF,Groin,Limited,Available
-30624,5215,2019,11,LT-0550,Levine,Toilolo,Levine Toilolo,TE,SF,Groin,Full,Available
-30196,5205,2019,10,LW-1450,Luke,Willson,Luke Willson,TE,SEA,Ribs,Limited,Available
-31241,5232,2019,12,LW-1450,Luke,Willson,Luke Willson,TE,SEA,Hamstring,DNP,Doubtful
-31901,5249,2019,13,LW-1450,Luke,Willson,Luke Willson,TE,SEA,Hamstring,DNP,Questionable
-32509,5264,2019,14,LW-1450,Luke,Willson,Luke Willson,TE,SEA,Hamstring,DNP,Doubtful
-32909,5274,2019,15,LW-1450,Luke,Willson,Luke Willson,TE,SEA,Hamstring,DNP,Available
-33783,5294,2019,16,LW-1450,Luke,Willson,Luke Willson,TE,SEA,Hamstring,FP,Available
-34756,5317,2019,18,LW-1450,Luke,Willson,Luke Willson,TE,SEA,Hip,FP,Available
-30468,5212,2019,11,MA-0487,Mo,Alie-Cox,Mo Alie-Cox,TE,IND,Hip,DNP,Questionable
-30794,5220,2019,12,MA-0487,Mo,Alie-Cox,Mo Alie-Cox,TE,IND,Thumb,Full,Questionable
-31647,5243,2019,13,MA-0487,Mo,Alie-Cox,Mo Alie-Cox,TE,IND,Thumb,FP,Questionable
-32161,5256,2019,14,MA-0487,Mo,Alie-Cox,Mo Alie-Cox,TE,IND,Thumb,FP,Available
-26263,5092,2019,3,MA-1050,Mark,Andrews,Mark Andrews,TE,BAL,Foot,Limited,Questionable
-26780,5108,2019,4,MA-1050,Mark,Andrews,Mark Andrews,TE,BAL,Foot,Limited,Questionable
-27313,5124,2019,5,MA-1050,Mark,Andrews,Mark Andrews,TE,BAL,Foot,Full,Available
-27795,5138,2019,6,MA-1050,Mark,Andrews,Mark Andrews,TE,BAL,Shoulder,Full,Questionable
-32560,5266,2019,15,MA-1050,Mark,Andrews,Mark Andrews,TE,BAL,Knee,LP,Questionable
-34355,5308,2019,17,MA-1050,Mark,Andrews,Mark Andrews,TE,BAL,Ankle,LP,Questionable
-34810,5319,2019,19,MA-1050,Mark,Andrews,Mark Andrews,TE,BAL,Ankle,LP,Questionable
-33065,5277,2019,15,MA-1287,Marcell,Ateman,Marcell Ateman,WR,OAK,Ribs,LP,Questionable
-25565,5067,2019,1,MB-0020,Michael,Badgley,Michael Badgley,K,LAC,Groin,Limited,Questionable
-25933,5080,2019,2,MB-0020,Michael,Badgley,Michael Badgley,K,LAC,Right Groin,Limited,Questionable
-26566,5101,2019,3,MB-0020,Michael,Badgley,Michael Badgley,K,LAC,Right Groin,Full,Doubtful
 26834,5110,2019,4,MB-0020,Michael,Badgley,Michael Badgley,K,LAC,Right Groin,DNP,Out
-27593,5132,2019,5,MB-0020,Michael,Badgley,Michael Badgley,K,LAC,Right Groin,DNP,Doubtful
-28139,5148,2019,6,MB-0020,Michael,Badgley,Michael Badgley,K,LAC,Right Groin,DNP,Doubtful
-28535,5159,2019,7,MB-0020,Michael,Badgley,Michael Badgley,K,LAC,Right Groin,Full,Questionable
-28825,5167,2019,8,MB-0020,Michael,Badgley,Michael Badgley,K,LAC,Right Groin,Full,Questionable
 25458,5063,2019,1,MB-1175,Marcus,Baugh,Marcus Baugh,TE,CAR,Undisclosed,,IR
 25752,5074,2019,2,MB-1175,Marcus,Baugh,Marcus Baugh,TE,CAR,Undisclosed,,IR
 26506,5099,2019,3,MB-1175,Marcus,Baugh,Marcus Baugh,TE,CAR,Undisclosed,,IR
@@ -2158,7 +1338,6 @@
 33306,5284,2019,16,MB-1175,Marcus,Baugh,Marcus Baugh,TE,CAR,Undisclosed,,IR
 34235,5305,2019,17,MB-1175,Marcus,Baugh,Marcus Baugh,TE,CAR,Undisclosed,,IR
 26228,5091,2019,3,MB-3000,Matt,Bosher,Matt Bosher,K,ATL,Groin,DNP,Out
-26952,5113,2019,4,MB-3000,Matt,Bosher,Matt Bosher,K,ATL,Right Groin,Full,Available
 27271,5123,2019,5,MB-3000,Matt,Bosher,Matt Bosher,K,ATL,Groin,DNP,IR
 28021,5144,2019,6,MB-3000,Matt,Bosher,Matt Bosher,K,ATL,Groin,,IR
 28370,5154,2019,7,MB-3000,Matt,Bosher,Matt Bosher,K,ATL,Groin,,IR
@@ -2167,54 +1346,18 @@
 30278,5207,2019,11,MB-3000,Matt,Bosher,Matt Bosher,K,ATL,Groin,,IR
 31071,5228,2019,12,MB-3000,Matt,Bosher,Matt Bosher,K,ATL,Groin,,IR
 31372,5236,2019,13,MB-3000,Matt,Bosher,Matt Bosher,K,ATL,Groin,,IR
-32000,5252,2019,14,MB-3000,Matt,Bosher,Matt Bosher,K,ATL,Right groin,LP,Questionable
 33079,5278,2019,15,MB-3000,Matt,Bosher,Matt Bosher,K,ATL,Groin,,IR
 33493,5288,2019,16,MB-3000,Matt,Bosher,Matt Bosher,K,ATL,Groin,,IR
 33918,5298,2019,17,MB-3000,Matt,Bosher,Matt Bosher,K,ATL,Groin,,IR
-31563,5241,2019,13,MB-3325,Miles,Boykin,Miles Boykin,WR,BAL,Ankle,DNP,Questionable
-29287,5179,2019,9,MB-3537,Matt,Breida,Matt Breida,RB,SF,Ankle,Limited,Questionable
-30231,5205,2019,10,MB-3537,Matt,Breida,Matt Breida,RB,SF,Ankle,Full,Available
-30625,5215,2019,11,MB-3537,Matt,Breida,Matt Breida,RB,SF,Ankle,DNP,Doubtful
-31224,5231,2019,12,MB-3537,Matt,Breida,Matt Breida,RB,SF,Ankle,DNP,Doubtful
-31589,5241,2019,13,MB-3537,Matt,Breida,Matt Breida,RB,SF,Ankle,LP,Questionable
-32276,5258,2019,14,MB-3537,Matt,Breida,Matt Breida,RB,SF,Ankle,FP,Available
-26669,5104,2019,3,MB-3862,Malcolm,Brown,Malcolm Brown,RB,LA,Ankle,Full,Available
-28394,5154,2019,7,MB-3862,Malcolm,Brown,Malcolm Brown,RB,LA,Ankle,DNP,Doubtful
 28813,5166,2019,8,MB-3862,Malcolm,Brown,Malcolm Brown,RB,LA,Ankle,DNP,Out
-30145,5203,2019,10,MB-3862,Malcolm,Brown,Malcolm Brown,RB,LA,Ankle,FP,Available
-31302,5233,2019,12,MB-3862,Malcolm,Brown,Malcolm Brown,RB,LA,Not Injury Related,Full,Available
-25378,5060,2019,1,MB-4075,Marquise,Brown,Marquise Brown,WR,BAL,Foot,DNP,Questionable
-25782,5075,2019,2,MB-4075,Marquise,Brown,Marquise Brown,WR,BAL,Foot,DNP,Questionable
-26264,5092,2019,3,MB-4075,Marquise,Brown,Marquise Brown,WR,BAL,NIR,DNP,Available
-27792,5138,2019,6,MB-4075,Marquise,Brown,Marquise Brown,WR,BAL,Ankle,DNP,Questionable
-28579,5160,2019,7,MB-4075,Marquise,Brown,Marquise Brown,WR,BAL,Ankle,DNP,Questionable
-29725,5191,2019,9,MB-4075,Marquise,Brown,Marquise Brown,WR,BAL,Ankle,DNP,Questionable
-29899,5196,2019,10,MB-4075,Marquise,Brown,Marquise Brown,WR,BAL,Ankle/Thigh,LP,Questionable
-30434,5211,2019,11,MB-4075,Marquise,Brown,Marquise Brown,WR,BAL,Ankle,Limited,Questionable
-31971,5251,2019,14,MB-4075,Marquise,Brown,Marquise Brown,WR,BAL,Ankle,FP,Questionable
-34354,5308,2019,17,MB-4075,Marquise,Brown,Marquise Brown,WR,BAL,Illness,DNP,Questionable
-27122,5118,2019,4,MD-0150,Mike,Davis,Mike Davis,RB,CHI,Not Injury Related,Full,Available
 25704,5072,2019,1,MD-0175,Matt,Dayes,Matt Dayes,RB,NO,Undisclosed,,IR
-25661,5070,2019,1,ME-0600,Mike,Evans,Mike Evans,WR,TB,Illness,DNP,Questionable
 32958,5275,2019,15,ME-0600,Mike,Evans,Mike Evans,WR,TB,Hamstring,DNP,Out
 33465,5287,2019,16,ME-0600,Mike,Evans,Mike Evans,WR,TB,Hamstring,,IR
 33943,5298,2019,17,ME-0600,Mike,Evans,Mike Evans,WR,TB,Hamstring,,IR
 25497,5065,2019,1,MF-0575,Matt,Flanagan,Matt Flanagan,TE,WAS,Undisclosed,,IR
 26390,5096,2019,3,MG-0175,Michael,Gallup,Michael Gallup,WR,DAL,Knee,DNP,Out
 27149,5119,2019,4,MG-0175,Michael,Gallup,Michael Gallup,WR,DAL,Knee,DNP,Out
-27612,5133,2019,5,MG-0175,Michael,Gallup,Michael Gallup,WR,DAL,Knee,Limited,Questionable
-28078,5146,2019,6,MG-0175,Michael,Gallup,Michael Gallup,WR,DAL,Knee,Full,Available
-28650,5162,2019,7,MG-0175,Michael,Gallup,Michael Gallup,WR,DAL,Knee,Limited,Available
-29766,5192,2019,9,MG-0175,Michael,Gallup,Michael Gallup,WR,DAL,Knee,Full,Available
-30173,5204,2019,10,MG-0175,Michael,Gallup,Michael Gallup,WR,DAL,Knee,FP,Available
-30365,5209,2019,11,MG-0175,Michael,Gallup,Michael Gallup,WR,DAL,Knee,Full,Available
 34185,5304,2019,17,MG-0293,Myles,Gaskin,Myles Gaskin,RB,MIA,Ankle,,IR
-33464,5287,2019,16,MG-0306,Matt,Gay,Matt Gay,K,TB,Right groin,FP,Available
-33944,5298,2019,17,MG-0306,Matt,Gay,Matt Gay,K,TB,Back,FP,Available
-33375,5285,2019,16,MG-0325,Mike,Gesicki,Mike Gesicki,TE,MIA,Hip,FP,Available
-28059,5145,2019,6,MG-1050,Marquise,Goodwin,Marquise Goodwin,WR,SF,Not Injury Related,DNP,Available
-29102,5174,2019,8,MG-1050,Marquise,Goodwin,Marquise Goodwin,WR,SF,Not Injury Related,DNP,Questionable
-32275,5258,2019,14,MG-1050,Marquise,Goodwin,Marquise Goodwin,WR,SF,Knee,LP,Questionable
 33109,5278,2019,15,MG-1050,Marquise,Goodwin,Marquise Goodwin,WR,SF,Knee,,IR
 33567,5289,2019,16,MG-1050,Marquise,Goodwin,Marquise Goodwin,WR,SF,Knee,,IR
 34614,5313,2019,17,MG-1050,Marquise,Goodwin,Marquise Goodwin,WR,SF,Knee,,IR
@@ -2226,17 +1369,7 @@
 32948,5275,2019,15,MH-0225,Marvin,Hall,Marvin Hall,WR,DET,Foot,,IR
 33434,5286,2019,16,MH-0225,Marvin,Hall,Marvin Hall,WR,DET,Foot,,IR
 34043,5301,2019,17,MH-0225,Marvin,Hall,Marvin Hall,WR,DET,Foot,,IR
-33869,5296,2019,16,MH-0875,Mecole,Hardman,Mecole Hardman,WR,KC,Glute,FP,Available
-27794,5138,2019,6,MI-0100,Mark,Ingram,Mark Ingram,RB,BAL,Not Injury Related,Full,Available
-28581,5160,2019,7,MI-0100,Mark,Ingram,Mark Ingram,RB,BAL,Not Injury Related,Full,Available
-30435,5211,2019,11,MI-0100,Mark,Ingram,Mark Ingram,RB,BAL,Not Injury Related,Full,Available
-31284,5233,2019,12,MI-0100,Mark,Ingram,Mark Ingram,RB,BAL,Not Injury Related,Full,Available
-31564,5241,2019,13,MI-0100,Mark,Ingram,Mark Ingram,RB,BAL,Ankle,FP,Available
-31973,5251,2019,14,MI-0100,Mark,Ingram,Mark Ingram,RB,BAL,NIR,FP,Available
-32562,5266,2019,15,MI-0100,Mark,Ingram,Mark Ingram,RB,BAL,NIR,FP,Available
-33237,5282,2019,16,MI-0100,Mark,Ingram,Mark Ingram,RB,BAL,NIR,FP,Available
 34356,5308,2019,17,MI-0100,Mark,Ingram,Mark Ingram,RB,BAL,Calf,DNP,Out
-34811,5319,2019,19,MI-0100,Mark,Ingram,Mark Ingram,RB,BAL,Calf,LP,Questionable
 25335,5058,2019,1,MJ-1175,Malcolm,Johnson,Malcolm Johnson,RB,GB,Shoulder,,IR
 25941,5081,2019,2,MJ-1175,Malcolm,Johnson,Malcolm Johnson,RB,GB,Shoulder,,IR
 26332,5094,2019,3,MJ-1175,Malcolm,Johnson,Malcolm Johnson,RB,GB,Shoulder,,IR
@@ -2278,22 +1411,10 @@
 34864,5320,2019,19,MK-0715,Marcus,Kemp,Marcus Kemp,WR,KC,Knee,,IR
 34941,5322,2019,20,MK-0715,Marcus,Kemp,Marcus Kemp,WR,KC,Knee,,IR
 35031,5324,2019,21,MK-0715,Marcus,Kemp,Marcus Kemp,WR,KC,Knee,,IR
-25682,5071,2019,1,ML-0050,Matt,LaCosse,Matt LaCosse,TE,NE,Ankle,Limited,Questionable
-25992,5082,2019,2,ML-0050,Matt,LaCosse,Matt LaCosse,TE,NE,Ankle,Limited,Questionable
-26414,5097,2019,3,ML-0050,Matt,LaCosse,Matt LaCosse,TE,NE,Ankle,DNP,Questionable
-26905,5111,2019,4,ML-0050,Matt,LaCosse,Matt LaCosse,TE,NE,Ankle,Limited,Questionable
 28681,5163,2019,7,ML-0050,Matt,LaCosse,Matt LaCosse,TE,NE,Knee,DNP,Out
 29138,5175,2019,8,ML-0050,Matt,LaCosse,Matt LaCosse,TE,NE,Knee,DNP,Out
 29751,5191,2019,9,ML-0050,Matt,LaCosse,Matt LaCosse,TE,NE,Knee,Limited,Out
-30679,5217,2019,11,ML-0050,Matt,LaCosse,Matt LaCosse,TE,NE,Knee,Limited,Questionable
-25431,5062,2019,1,ML-0650,Marqise,Lee,Marqise Lee,WR,JAC,Knee,Full,Available
-25910,5079,2019,2,ML-0650,Marqise,Lee,Marqise Lee,WR,JAC,Knee,DNP,Questionable
-26199,5090,2019,3,ML-0650,Marqise,Lee,Marqise Lee,WR,JAC,Knee,Full,Available
-27107,5117,2019,4,ML-0650,Marqise,Lee,Marqise Lee,WR,JAC,Not Injury Related,Full,Available
-27418,5127,2019,5,ML-0650,Marqise,Lee,Marqise Lee,WR,JAC,Not Injury Related,Full,Available
-27875,5140,2019,6,ML-0650,Marqise,Lee,Marqise Lee,WR,JAC,Not Injury Related,Full,Available
 28358,5153,2019,7,ML-0650,Marqise,Lee,Marqise Lee,WR,JAC,Ankle,DNP,Out
-28885,5169,2019,8,ML-0650,Marqise,Lee,Marqise Lee,WR,JAC,Ankle,Full,Available
 29337,5180,2019,9,ML-0650,Marqise,Lee,Marqise Lee,WR,JAC,Shoulder,,IR
 30494,5212,2019,11,ML-0650,Marqise,Lee,Marqise Lee,WR,JAC,Shoulder,,IR
 31120,5229,2019,12,ML-0650,Marqise,Lee,Marqise Lee,WR,JAC,Shoulder,,IR
@@ -2302,41 +1423,10 @@
 33044,5277,2019,15,ML-0650,Marqise,Lee,Marqise Lee,WR,JAC,Shoulder,,IR
 33535,5288,2019,16,ML-0650,Marqise,Lee,Marqise Lee,WR,JAC,Shoulder,,IR
 34128,5302,2019,17,ML-0650,Marqise,Lee,Marqise Lee,WR,JAC,Shoulder,,IR
-28185,5149,2019,6,ML-1500,Marcedes,Lewis,Marcedes Lewis,TE,GB,Heel,Limited,Available
-29185,5177,2019,8,ML-1500,Marcedes,Lewis,Marcedes Lewis,TE,GB,Not Injury Related,Limited,Available
-29685,5190,2019,9,ML-1500,Marcedes,Lewis,Marcedes Lewis,TE,GB,Not Injury Related,Limited,Available
-29974,5198,2019,10,ML-1500,Marcedes,Lewis,Marcedes Lewis,TE,GB,NIR (veteran rest),LP,Available
-31191,5231,2019,12,ML-1500,Marcedes,Lewis,Marcedes Lewis,TE,GB,Not Injury Related,Full,Available
-31403,5237,2019,13,ML-1500,Marcedes,Lewis,Marcedes Lewis,TE,GB,NIR (veteran rest),LP,Available
-32294,5259,2019,14,ML-1500,Marcedes,Lewis,Marcedes Lewis,TE,GB,NIR (veteran rest),LP,Available
-32653,5268,2019,15,ML-1500,Marcedes,Lewis,Marcedes Lewis,TE,GB,NIR (veteran rest),FP,Available
-33891,5297,2019,16,ML-1500,Marcedes,Lewis,Marcedes Lewis,TE,GB,NIR (veteran rest),LP,Available
-34057,5301,2019,17,ML-1500,Marcedes,Lewis,Marcedes Lewis,TE,GB,NIR (veteran rest),LP,Available
-34885,5321,2019,19,ML-1500,Marcedes,Lewis,Marcedes Lewis,TE,GB,NIR (veteran rest),LP,Available
-34992,5323,2019,20,ML-1500,Marcedes,Lewis,Marcedes Lewis,TE,GB,NIR (veteran rest),LP,Available
-26243,5091,2019,3,MM-0050,Marlon,Mack,Marlon Mack,RB,IND,Calf,Limited,Questionable
-27656,5134,2019,5,MM-0050,Marlon,Mack,Marlon Mack,RB,IND,Ankle,Full,Questionable
 30796,5220,2019,12,MM-0050,Marlon,Mack,Marlon Mack,RB,IND,Hand,DNP,Out
 31643,5243,2019,13,MM-0050,Marlon,Mack,Marlon Mack,RB,IND,Hand,DNP,Out
-32156,5256,2019,14,MM-0050,Marlon,Mack,Marlon Mack,RB,IND,Hand,FP,Available
-26214,5090,2019,3,MM-0912,Marcus,Mariota,Marcus Mariota,QB,TEN,Quad,Full,Available
-34939,5322,2019,20,MM-4700,Matt,Moore,Matt Moore,QB,KC,Illness,LP,Questionable
-34039,5301,2019,17,MP-2100,Matt,Prater,Matt Prater,K,DET,illness,LP,Questionable
 28167,5148,2019,6,MR-2350,Mason,Rudolph,Mason Rudolph,QB,PIT,Concussion,Limited,Out
-29253,5178,2019,8,MR-2350,Mason,Rudolph,Mason Rudolph,QB,PIT,Concussion,Full,Available
 34370,5308,2019,17,MR-2350,Mason,Rudolph,Mason Rudolph,QB,PIT,Shoulder,,IR
-28992,5172,2019,8,MR-2500,Matt,Ryan,Matt Ryan,QB,ATL,Ankle,Limited,Available
-29861,5195,2019,10,MR-2500,Matt,Ryan,Matt Ryan,QB,ATL,Ankle,LP,Available
-30276,5207,2019,11,MR-2500,Matt,Ryan,Matt Ryan,QB,ATL,Ankle,Limited,Available
-31068,5228,2019,12,MR-2500,Matt,Ryan,Matt Ryan,QB,ATL,Ankle,Full,Available
-31363,5236,2019,13,MR-2500,Matt,Ryan,Matt Ryan,QB,ATL,Ankle,,Available
-29360,5181,2019,9,MS-0125,Miles,Sanders,Miles Sanders,RB,PHI,Shoulder,Full,Available
-34725,5317,2019,18,MS-0125,Miles,Sanders,Miles Sanders,RB,PHI,Ankle,FP,Available
-31180,5230,2019,12,MS-0150,Mohamed,Sanu,Mohamed Sanu,WR,NE,Ankle,Limited,Questionable
-31878,5248,2019,13,MS-0150,Mohamed,Sanu,Mohamed Sanu,WR,NE,Ankle,LP,Questionable
-32412,5261,2019,14,MS-0150,Mohamed,Sanu,Mohamed Sanu,WR,NE,Ankle,LP,Questionable
-32833,5272,2019,15,MS-0150,Mohamed,Sanu,Mohamed Sanu,WR,NE,Ankle,LP,Questionable
-32052,5253,2019,14,MS-0537,Mason,Schreck,Mason Schreck,TE,CIN,Illness,FP,Available
 25428,5062,2019,1,MS-1625,Marcus,Simms,Marcus Simms,WR,JAC,Concussion,,IR
 25912,5079,2019,2,MS-1625,Marcus,Simms,Marcus Simms,WR,JAC,Concussion,,IR
 26200,5090,2019,3,MS-1625,Marcus,Simms,Marcus Simms,WR,JAC,Concussion,,IR
@@ -2363,14 +1453,6 @@
 33077,5278,2019,15,MS-1650,Matt,Simms,Matt Simms,QB,ATL,Undisclosed,,IR
 33490,5288,2019,16,MS-1650,Matt,Simms,Matt Simms,QB,ATL,Undisclosed,,IR
 33916,5298,2019,17,MS-1650,Matt,Simms,Matt Simms,QB,ATL,Undisclosed,,IR
-31179,5230,2019,12,MS-2100,Matthew,Slater,Matthew Slater,WR,NE,Hamstring,Limited,Questionable
-31876,5248,2019,13,MS-2100,Matthew,Slater,Matthew Slater,WR,NE,Hamstring,LP,Questionable
-26810,5109,2019,4,MS-4100,Matthew,Stafford,Matthew Stafford,QB,DET,Hip,Limited,Questionable
-28179,5149,2019,6,MS-4100,Matthew,Stafford,Matthew Stafford,QB,DET,Hip,Full,Available
-28441,5156,2019,7,MS-4100,Matthew,Stafford,Matthew Stafford,QB,DET,Hip,Full,Available
-28852,5168,2019,8,MS-4100,Matthew,Stafford,Matthew Stafford,QB,DET,Hip,Full,Available
-29564,5187,2019,9,MS-4100,Matthew,Stafford,Matthew Stafford,QB,DET,Hip,Full,Available
-30011,5199,2019,10,MS-4100,Matthew,Stafford,Matthew Stafford,QB,DET,hip/back,LP,Questionable
 30380,5209,2019,11,MS-4100,Matthew,Stafford,Matthew Stafford,QB,DET,Hip,DNP,Out
 30890,5223,2019,12,MS-4100,Matthew,Stafford,Matthew Stafford,QB,DET,Hip,DNP,Out
 31329,5234,2019,13,MS-4100,Matthew,Stafford,Matthew Stafford,QB,DET,hip/back,DNP,Out
@@ -2378,62 +1460,18 @@
 32947,5275,2019,15,MS-4100,Matthew,Stafford,Matthew Stafford,QB,DET,hip/back,DNP,Out
 33432,5286,2019,16,MS-4100,Matthew,Stafford,Matthew Stafford,QB,DET,Back,,IR
 34038,5301,2019,17,MS-4100,Matthew,Stafford,Matthew Stafford,QB,DET,Back,,IR
-34246,5305,2019,17,MT-0875,Michael,Thomas,Michael Thomas,WR,NO,Hand,FP,Available
-34519,5311,2019,17,MT-0887,Mike,Thomas,Mike Thomas,WR,LA,Illness,FP,Available
 27368,5126,2019,5,MT-1800,Mitchell,Trubisky,Mitchell Trubisky,QB,CHI,Left Shoulder,DNP,Out
-28609,5161,2019,7,MT-1800,Mitchell,Trubisky,Mitchell Trubisky,QB,CHI,Left Shoulder,Full,Questionable
-30954,5225,2019,12,MT-1800,Mitchell,Trubisky,Mitchell Trubisky,QB,CHI,Hip,Full,Available
-34578,5313,2019,17,MT-2350,Malik,Turner,Malik Turner,WR,SEA,Concussion,DNP,Available
-34760,5317,2019,18,MT-2350,Malik,Turner,Malik Turner,WR,SEA,Concussion,DNP,Available
-34912,5321,2019,19,MT-2350,Malik,Turner,Malik Turner,WR,SEA,Concussion,FP,Available
-25942,5081,2019,2,MV-0012,Marquez,Valdes-Scantling,Marquez Valdes-Scantling,WR,GB,Shoulder,Full,Available
-28183,5149,2019,6,MV-0012,Marquez,Valdes-Scantling,Marquez Valdes-Scantling,WR,GB,Hamstring,Full,Available
-28463,5157,2019,7,MV-0012,Marquez,Valdes-Scantling,Marquez Valdes-Scantling,WR,GB,Ankle,Limited,Questionable
-29183,5177,2019,8,MV-0012,Marquez,Valdes-Scantling,Marquez Valdes-Scantling,WR,GB,Ankle,Full,Available
-29686,5190,2019,9,MV-0012,Marquez,Valdes-Scantling,Marquez Valdes-Scantling,WR,GB,Ankle,Full,Available
-29969,5198,2019,10,MV-0012,Marquez,Valdes-Scantling,Marquez Valdes-Scantling,WR,GB,Ankle/Knee,FP,Available
 34125,5302,2019,17,MW-0350,Michael,Walker,Michael Walker,WR,JAC,Hamstring,DNP,Out
-27963,5143,2019,6,MW-0650,Mark,Walton,Mark Walton,RB,MIA,Illness,Limited,Available
-28430,5155,2019,7,MW-0650,Mark,Walton,Mark Walton,RB,MIA,Thumb,Limited,Available
 28019,5144,2019,6,MW-1487,Matt,Wile,Matt Wile,K,ATL,Right Quadricep,DNP,Out
-28264,5151,2019,7,MW-2450,Maxx,Williams,Maxx Williams,TE,ARI,Ankle,Limited,Questionable
-28766,5165,2019,8,MW-2450,Maxx,Williams,Maxx Williams,TE,ARI,Ankle,Full,Available
-30600,5215,2019,11,MW-2450,Maxx,Williams,Maxx Williams,TE,ARI,Illness,Full,Available
-32994,5276,2019,15,MW-2450,Maxx,Williams,Maxx Williams,TE,ARI,Knee,FP,Available
-25924,5080,2019,2,MW-2825,Mike,Williams,Mike Williams,WR,LAC,Knee,Limited,Questionable
-26565,5101,2019,3,MW-2825,Mike,Williams,Mike Williams,WR,LAC,Knee,Full,Available
 26837,5110,2019,4,MW-2825,Mike,Williams,Mike Williams,WR,LAC,Back,DNP,Out
-27590,5132,2019,5,MW-2825,Mike,Williams,Mike Williams,WR,LAC,Back,Full,Questionable
-31817,5247,2019,13,MW-2825,Mike,Williams,Mike Williams,WR,LAC,Knee,FP,Available
-32366,5260,2019,14,MW-2825,Mike,Williams,Mike Williams,WR,LAC,Knee,FP,Available
-33162,5280,2019,15,MW-2825,Mike,Williams,Mike Williams,WR,LAC,Knee,FP,Available
-33664,5292,2019,16,MW-2825,Mike,Williams,Mike Williams,WR,LAC,Knee,FP,Available
-27900,5141,2019,6,NA-0050,Nelson,Agholor,Nelson Agholor,WR,PHI,Illness,Limited,Available
-31226,5232,2019,12,NA-0050,Nelson,Agholor,Nelson Agholor,WR,PHI,Knee,DNP,Questionable
-31538,5240,2019,13,NA-0050,Nelson,Agholor,Nelson Agholor,WR,PHI,Knee,FP,Available
-32538,5265,2019,14,NA-0050,Nelson,Agholor,Nelson Agholor,WR,PHI,Knee,DNP,Questionable
-32841,5273,2019,15,NA-0050,Nelson,Agholor,Nelson Agholor,WR,PHI,Knee,DNP,Questionable
-33835,5295,2019,16,NA-0050,Nelson,Agholor,Nelson Agholor,WR,PHI,Knee,DNP,Questionable
 34331,5307,2019,17,NA-0050,Nelson,Agholor,Nelson Agholor,WR,PHI,Knee,DNP,Out
 34724,5317,2019,18,NA-0050,Nelson,Agholor,Nelson Agholor,WR,PHI,Knee,DNP,Out
-28442,5156,2019,7,NB-0125,Nick,Bawden,Nick Bawden,RB,DET,Back,Limited,Questionable
-28853,5168,2019,8,NB-0125,Nick,Bawden,Nick Bawden,RB,DET,Foot,Full,Questionable
-30381,5209,2019,11,NB-0125,Nick,Bawden,Nick Bawden,RB,DET,Foot,,Available
 30889,5223,2019,12,NB-0125,Nick,Bawden,Nick Bawden,RB,DET,Knee,,IR
 31328,5234,2019,13,NB-0125,Nick,Bawden,Nick Bawden,RB,DET,Knee,,IR
 32138,5255,2019,14,NB-0125,Nick,Bawden,Nick Bawden,RB,DET,Knee,,IR
 32945,5275,2019,15,NB-0125,Nick,Bawden,Nick Bawden,RB,DET,Knee,,IR
 33430,5286,2019,16,NB-0125,Nick,Bawden,Nick Bawden,RB,DET,Knee,,IR
 34040,5301,2019,17,NB-0125,Nick,Bawden,Nick Bawden,RB,DET,Knee,,IR
-31897,5249,2019,13,NB-0200,Nick,Bellore,Nick Bellore,RB,SEA,Quadriceps,DNP,Doubtful
-32503,5264,2019,14,NB-0200,Nick,Bellore,Nick Bellore,RB,SEA,Quadriceps,DNP,Doubtful
-32907,5274,2019,15,NB-0200,Nick,Bellore,Nick Bellore,RB,SEA,Quadriceps,FP,Available
-31566,5241,2019,13,NB-0450,Nick,Boyle,Nick Boyle,TE,BAL,Ankle,FP,Questionable
-31976,5251,2019,14,NB-0450,Nick,Boyle,Nick Boyle,TE,BAL,Illness,FP,Available
-29145,5176,2019,8,NF-0175,Noah,Fant,Noah Fant,TE,DEN,Foot,DNP,Available
-32677,5269,2019,15,NF-0175,Noah,Fant,Noah Fant,TE,DEN,Hip/Foot,LP,Questionable
-33392,5286,2019,16,NF-0175,Noah,Fant,Noah Fant,TE,DEN,Shoulder/Illness,LP,Questionable
-25430,5062,2019,1,NF-0250,Nick,Foles,Nick Foles,QB,JAC,Oblique,Full,Available
 25913,5079,2019,2,NF-0250,Nick,Foles,Nick Foles,QB,JAC,Collarbone,,IR
 26198,5090,2019,3,NF-0250,Nick,Foles,Nick Foles,QB,JAC,Collarbone,,IR
 27109,5117,2019,4,NF-0250,Nick,Foles,Nick Foles,QB,JAC,Collarbone,,IR
@@ -2450,9 +1488,6 @@
 27725,5136,2019,6,NH-0825,N'Keal,Harry,N'Keal Harry,WR,NE,Ankle,,IR
 28680,5163,2019,7,NH-0825,N'Keal,Harry,N'Keal Harry,WR,NE,Ankle,,IR
 29137,5175,2019,8,NH-0825,N'Keal,Harry,N'Keal Harry,WR,NE,Ankle,,IR
-32834,5272,2019,15,NH-0825,N'Keal,Harry,N'Keal Harry,WR,NE,Hip,FP,Available
-33532,5288,2019,16,NO-0150,Nick,O'Leary,Nick O'Leary,TE,JAC,Shoulder,FP,Available
-34122,5302,2019,17,NO-0150,Nick,O'Leary,Nick O'Leary,TE,JAC,Shoulder,LP,Questionable
 25741,5073,2019,1,NP-0182,Nathan,Peterman,Nathan Peterman,QB,OAK,Elbow,,IR
 26087,5085,2019,2,NP-0182,Nathan,Peterman,Nathan Peterman,QB,OAK,Elbow,,IR
 26474,5098,2019,3,NP-0182,Nathan,Peterman,Nathan Peterman,QB,OAK,Elbow,,IR
@@ -2470,86 +1505,27 @@
 33690,5292,2019,16,NP-0182,Nathan,Peterman,Nathan Peterman,QB,OAK,Elbow,,IR
 34561,5312,2019,17,NP-0182,Nathan,Peterman,Nathan Peterman,QB,OAK,Elbow,,IR
 25482,5065,2019,1,NS-0775,Nate,Sudfeld,Nate Sudfeld,QB,PHI,Wrist,DNP,Out
-26142,5088,2019,2,NS-0775,Nate,Sudfeld,Nate Sudfeld,QB,PHI,Left Wrist,Limited,Doubtful
-26361,5095,2019,3,NS-0775,Nate,Sudfeld,Nate Sudfeld,QB,PHI,Left Wrist,Limited,Doubtful
-26721,5106,2019,4,NS-0775,Nate,Sudfeld,Nate Sudfeld,QB,PHI,Left Wrist,Full,Available
-31052,5227,2019,12,NV-0050,Nick,Vannett,Nick Vannett,TE,PIT,Illness,Full,Available
-33739,5293,2019,16,NV-0050,Nick,Vannett,Nick Vannett,TE,PIT,Illness,FP,Available
-33153,5279,2019,15,NW-0325,Nsimba,Webster,Nsimba Webster,WR,LA,Hip,FP,Available
-34520,5311,2019,17,NW-0325,Nsimba,Webster,Nsimba Webster,WR,LA,Concussion,FP,Available
-25466,5064,2019,1,OB-0075,Odell,Beckham Jr.,Odell Beckham Jr.,WR,CLE,Hip,Full,Available
-26151,5089,2019,2,OB-0075,Odell,Beckham Jr.,Odell Beckham Jr.,WR,CLE,Hip,Full,Available
-26642,5104,2019,3,OB-0075,Odell,Beckham Jr.,Odell Beckham Jr.,WR,CLE,Hip,Full,Available
-27685,5135,2019,5,OB-0075,Odell,Beckham Jr.,Odell Beckham Jr.,WR,CLE,Hip,Full,Available
-30920,5224,2019,12,OB-0075,Odell,Beckham Jr.,Odell Beckham Jr.,WR,CLE,Groin,Limited,Available
-31752,5246,2019,13,OB-0075,Odell,Beckham Jr.,Odell Beckham Jr.,WR,CLE,Groin,LP,Available
-32060,5253,2019,14,OB-0075,Odell,Beckham Jr.,Odell Beckham Jr.,WR,CLE,Groin,LP,Available
-33003,5276,2019,15,OB-0075,Odell,Beckham Jr.,Odell Beckham Jr.,WR,CLE,Groin,LP,Available
-33251,5282,2019,16,OB-0075,Odell,Beckham Jr.,Odell Beckham Jr.,WR,CLE,Groin,LP,Available
-34013,5300,2019,17,OB-0075,Odell,Beckham Jr.,Odell Beckham Jr.,WR,CLE,Groin/Illness,DNP,Questionable
-25757,5074,2019,2,OH-0250,O.J.,Howard,O.J. Howard,TE,TB,Ankle,Full,Available
 29031,5173,2019,8,OH-0250,O.J.,Howard,O.J. Howard,TE,TB,Hamstring,DNP,Out
 29623,5188,2019,9,OH-0250,O.J.,Howard,O.J. Howard,TE,TB,Hamstring,DNP,Out
-29839,5194,2019,10,OH-0250,O.J.,Howard,O.J. Howard,TE,TB,Hamstring,FP,Available
-33172,5280,2019,15,OJ-0050,Olabisi,Johnson,Olabisi Johnson,WR,MIN,Quad,LP,Questionable
 29637,5189,2019,9,PB-0725,Pharaoh,Brown,Pharaoh Brown,TE,CLE,Concussion,DNP,Out
-29931,5197,2019,10,PB-0725,Pharaoh,Brown,Pharaoh Brown,TE,CLE,Concussion,FP,Available
-31754,5246,2019,13,PB-0725,Pharaoh,Brown,Pharaoh Brown,TE,CLE,Not Injury Related,DNP,Available
-34014,5300,2019,17,PB-0725,Pharaoh,Brown,Pharaoh Brown,TE,CLE,Illness,DNP,Questionable
 25739,5073,2019,1,PB-1200,Paul,Butler,Paul Butler,TE,OAK,Undisclosed,,IR
 27653,5134,2019,5,PC-0050,Parris,Campbell,Parris Campbell,WR,IND,Abdomen,DNP,Out
 28310,5152,2019,7,PC-0050,Parris,Campbell,Parris Campbell,WR,IND,Abdomen,DNP,Out
-29165,5176,2019,8,PC-0050,Parris,Campbell,Parris Campbell,WR,IND,Abdomen,Limited,Questionable
 30094,5202,2019,10,PC-0050,Parris,Campbell,Parris Campbell,WR,IND,Hand,DNP,Out
 30461,5212,2019,11,PC-0050,Parris,Campbell,Parris Campbell,WR,IND,Hand,DNP,Out
 30793,5220,2019,12,PC-0050,Parris,Campbell,Parris Campbell,WR,IND,Hand,Limited,Out
-31641,5243,2019,13,PC-0050,Parris,Campbell,Parris Campbell,WR,IND,Hand,LP,Questionable
-32155,5256,2019,14,PC-0050,Parris,Campbell,Parris Campbell,WR,IND,Hand,FP,Available
 33187,5281,2019,15,PC-0050,Parris,Campbell,Parris Campbell,WR,IND,Foot,,IR
 33317,5284,2019,16,PC-0050,Parris,Campbell,Parris Campbell,WR,IND,Foot,,IR
 34082,5302,2019,17,PC-0050,Parris,Campbell,Parris Campbell,WR,IND,Foot,,IR
-33770,5294,2019,16,PC-0625,Pharoh,Cooper,Pharoh Cooper,WR,ARI,Thigh,FP,Available
-27339,5125,2019,5,PD-0700,Patrick,DiMarco,Patrick DiMarco,RB,BUF,Concussion,Full,Questionable
-28958,5171,2019,8,PD-0700,Patrick,DiMarco,Patrick DiMarco,RB,BUF,Ankle,Full,Available
 27727,5136,2019,6,PD-0800,Phillip,Dorsett,Phillip Dorsett,WR,NE,Hamstring,DNP,Out
-28685,5163,2019,7,PD-0800,Phillip,Dorsett,Phillip Dorsett,WR,NE,Hamstring,Limited,Questionable
-29134,5175,2019,8,PD-0800,Phillip,Dorsett,Phillip Dorsett,WR,NE,Hamstring,Limited,Available
-31171,5230,2019,12,PD-0800,Phillip,Dorsett,Phillip Dorsett,WR,NE,Concussion,Limited,Questionable
-31875,5248,2019,13,PD-0800,Phillip,Dorsett,Phillip Dorsett,WR,NE,Concussion,LP,Questionable
 25545,5067,2019,1,PH-0350,Penny,Hart,Penny Hart,WR,IND,Undisclosed,,IR
-30948,5224,2019,12,PL-0012,Patrick,Laird,Patrick Laird,RB,MIA,Foot,Full,Available
-32779,5271,2019,15,PL-0012,Patrick,Laird,Patrick Laird,RB,MIA,Hip,FP,Available
-33373,5285,2019,16,PL-0012,Patrick,Laird,Patrick Laird,RB,MIA,Knee,FP,Available
-29651,5189,2019,9,PL-0275,Phillip,Lindsay,Phillip Lindsay,RB,DEN,Wrist,Full,Available
-30392,5210,2019,11,PL-0275,Phillip,Lindsay,Phillip Lindsay,RB,DEN,Wrist,Full,Available
-30861,5222,2019,12,PL-0275,Phillip,Lindsay,Phillip Lindsay,RB,DEN,Foot,Full,Available
-26057,5085,2019,2,PM-0025,Patrick,Mahomes,Patrick Mahomes,QB,KC,Ankle,Full,Available
-26275,5092,2019,3,PM-0025,Patrick,Mahomes,Patrick Mahomes,QB,KC,Ankle,Full,Available
-26817,5109,2019,4,PM-0025,Patrick,Mahomes,Patrick Mahomes,QB,KC,Ankle,Full,Available
-27673,5134,2019,5,PM-0025,Patrick,Mahomes,Patrick Mahomes,QB,KC,Ankle,Full,Available
-27839,5139,2019,6,PM-0025,Patrick,Mahomes,Patrick Mahomes,QB,KC,Ankle,Full,Available
-28232,5150,2019,7,PM-0025,Patrick,Mahomes,Patrick Mahomes,QB,KC,Ankle,Full,Available
 29206,5177,2019,8,PM-0025,Patrick,Mahomes,Patrick Mahomes,QB,KC,Knee,Limited,Out
-29410,5183,2019,9,PM-0025,Patrick,Mahomes,Patrick Mahomes,QB,KC,Knee,Limited,Questionable
-30015,5200,2019,10,PM-0025,Patrick,Mahomes,Patrick Mahomes,QB,KC,Knee,FP,Available
-30725,5219,2019,11,PM-0025,Patrick,Mahomes,Patrick Mahomes,QB,KC,Knee,Full,Available
-31486,5239,2019,13,PM-0025,Patrick,Mahomes,Patrick Mahomes,QB,KC,Knee,FP,Available
-32374,5261,2019,14,PM-0025,Patrick,Mahomes,Patrick Mahomes,QB,KC,Knee,FP,Available
-32705,5269,2019,15,PM-0025,Patrick,Mahomes,Patrick Mahomes,QB,KC,Right Hand,FP,Available
-33872,5296,2019,16,PM-0025,Patrick,Mahomes,Patrick Mahomes,QB,KC,Right Hand,FP,Available
-25380,5060,2019,1,PR-0125,Patrick,Ricard,Patrick Ricard,RB,BAL,Foot,Full,Questionable
-25784,5075,2019,2,PR-0125,Patrick,Ricard,Patrick Ricard,RB,BAL,Foot,Full,Questionable
-26267,5092,2019,3,PR-0125,Patrick,Ricard,Patrick Ricard,RB,BAL,Back,Full,Questionable
-27318,5124,2019,5,PR-0125,Patrick,Ricard,Patrick Ricard,RB,BAL,Not Injury Related,DNP,Available
-25500,5065,2019,1,PR-0150,Paul,Richardson,Paul Richardson,WR,WAS,Quad,Full,Available
 30574,5214,2019,11,PR-0150,Paul,Richardson,Paul Richardson,WR,WAS,Hamstring,DNP,Out
-30903,5223,2019,12,PR-0150,Paul,Richardson,Paul Richardson,WR,WAS,Hamstring,Full,Available
 31701,5244,2019,13,PR-0150,Paul,Richardson,Paul Richardson,WR,WAS,Hamstring,DNP,Out
 32318,5259,2019,14,PR-0150,Paul,Richardson,Paul Richardson,WR,WAS,Hamstring,DNP,Out
 32858,5273,2019,15,PR-0150,Paul,Richardson,Paul Richardson,WR,WAS,Hamstring,DNP,Out
 33641,5291,2019,16,PR-0150,Paul,Richardson,Paul Richardson,WR,WAS,Hamstring,,IR
 34464,5310,2019,17,PR-0150,Paul,Richardson,Paul Richardson,WR,WAS,Hamstring,,IR
-34156,5303,2019,17,PR-0300,Philip,Rivers,Philip Rivers,QB,LAC,Right Thumb,FP,Available
 30128,5202,2019,10,PW-1150,Preston,Williams,Preston Williams,WR,MIA,Knee - ACL,,IR
 30346,5208,2019,11,PW-1150,Preston,Williams,Preston Williams,WR,MIA,Knee - ACL,,IR
 30949,5224,2019,12,PW-1150,Preston,Williams,Preston Williams,WR,MIA,Knee - ACL,,IR
@@ -2573,12 +1549,6 @@
 32580,5266,2019,15,QE-0100,Quincy,Enunwa,Quincy Enunwa,WR,NYJ,Neck,,IR
 33705,5293,2019,16,QE-0100,Quincy,Enunwa,Quincy Enunwa,WR,NYJ,Neck,,IR
 34283,5306,2019,17,QE-0100,Quincy,Enunwa,Quincy Enunwa,WR,NYJ,Neck,,IR
-25401,5061,2019,1,RA-1125,Robby,Anderson,Robby Anderson,WR,NYJ,Calf,Limited,Questionable
-26165,5089,2019,2,RA-1125,Robby,Anderson,Robby Anderson,WR,NYJ,Calf,Full,Available
-28084,5146,2019,6,RA-1125,Robby,Anderson,Robby Anderson,WR,NYJ,Back,Full,Available
-30536,5214,2019,11,RA-1125,Robby,Anderson,Robby Anderson,WR,NYJ,Back,Full,Available
-33707,5293,2019,16,RA-1125,Robby,Anderson,Robby Anderson,WR,NYJ,Illness,LP,Questionable
-34284,5306,2019,17,RA-1125,Robby,Anderson,Robby Anderson,WR,NYJ,Calf,LP,Questionable
 25516,5066,2019,1,RA-1137,Rodney,Anderson,Rodney Anderson,RB,CIN,Knee - ACL,,IR
 26003,5083,2019,2,RA-1137,Rodney,Anderson,Rodney Anderson,RB,CIN,Knee - ACL,,IR
 26306,5093,2019,3,RA-1137,Rodney,Anderson,Rodney Anderson,RB,CIN,Knee - ACL,,IR
@@ -2595,69 +1565,18 @@
 32809,5272,2019,15,RA-1137,Rodney,Anderson,Rodney Anderson,RB,CIN,Knee - ACL,,IR
 33350,5285,2019,16,RA-1137,Rodney,Anderson,Rodney Anderson,RB,CIN,Knee - ACL,,IR
 33999,5300,2019,17,RA-1137,Rodney,Anderson,Rodney Anderson,RB,CIN,Knee - ACL,,IR
-33310,5284,2019,16,RB-2350,Reggie,Bonnafon,Reggie Bonnafon,RB,CAR,Illness,FP,Available
-27816,5138,2019,6,RB-4650,Randy,Bullock,Randy Bullock,K,CIN,Back,Full,Available
-26901,5111,2019,4,RB-4670,Rex,Burkhead,Rex Burkhead,RB,NE,Foot,Limited,Questionable
-27464,5129,2019,5,RB-4670,Rex,Burkhead,Rex Burkhead,RB,NE,Foot,Limited,Questionable
-27728,5136,2019,6,RB-4670,Rex,Burkhead,Rex Burkhead,RB,NE,Foot,Limited,Questionable
-28683,5163,2019,7,RB-4670,Rex,Burkhead,Rex Burkhead,RB,NE,Foot,Limited,Questionable
-29133,5175,2019,8,RB-4670,Rex,Burkhead,Rex Burkhead,RB,NE,Foot,Limited,Questionable
-29747,5191,2019,9,RB-4670,Rex,Burkhead,Rex Burkhead,RB,NE,Foot,Limited,Questionable
-25832,5077,2019,2,RC-1500,Randall,Cobb,Randall Cobb,WR,DAL,Rib,Full,Available
-26389,5096,2019,3,RC-1500,Randall,Cobb,Randall Cobb,WR,DAL,Rib,Full,Available
-28079,5146,2019,6,RC-1500,Randall,Cobb,Randall Cobb,WR,DAL,Hip,DNP,Questionable
-28652,5162,2019,7,RC-1500,Randall,Cobb,Randall Cobb,WR,DAL,Back,Limited,Questionable
-31961,5250,2019,14,RC-1500,Randall,Cobb,Randall Cobb,WR,DAL,Illness,FP,Available
-26680,5105,2019,3,RD-0450,Robert,Davis,Robert Davis,WR,WAS,Knee,Full,Available
 30973,5225,2019,12,RE-0400,Rhett,Ellison,Rhett Ellison,TE,NYG,Concussion,DNP,Out
 31430,5237,2019,13,RE-0400,Rhett,Ellison,Rhett Ellison,TE,NYG,Concussion,DNP,Out
 32532,5265,2019,14,RE-0400,Rhett,Ellison,Rhett Ellison,TE,NYG,Concussion,DNP,Out
 32796,5271,2019,15,RE-0400,Rhett,Ellison,Rhett Ellison,TE,NYG,Concussion,LP,Out
 33630,5291,2019,16,RE-0400,Rhett,Ellison,Rhett Ellison,TE,NYG,Concussion,LP,Out
 34324,5307,2019,17,RE-0400,Rhett,Ellison,Rhett Ellison,TE,NYG,Concussion,LP,IR
-30127,5202,2019,10,RF-0500,Ryan,Fitzpatrick,Ryan Fitzpatrick,QB,MIA,Shoulder (Right),FP,Available
-30345,5208,2019,11,RF-0500,Ryan,Fitzpatrick,Ryan Fitzpatrick,QB,MIA,Right Shoulder,Full,Available
-30950,5224,2019,12,RF-0500,Ryan,Fitzpatrick,Ryan Fitzpatrick,QB,MIA,Right Shoulder,Full,Available
-31532,5240,2019,13,RF-0500,Ryan,Fitzpatrick,Ryan Fitzpatrick,QB,MIA,Shoulder (right)/Forearm (right),FP,Available
-32213,5257,2019,14,RF-0500,Ryan,Fitzpatrick,Ryan Fitzpatrick,QB,MIA,Shoulder (right)/Forearm (right),FP,Available
-32774,5271,2019,15,RF-0500,Ryan,Fitzpatrick,Ryan Fitzpatrick,QB,MIA,Shoulder (Right),FP,Available
-33372,5285,2019,16,RF-0500,Ryan,Fitzpatrick,Ryan Fitzpatrick,QB,MIA,Shoulder (Right),FP,Available
-34191,5304,2019,17,RF-0500,Ryan,Fitzpatrick,Ryan Fitzpatrick,QB,MIA,Shoulder (Right),FP,Available
-26871,5111,2019,4,RF-1075,Robert,Foster,Robert Foster,WR,BUF,Groin,Limited,Questionable
-27340,5125,2019,5,RF-1075,Robert,Foster,Robert Foster,WR,BUF,Groin,Limited,Questionable
-28400,5155,2019,7,RF-1075,Robert,Foster,Robert Foster,WR,BUF,Groin,Full,Available
-31339,5235,2019,13,RF-1075,Robert,Foster,Robert Foster,WR,BUF,Hamstring,LP,Questionable
-27077,5117,2019,4,RF-1400,Royce,Freeman,Royce Freeman,RB,DEN,Shoulder,Full,Available
-32084,5254,2019,14,RF-1400,Royce,Freeman,Royce Freeman,RB,DEN,Ribs,FP,Available
-26129,5088,2019,2,RG-0025,Russell,Gage,Russell Gage,WR,ATL,Concussion,Limited,Questionable
-28017,5144,2019,6,RG-0025,Russell,Gage,Russell Gage,WR,ATL,Hip,Full,Available
-31994,5252,2019,14,RG-0025,Russell,Gage,Russell Gage,WR,ATL,Ribs,LP,Available
-30233,5205,2019,10,RG-1500,Robbie,Gould,Robbie Gould,K,SF,Right Quadricep,DNP,Doubtful
-30630,5215,2019,11,RG-1500,Robbie,Gould,Robbie Gould,K,SF,Right Quadricep,DNP,Doubtful
-31214,5231,2019,12,RG-1500,Robbie,Gould,Robbie Gould,K,SF,Right Quadricep,DNP,Doubtful
-31593,5241,2019,13,RG-1500,Robbie,Gould,Robbie Gould,K,SF,Right Quadricep,FP,Available
-32292,5259,2019,14,RG-1650,Ryan,Grant,Ryan Grant,WR,GB,Illness,FP,Available
-34993,5323,2019,20,RG-1650,Ryan,Grant,Ryan Grant,WR,GB,NIR (personal),FP,Available
-28085,5146,2019,6,RG-1870,Ryan,Griffin,Ryan Griffin,TE,NYJ,Finger,Full,Available
-28690,5163,2019,7,RG-1870,Ryan,Griffin,Ryan Griffin,TE,NYJ,Ankle,Full,Available
-30061,5201,2019,10,RG-1870,Ryan,Griffin,Ryan Griffin,TE,NYJ,Ankle,FP,Available
-30533,5214,2019,11,RG-1870,Ryan,Griffin,Ryan Griffin,TE,NYJ,Ankle,Full,Available
-32226,5257,2019,14,RG-1870,Ryan,Griffin,Ryan Griffin,TE,NYJ,Illness,LP,Questionable
 32578,5266,2019,15,RG-1870,Ryan,Griffin,Ryan Griffin,TE,NYJ,Ankle,DNP,IR
 33704,5293,2019,16,RG-1870,Ryan,Griffin,Ryan Griffin,TE,NYJ,Ankle,,IR
 34276,5306,2019,17,RG-1870,Ryan,Griffin,Ryan Griffin,TE,NYJ,Ankle,,IR
-26152,5089,2019,2,RH-1950,Rashard,Higgins,Rashard Higgins,WR,CLE,Knee,Limited,Questionable
-26647,5104,2019,3,RH-1950,Rashard,Higgins,Rashard Higgins,WR,CLE,Knee,Limited,Questionable
-26787,5108,2019,4,RH-1950,Rashard,Higgins,Rashard Higgins,WR,CLE,Knee,DNP,Questionable
-27686,5135,2019,5,RH-1950,Rashard,Higgins,Rashard Higgins,WR,CLE,Knee,Limited,Available
-27918,5142,2019,6,RH-1950,Rashard,Higgins,Rashard Higgins,WR,CLE,Knee,Full,Available
-26419,5097,2019,3,RI-0500,Ryan,Izzo,Ryan Izzo,TE,NE,Undisclosed,Limited,Questionable
-26900,5111,2019,4,RI-0500,Ryan,Izzo,Ryan Izzo,TE,NE,Calf,Full,Available
 28682,5163,2019,7,RI-0500,Ryan,Izzo,Ryan Izzo,TE,NE,Concussion,DNP,Out
 29132,5175,2019,8,RI-0500,Ryan,Izzo,Ryan Izzo,TE,NE,Concussion,DNP,Out
-29746,5191,2019,9,RI-0500,Ryan,Izzo,Ryan Izzo,TE,NE,Concussion,Limited,Questionable
 31871,5248,2019,13,RI-0500,Ryan,Izzo,Ryan Izzo,TE,NE,Illness,DNP,Out
-25755,5074,2019,2,RJ-2250,Ronald,Jones,Ronald Jones,RB,TB,Toe,Full,Available
 25392,5060,2019,1,RL-1325,Ricardo,Louis,Ricardo Louis,WR,MIA,Knee,,IR
 25980,5082,2019,2,RL-1325,Ricardo,Louis,Ricardo Louis,WR,MIA,Knee,,IR
 26401,5096,2019,3,RL-1325,Ricardo,Louis,Ricardo Louis,WR,MIA,Knee,,IR
@@ -2674,20 +1593,11 @@
 32776,5271,2019,15,RL-1325,Ricardo,Louis,Ricardo Louis,WR,MIA,Knee,,IR
 33381,5285,2019,16,RL-1325,Ricardo,Louis,Ricardo Louis,WR,MIA,Knee,,IR
 34188,5304,2019,17,RL-1325,Ricardo,Louis,Ricardo Louis,WR,MIA,Knee,,IR
-28507,5158,2019,7,RM-5050,Raheem,Mostert,Raheem Mostert,RB,SF,Knee,Limited,Questionable
-29094,5174,2019,8,RM-5050,Raheem,Mostert,Raheem Mostert,RB,SF,Knee,Limited,Questionable
-29292,5179,2019,9,RM-5050,Raheem,Mostert,Raheem Mostert,RB,SF,Knee,Limited,Questionable
-30232,5205,2019,10,RM-5050,Raheem,Mostert,Raheem Mostert,RB,SF,Knee,Limited,Questionable
-30633,5215,2019,11,RM-5050,Raheem,Mostert,Raheem Mostert,RB,SF,Knee,Limited,Questionable
-31212,5231,2019,12,RM-5050,Raheem,Mostert,Raheem Mostert,RB,SF,Knee,Full,Available
-35014,5323,2019,20,RM-5050,Raheem,Mostert,Raheem Mostert,RB,SF,Calf,FP,Available
 26027,5084,2019,2,RN-1250,Roosevelt,Nix,Roosevelt Nix,RB,PIT,Knee,DNP,Out
 26625,5103,2019,3,RN-1250,Roosevelt,Nix,Roosevelt Nix,RB,PIT,Knee,DNP,Out
 27200,5120,2019,4,RN-1250,Roosevelt,Nix,Roosevelt Nix,RB,PIT,Knee,DNP,Out
 27325,5124,2019,5,RN-1250,Roosevelt,Nix,Roosevelt Nix,RB,PIT,Knee,DNP,Out
 28159,5148,2019,6,RN-1250,Roosevelt,Nix,Roosevelt Nix,RB,PIT,Knee,DNP,Out
-29247,5178,2019,8,RN-1250,Roosevelt,Nix,Roosevelt Nix,RB,PIT,Knee,Full,Available
-29407,5182,2019,9,RN-1250,Roosevelt,Nix,Roosevelt Nix,RB,PIT,Knee,Limited,Questionable
 30159,5203,2019,10,RN-1250,Roosevelt,Nix,Roosevelt Nix,RB,PIT,Knee,DNP,Out
 30262,5206,2019,11,RN-1250,Roosevelt,Nix,Roosevelt Nix,RB,PIT,Knee,DNP,Out
 31050,5227,2019,12,RN-1250,Roosevelt,Nix,Roosevelt Nix,RB,PIT,Knee,,IR
@@ -2696,19 +1606,11 @@
 32627,5267,2019,15,RN-1250,Roosevelt,Nix,Roosevelt Nix,RB,PIT,Knee,,IR
 33747,5293,2019,16,RN-1250,Roosevelt,Nix,Roosevelt Nix,RB,PIT,Knee,,IR
 34379,5308,2019,17,RN-1250,Roosevelt,Nix,Roosevelt Nix,RB,PIT,Knee,,IR
-26588,5102,2019,3,RP-0550,Rashaad,Penny,Rashaad Penny,RB,SEA,Hamstring,Limited,Questionable
-27027,5115,2019,4,RP-0550,Rashaad,Penny,Rashaad Penny,RB,SEA,Hamstring,DNP,Questionable
-27223,5121,2019,5,RP-0550,Rashaad,Penny,Rashaad Penny,RB,SEA,Hamstring,Full,Available
-27931,5142,2019,6,RP-0550,Rashaad,Penny,Rashaad Penny,RB,SEA,Hamstring,Full,Questionable
-32905,5274,2019,15,RP-0550,Rashaad,Penny,Rashaad Penny,RB,SEA,Knee,DNP,Available
 33779,5294,2019,16,RP-0550,Rashaad,Penny,Rashaad Penny,RB,SEA,Knee - ACL,,IR
 34571,5313,2019,17,RP-0550,Rashaad,Penny,Rashaad Penny,RB,SEA,Knee - ACL,,IR
 34765,5317,2019,18,RP-0550,Rashaad,Penny,Rashaad Penny,RB,SEA,Knee - ACL,,IR
 34907,5321,2019,19,RP-0550,Rashaad,Penny,Rashaad Penny,RB,SEA,Knee - ACL,,IR
 25484,5065,2019,1,RR-1050,Richard,Rodgers,Richard Rodgers,TE,PHI,Foot,,IR
-29932,5197,2019,10,RS-0687,Ricky,Seals-Jones,Ricky Seals-Jones,TE,CLE,Knee,DNP,Questionable
-30239,5206,2019,11,RS-0687,Ricky,Seals-Jones,Ricky Seals-Jones,TE,CLE,Knee,Full,Questionable
-34009,5300,2019,17,RS-0687,Ricky,Seals-Jones,Ricky Seals-Jones,TE,CLE,Illness,LP,Questionable
 26990,5114,2019,4,RS-0975,Russell,Shepard,Russell Shepard,WR,NYG,Foot,DNP,IR
 27447,5128,2019,5,RS-0975,Russell,Shepard,Russell Shepard,WR,NYG,Foot,,IR
 27735,5136,2019,6,RS-0975,Russell,Shepard,Russell Shepard,WR,NYG,Foot,,IR
@@ -2723,7 +1625,6 @@
 33629,5291,2019,16,RS-0975,Russell,Shepard,Russell Shepard,WR,NYG,Foot,,IR
 34325,5307,2019,17,RS-0975,Russell,Shepard,Russell Shepard,WR,NYG,Foot,,IR
 25637,5069,2019,1,RS-2125,Rod,Smith,Rod Smith,RB,NYG,Groin,,IR
-28131,5147,2019,6,RS-2125,Rod,Smith,Rod Smith,RB,TEN,Groin,Full,Questionable
 25480,5064,2019,1,RS-3400,Ryan,Succop,Ryan Succop,K,TEN,Knee,,IR
 25877,5078,2019,2,RS-3400,Ryan,Succop,Ryan Succop,K,TEN,Knee,,IR
 26219,5090,2019,3,RS-3400,Ryan,Succop,Ryan Succop,K,TEN,Knee,,IR
@@ -2737,7 +1638,6 @@
 34671,5315,2019,18,RS-3400,Ryan,Succop,Ryan Succop,K,TEN,Knee,,IR
 34819,5319,2019,19,RS-3400,Ryan,Succop,Ryan Succop,K,TEN,Knee,,IR
 34959,5322,2019,20,RS-3400,Ryan,Succop,Ryan Succop,K,TEN,Knee,,IR
-30158,5203,2019,10,RS-3525,Ryan,Switzer,Ryan Switzer,WR,PIT,Back,FP,Available
 30261,5206,2019,11,RS-3525,Ryan,Switzer,Ryan Switzer,WR,PIT,Back,DNP,IR
 31051,5227,2019,12,RS-3525,Ryan,Switzer,Ryan Switzer,WR,PIT,Back,,IR
 31781,5246,2019,13,RS-3525,Ryan,Switzer,Ryan Switzer,WR,PIT,Back,,IR
@@ -2745,17 +1645,9 @@
 32628,5267,2019,15,RS-3525,Ryan,Switzer,Ryan Switzer,WR,PIT,Back,,IR
 33746,5293,2019,16,RS-3525,Ryan,Switzer,Ryan Switzer,WR,PIT,Back,,IR
 34383,5308,2019,17,RS-3525,Ryan,Switzer,Ryan Switzer,WR,PIT,Back,,IR
-31187,5231,2019,12,RT-1250,Robert,Tonyan Jr.,Robert Tonyan Jr.,TE,GB,Hip,Full,Questionable
-31402,5237,2019,13,RT-1250,Robert,Tonyan Jr.,Robert Tonyan Jr.,TE,GB,Hip,FP,Available
-29009,5172,2019,8,RW-3850,Russell,Wilson,Russell Wilson,QB,SEA,Knee,Full,Available
-29590,5188,2019,9,RW-3850,Russell,Wilson,Russell Wilson,QB,SEA,Knee,Full,Available
-31254,5232,2019,12,RW-3850,Russell,Wilson,Russell Wilson,QB,SEA,Hamstring,Full,Available
 26991,5114,2019,4,SB-0212,Saquon,Barkley,Saquon Barkley,RB,NYG,Ankle,DNP,Out
 27457,5128,2019,5,SB-0212,Saquon,Barkley,Saquon Barkley,RB,NYG,Ankle,Limited,Out
 27736,5136,2019,6,SB-0212,Saquon,Barkley,Saquon Barkley,RB,NYG,Ankle,Limited,Out
-28277,5151,2019,7,SB-0212,Saquon,Barkley,Saquon Barkley,RB,NYG,Ankle,Full,Available
-28862,5168,2019,8,SB-0212,Saquon,Barkley,Saquon Barkley,RB,NYG,Ankle,Full,Available
-32057,5253,2019,14,SC-0175,Stephen,Carlson,Stephen Carlson,TE,CLE,Ankle,FP,Available
 27600,5132,2019,5,SC-1850,Sean,Culkin,Sean Culkin,TE,LAC,Achilles,,IR
 28143,5148,2019,6,SC-1850,Sean,Culkin,Sean Culkin,TE,LAC,Achilles,,IR
 28542,5159,2019,7,SC-1850,Sean,Culkin,Sean Culkin,TE,LAC,Achilles,,IR
@@ -2771,24 +1663,8 @@
 26168,5089,2019,2,SD-0175,Sam,Darnold,Sam Darnold,QB,NYJ,Illness,DNP,Out
 26422,5097,2019,3,SD-0175,Sam,Darnold,Sam Darnold,QB,NYJ,Illness,DNP,Out
 27516,5130,2019,5,SD-0175,Sam,Darnold,Sam Darnold,QB,NYJ,Illness,Limited,Out
-28896,5169,2019,8,SD-0175,Sam,Darnold,Sam Darnold,QB,NYJ,Toe,Full,Available
-29455,5184,2019,9,SD-0175,Sam,Darnold,Sam Darnold,QB,NYJ,Left Thumb,Full,Available
-30066,5201,2019,10,SD-0175,Sam,Darnold,Sam Darnold,QB,NYJ,Left Thumb,FP,Available
-30534,5214,2019,11,SD-0175,Sam,Darnold,Sam Darnold,QB,NYJ,Left Thumb,Full,Available
-30985,5226,2019,12,SD-0175,Sam,Darnold,Sam Darnold,QB,NYJ,Left Thumb,Full,Available
-31451,5238,2019,13,SD-0175,Sam,Darnold,Sam Darnold,QB,NYJ,Knee/Left Thumb,FP,Available
-32223,5257,2019,14,SD-0175,Sam,Darnold,Sam Darnold,QB,NYJ,Knee/Left Thumb,FP,Available
-32571,5266,2019,15,SD-0175,Sam,Darnold,Sam Darnold,QB,NYJ,Knee/Left Thumb,FP,Available
-33697,5293,2019,16,SD-0175,Sam,Darnold,Sam Darnold,QB,NYJ,Knee/Left Thumb,FP,Available
-34277,5306,2019,17,SD-0175,Sam,Darnold,Sam Darnold,QB,NYJ,Knee/Left Thumb,FP,Available
-30499,5212,2019,11,SD-0534,Seth,DeValve,Seth DeValve,TE,JAC,Oblique,DNP,Doubtful
 31124,5229,2019,12,SD-0534,Seth,DeValve,Seth DeValve,TE,JAC,Oblique,DNP,Out
 31614,5242,2019,13,SD-0534,Seth,DeValve,Seth DeValve,TE,JAC,Oblique,DNP,Out
-32355,5260,2019,14,SD-0534,Seth,DeValve,Seth DeValve,TE,JAC,Oblique,LP,Doubtful
-33048,5277,2019,15,SD-0534,Seth,DeValve,Seth DeValve,TE,JAC,Oblique,FP,Available
-25365,5059,2019,1,SD-0537,Stefon,Diggs,Stefon Diggs,WR,MIN,Hamstring,Limited,Questionable
-27443,5128,2019,5,SD-0537,Stefon,Diggs,Stefon Diggs,WR,MIN,Not Injury Related,Full,Available
-34782,5318,2019,19,SD-0537,Stefon,Diggs,Stefon Diggs,WR,MIN,Illness,FP,Available
 27461,5129,2019,5,SG-0800,Stephen,Gostkowski,Stephen Gostkowski,K,NE,Hip,,IR
 27720,5136,2019,6,SG-0800,Stephen,Gostkowski,Stephen Gostkowski,K,NE,Hip,,IR
 28677,5163,2019,7,SG-0800,Stephen,Gostkowski,Stephen Gostkowski,K,NE,Hip,,IR
@@ -2818,15 +1694,8 @@
 33185,5281,2019,15,SI-0250,Steve,Ishmael,Steve Ishmael,WR,IND,Knee,,IR
 33314,5284,2019,16,SI-0250,Steve,Ishmael,Steve Ishmael,WR,IND,Knee,,IR
 34075,5302,2019,17,SI-0250,Steve,Ishmael,Steve Ishmael,WR,IND,Knee,,IR
-30012,5199,2019,10,SM-0650,Sam,Martin,Sam Martin,K,DET,abdomen,LP,Questionable
-30389,5209,2019,11,SM-0650,Sam,Martin,Sam Martin,K,DET,Abdomen,Limited,Questionable
-30894,5223,2019,12,SM-0650,Sam,Martin,Sam Martin,K,DET,Abdomen,Limited,Available
-31330,5234,2019,13,SM-0650,Sam,Martin,Sam Martin,K,DET,abdomen,FP,Available
-32140,5255,2019,14,SM-0650,Sam,Martin,Sam Martin,K,DET,abdomen,LP,Available
-32951,5275,2019,15,SM-0650,Sam,Martin,Sam Martin,K,DET,abdomen,FP,Available
 31618,5242,2019,13,SM-2653,Scott,Miller,Scott Miller,WR,TB,Hamstring,DNP,Out
 32179,5256,2019,14,SM-2653,Scott,Miller,Scott Miller,WR,TB,Hamstring,DNP,Out
-32955,5275,2019,15,SM-2653,Scott,Miller,Scott Miller,WR,TB,Hamstring,FP,Available
 33462,5287,2019,16,SM-2653,Scott,Miller,Scott Miller,WR,TB,Hamstring,,IR
 33937,5298,2019,17,SM-2653,Scott,Miller,Scott Miller,WR,TB,Hamstring,,IR
 25653,5070,2019,1,SP-1425,Shawn,Poindexter,Shawn Poindexter,WR,SF,Knee,,IR
@@ -2848,28 +1717,18 @@
 34800,5318,2019,19,SP-1425,Shawn,Poindexter,Shawn Poindexter,WR,SF,Knee,,IR
 35013,5323,2019,20,SP-1425,Shawn,Poindexter,Shawn Poindexter,WR,SF,Knee,,IR
 35045,5324,2019,21,SP-1425,Shawn,Poindexter,Shawn Poindexter,WR,SF,Knee,,IR
-31974,5251,2019,14,SR-0750,Seth,Roberts,Seth Roberts,WR,BAL,Knee,FP,Questionable
 25809,5076,2019,2,SS-1250,Sterling,Shepard,Sterling Shepard,WR,NYG,Concussion,DNP,Out
-26522,5100,2019,3,SS-1250,Sterling,Shepard,Sterling Shepard,WR,NYG,Concussion,Full,Available
 27738,5136,2019,6,SS-1250,Sterling,Shepard,Sterling Shepard,WR,NYG,Concussion,DNP,Out
 28275,5151,2019,7,SS-1250,Sterling,Shepard,Sterling Shepard,WR,NYG,Concussion,Limited,Out
 28864,5168,2019,8,SS-1250,Sterling,Shepard,Sterling Shepard,WR,NYG,Concussion,Limited,Out
-29780,5192,2019,9,SS-1250,Sterling,Shepard,Sterling Shepard,WR,NYG,Concussion,Full,
 30055,5201,2019,10,SS-1250,Sterling,Shepard,Sterling Shepard,WR,NYG,Concussion,DNP,Out
-30976,5225,2019,12,SS-1250,Sterling,Shepard,Sterling Shepard,WR,NYG,Concussion,Full,Available
 25634,5069,2019,1,SS-1525,Scott,Simonson,Scott Simonson,TE,NYG,Ankle,,IR
 34321,5307,2019,17,SS-1525,Scott,Simonson,Scott Simonson,TE,NYG,Concussion,DNP,Out
-33634,5291,2019,16,SS-1537,Steven,Sims Jr.,Steven Sims Jr.,WR,WAS,Not injury related,FP,Available
 34135,5303,2019,17,SW-0350,Spencer,Ware,Spencer Ware,RB,KC,Shoulder,,IR
 34862,5320,2019,19,SW-0350,Spencer,Ware,Spencer Ware,RB,KC,Shoulder,,IR
 34936,5322,2019,20,SW-0350,Spencer,Ware,Spencer Ware,RB,KC,Shoulder,,IR
 35034,5324,2019,21,SW-0350,Spencer,Ware,Spencer Ware,RB,KC,Shoulder,,IR
-27678,5134,2019,5,SW-0450,Sammy,Watkins,Sammy Watkins,WR,KC,Shoulder,Limited,Questionable
-27844,5139,2019,6,SW-0450,Sammy,Watkins,Sammy Watkins,WR,KC,Hamstring,DNP,Doubtful
 28231,5150,2019,7,SW-0450,Sammy,Watkins,Sammy Watkins,WR,KC,Hamstring,Limited,Out
-29207,5177,2019,8,SW-0450,Sammy,Watkins,Sammy Watkins,WR,KC,Hamstring,Full,Available
-30726,5219,2019,11,SW-0450,Sammy,Watkins,Sammy Watkins,WR,KC,Groin,Full,Available
-31482,5239,2019,13,SW-0450,Sammy,Watkins,Sammy Watkins,WR,KC,Illness,FP,Available
 25496,5065,2019,1,SW-1775,Shaun,Wilson,Shaun Wilson,RB,WAS,Ankle,,IR
 25834,5077,2019,2,SW-1775,Shaun,Wilson,Shaun Wilson,RB,WAS,Ankle,,IR
 26678,5105,2019,3,SW-1775,Shaun,Wilson,Shaun Wilson,RB,WAS,Ankle,,IR
@@ -2880,10 +1739,6 @@
 28734,5164,2019,8,SW-1775,Shaun,Wilson,Shaun Wilson,RB,WAS,Ankle,,IR
 25828,5077,2019,2,TA-1050,Tavon,Austin,Tavon Austin,WR,DAL,Concussion,DNP,Out
 26384,5096,2019,3,TA-1050,Tavon,Austin,Tavon Austin,WR,DAL,Concussion,DNP,Out
-27152,5119,2019,4,TA-1050,Tavon,Austin,Tavon Austin,WR,DAL,Concussion,Full,Available
-28070,5146,2019,6,TA-1050,Tavon,Austin,Tavon Austin,WR,DAL,Shin,Full,Available
-26832,5110,2019,4,TB-1060,Travis,Benjamin,Travis Benjamin,WR,LAC,Hip,DNP,Doubtful
-27601,5132,2019,5,TB-1060,Travis,Benjamin,Travis Benjamin,WR,LAC,Hip,Full,Questionable
 28543,5159,2019,7,TB-1060,Travis,Benjamin,Travis Benjamin,WR,LAC,Quadriceps,DNP,IR
 28830,5167,2019,8,TB-1060,Travis,Benjamin,Travis Benjamin,WR,LAC,Quadriceps,,IR
 29705,5190,2019,9,TB-1060,Travis,Benjamin,Travis Benjamin,WR,LAC,Quadriceps,,IR
@@ -2894,19 +1749,6 @@
 33159,5280,2019,15,TB-1060,Travis,Benjamin,Travis Benjamin,WR,LAC,Quadriceps,,IR
 33659,5292,2019,16,TB-1060,Travis,Benjamin,Travis Benjamin,WR,LAC,Quadriceps,,IR
 34152,5303,2019,17,TB-1060,Travis,Benjamin,Travis Benjamin,WR,LAC,Quadriceps,,IR
-26418,5097,2019,3,TB-2300,Tom,Brady,Tom Brady,QB,NE,Calf,,Available
-26906,5111,2019,4,TB-2300,Tom,Brady,Tom Brady,QB,NE,Calf,Limited,Available
-29743,5191,2019,9,TB-2300,Tom,Brady,Tom Brady,QB,NE,Right Shoulder,Limited,Available
-31174,5230,2019,12,TB-2300,Tom,Brady,Tom Brady,QB,NE,Right Elbow,Limited,Questionable
-31870,5248,2019,13,TB-2300,Tom,Brady,Tom Brady,QB,NE,Elbow,FP,Available
-32409,5261,2019,14,TB-2300,Tom,Brady,Tom Brady,QB,NE,Toe,,Available
-32835,5272,2019,15,TB-2300,Tom,Brady,Tom Brady,QB,NE,Right Elbow,FP,Available
-25324,5058,2019,1,TB-3950,Trey,Burton,Trey Burton,TE,CHI,Groin,Limited,Questionable
-26091,5086,2019,2,TB-3950,Trey,Burton,Trey Burton,TE,CHI,Groin,Limited,Questionable
-26673,5105,2019,3,TB-3950,Trey,Burton,Trey Burton,TE,CHI,Groin,Limited,Questionable
-27116,5118,2019,4,TB-3950,Trey,Burton,Trey Burton,TE,CHI,Groin,Limited,Questionable
-27366,5126,2019,5,TB-3950,Trey,Burton,Trey Burton,TE,CHI,Groin,Full,Available
-29349,5181,2019,9,TB-3950,Trey,Burton,Trey Burton,TE,CHI,Groin,Limited,Available
 30699,5218,2019,11,TB-3950,Trey,Burton,Trey Burton,TE,CHI,Calf,DNP,IR
 30955,5225,2019,12,TB-3950,Trey,Burton,Trey Burton,TE,CHI,Calf,,IR
 31308,5234,2019,13,TB-3950,Trey,Burton,Trey Burton,TE,CHI,Calf,,IR
@@ -2914,10 +1756,6 @@
 32636,5268,2019,15,TB-3950,Trey,Burton,Trey Burton,TE,CHI,Calf,,IR
 33852,5296,2019,16,TB-3950,Trey,Burton,Trey Burton,TE,CHI,Calf,,IR
 33963,5299,2019,17,TB-3950,Trey,Burton,Trey Burton,TE,CHI,Calf,,IR
-26427,5097,2019,3,TC-0325,Trenton,Cannon,Trenton Cannon,RB,NYJ,Ankle/Hamstring,Limited,Questionable
-27514,5130,2019,5,TC-0325,Trenton,Cannon,Trenton Cannon,RB,NYJ,Hamstring,Full,Available
-28088,5146,2019,6,TC-0325,Trenton,Cannon,Trenton Cannon,RB,NYJ,Foot,DNP,Doubtful
-28698,5163,2019,7,TC-0325,Trenton,Cannon,Trenton Cannon,RB,NYJ,Foot,DNP,Doubtful
 28901,5169,2019,8,TC-0325,Trenton,Cannon,Trenton Cannon,RB,NYJ,Foot,DNP,Out
 29454,5184,2019,9,TC-0325,Trenton,Cannon,Trenton Cannon,RB,NYJ,Foot,DNP,IR
 30065,5201,2019,10,TC-0325,Trenton,Cannon,Trenton Cannon,RB,NYJ,Foot,,IR
@@ -2931,124 +1769,36 @@
 29567,5187,2019,9,TC-0450,Tra,Carson,Tra Carson,RB,DET,Hamstring,Limited,IR
 26015,5083,2019,2,TC-2050,Tevin,Coleman,Tevin Coleman,RB,SF,Ankle,DNP,Out
 26638,5103,2019,3,TC-2050,Tevin,Coleman,Tevin Coleman,RB,SF,Ankle,DNP,Out
-27702,5135,2019,5,TC-2050,Tevin,Coleman,Tevin Coleman,RB,SF,Ankle,Limited,Available
-30626,5215,2019,11,TC-2050,Tevin,Coleman,Tevin Coleman,RB,SF,Not Injury Related,Full,Available
-35016,5323,2019,20,TC-2050,Tevin,Coleman,Tevin Coleman,RB,SF,Elbow,FP,Available
-35039,5324,2019,21,TC-2050,Tevin,Coleman,Tevin Coleman,RB,SF,Shoulder,FP,Available
-25364,5059,2019,1,TC-2375,Tyler,Conklin,Tyler Conklin,TE,MIN,Ribs,Limited,Questionable
-25959,5081,2019,2,TC-2375,Tyler,Conklin,Tyler Conklin,TE,MIN,Ribs,Full,Available
-34781,5318,2019,19,TC-2375,Tyler,Conklin,Tyler Conklin,TE,MIN,Knee,FP,Available
-30154,5203,2019,10,TE-0025,Trey,Edmunds,Trey Edmunds,RB,PIT,Ribs,FP,Available
-25999,5083,2019,2,TE-0300,Tyler,Eifert,Tyler Eifert,TE,CIN,NIR,Full,Available
-26303,5093,2019,3,TE-0300,Tyler,Eifert,Tyler Eifert,TE,CIN,NIR,Full,Available
-27189,5120,2019,4,TE-0300,Tyler,Eifert,Tyler Eifert,TE,CIN,Not Injury Related,Full,Available
-28336,5153,2019,7,TE-0300,Tyler,Eifert,Tyler Eifert,TE,CIN,Not Injury Related,Full,Available
-28802,5166,2019,8,TE-0300,Tyler,Eifert,Tyler Eifert,TE,CIN,Not Injury Related,Full,Available
-29917,5196,2019,10,TE-0300,Tyler,Eifert,Tyler Eifert,TE,CIN,NIR,FP,Available
-30644,5216,2019,11,TE-0300,Tyler,Eifert,Tyler Eifert,TE,CIN,Not Injury Related,Full,Available
-31038,5227,2019,12,TE-0300,Tyler,Eifert,Tyler Eifert,TE,CIN,Not Injury Related,Full,Available
-31443,5238,2019,13,TE-0300,Tyler,Eifert,Tyler Eifert,TE,CIN,NIR,FP,Available
-32053,5253,2019,14,TE-0300,Tyler,Eifert,Tyler Eifert,TE,CIN,NIR,FP,Available
-32813,5272,2019,15,TE-0300,Tyler,Eifert,Tyler Eifert,TE,CIN,NIR,FP,Available
-33353,5285,2019,16,TE-0300,Tyler,Eifert,Tyler Eifert,TE,CIN,NIR,FP,Available
-34003,5300,2019,17,TE-0300,Tyler,Eifert,Tyler Eifert,TE,CIN,NIR,FP,Available
 27119,5118,2019,4,TG-0025,Taylor,Gabriel,Taylor Gabriel,WR,CHI,Concussion,DNP,Out
 27365,5126,2019,5,TG-0025,Taylor,Gabriel,Taylor Gabriel,WR,CHI,Concussion,DNP,Out
-28614,5161,2019,7,TG-0025,Taylor,Gabriel,Taylor Gabriel,WR,CHI,Concussion,Full,Available
-29348,5181,2019,9,TG-0025,Taylor,Gabriel,Taylor Gabriel,WR,CHI,Shin,Limited,Available
 31309,5234,2019,13,TG-0025,Taylor,Gabriel,Taylor Gabriel,WR,CHI,Concussion,DNP,Out
 31929,5250,2019,14,TG-0025,Taylor,Gabriel,Taylor Gabriel,WR,CHI,Concussion,DNP,Out
 32637,5268,2019,15,TG-0025,Taylor,Gabriel,Taylor Gabriel,WR,CHI,Concussion,DNP,Out
 33854,5296,2019,16,TG-0025,Taylor,Gabriel,Taylor Gabriel,WR,CHI,Concussion,DNP,Out
 33965,5299,2019,17,TG-0025,Taylor,Gabriel,Taylor Gabriel,WR,CHI,Concussion,DNP,Out
-26120,5087,2019,2,TG-0900,Ted,Ginn,Ted Ginn,WR,NO,Illness,Full,Available
-26577,5102,2019,3,TG-0900,Ted,Ginn,Ted Ginn,WR,NO,Thigh,Full,Available
-27056,5116,2019,4,TG-1950,Todd,Gurley,Todd Gurley,RB,LA,Not Injury Related,DNP,Available
-28041,5145,2019,6,TG-1950,Todd,Gurley,Todd Gurley,RB,LA,Quadricep,DNP,Doubtful
-28392,5154,2019,7,TG-1950,Todd,Gurley,Todd Gurley,RB,LA,Quadricep,Full,Available
-30723,5218,2019,11,TG-1950,Todd,Gurley,Todd Gurley,RB,LA,Not Injury Related,DNP,Available
-31303,5233,2019,12,TG-1950,Todd,Gurley,Todd Gurley,RB,LA,Not Injury Related,DNP,Available
-31750,5245,2019,13,TG-1950,Todd,Gurley,Todd Gurley,RB,LA,Not Injury Related,DNP,Available
-32497,5264,2019,14,TG-1950,Todd,Gurley,Todd Gurley,RB,LA,Not Injury Related,DNP,Available
-33156,5279,2019,15,TG-1950,Todd,Gurley,Todd Gurley,RB,LA,Not Injury Related,DNP,Available
-33553,5289,2019,16,TG-1950,Todd,Gurley,Todd Gurley,RB,LA,Not Injury Related,DNP,Available
-34524,5311,2019,17,TG-1950,Todd,Gurley,Todd Gurley,RB,LA,Not Injury Related,DNP,Available
 26670,5104,2019,3,TH-1550,Tyler,Higbee,Tyler Higbee,TE,LA,Chest,DNP,Out
-27057,5116,2019,4,TH-1550,Tyler,Higbee,Tyler Higbee,TE,LA,Chest,Full,Available
-30722,5218,2019,11,TH-1550,Tyler,Higbee,Tyler Higbee,TE,LA,Knee,Limited,Questionable
 26060,5085,2019,2,TH-1750,Tyreek,Hill,Tyreek Hill,WR,KC,Shoulder,DNP,Out
 26270,5092,2019,3,TH-1750,Tyreek,Hill,Tyreek Hill,WR,KC,Shoulder,DNP,Out
 26814,5109,2019,4,TH-1750,Tyreek,Hill,Tyreek Hill,WR,KC,Shoulder,DNP,Out
 27677,5134,2019,5,TH-1750,Tyreek,Hill,Tyreek Hill,WR,KC,Shoulder,Limited,Out
-27843,5139,2019,6,TH-1750,Tyreek,Hill,Tyreek Hill,WR,KC,Shoulder,Limited,Questionable
-28230,5150,2019,7,TH-1750,Tyreek,Hill,Tyreek Hill,WR,KC,Shoulder,Full,Available
-31481,5239,2019,13,TH-1750,Tyreek,Hill,Tyreek Hill,WR,KC,Hamstring,FP,Available
-32372,5261,2019,14,TH-1750,Tyreek,Hill,Tyreek Hill,WR,KC,Hamstring,FP,Available
-33867,5296,2019,16,TH-1750,Tyreek,Hill,Tyreek Hill,WR,KC,Shoulder,FP,Available
-25542,5067,2019,1,TH-1850,T.Y.,Hilton,T.Y. Hilton,WR,IND,Not Injury Related (Rest),DNP,Available
-25852,5078,2019,2,TH-1850,T.Y.,Hilton,T.Y. Hilton,WR,IND,Not Injury Related (Rest),DNP,Available
-26237,5091,2019,3,TH-1850,T.Y.,Hilton,T.Y. Hilton,WR,IND,Quad,Limited,Questionable
-26908,5112,2019,4,TH-1850,T.Y.,Hilton,T.Y. Hilton,WR,IND,Quadricep,DNP,Doubtful
-27660,5134,2019,5,TH-1850,T.Y.,Hilton,T.Y. Hilton,WR,IND,Quadricep,Limited,Questionable
-28314,5152,2019,7,TH-1850,T.Y.,Hilton,T.Y. Hilton,WR,IND,Not Injury Related,DNP,Available
-29167,5176,2019,8,TH-1850,T.Y.,Hilton,T.Y. Hilton,WR,IND,Not Injury Related,Full,Available
 29375,5182,2019,9,TH-1850,T.Y.,Hilton,T.Y. Hilton,WR,IND,Calf,DNP,Out
 30092,5202,2019,10,TH-1850,T.Y.,Hilton,T.Y. Hilton,WR,IND,Calf,DNP,Out
 30459,5212,2019,11,TH-1850,T.Y.,Hilton,T.Y. Hilton,WR,IND,Calf,DNP,Out
-30791,5220,2019,12,TH-1850,T.Y.,Hilton,T.Y. Hilton,WR,IND,Calf,Full,Questionable
 31638,5243,2019,13,TH-1850,T.Y.,Hilton,T.Y. Hilton,WR,IND,Calf,DNP,Out
 32175,5256,2019,14,TH-1850,T.Y.,Hilton,T.Y. Hilton,WR,IND,Calf,DNP,Out
-33186,5281,2019,15,TH-1850,T.Y.,Hilton,T.Y. Hilton,WR,IND,Calf,DNP,Questionable
-33313,5284,2019,16,TH-1850,T.Y.,Hilton,T.Y. Hilton,WR,IND,Not Injury Related,DNP,Available
-34074,5302,2019,17,TH-1850,T.Y.,Hilton,T.Y. Hilton,WR,IND,Not Injury Related,DNP,Available
-28177,5149,2019,6,TH-1875,T.J.,Hockenson,T.J. Hockenson,TE,DET,Concussion,Full,Questionable
-31333,5234,2019,13,TH-1875,T.J.,Hockenson,T.J. Hockenson,TE,DET,shoulder,FP,Questionable
 32141,5255,2019,14,TH-1875,T.J.,Hockenson,T.J. Hockenson,TE,DET,Ankle,,IR
 32950,5275,2019,15,TH-1875,T.J.,Hockenson,T.J. Hockenson,TE,DET,Ankle,,IR
 33435,5286,2019,16,TH-1875,T.J.,Hockenson,T.J. Hockenson,TE,DET,Ankle,,IR
 34048,5301,2019,17,TH-1875,T.J.,Hockenson,T.J. Hockenson,TE,DET,Ankle,,IR
-27028,5115,2019,4,TH-2337,Travis,Homer,Travis Homer,RB,SEA,Quadricep,Limited,Available
 33461,5287,2019,16,TH-2875,Tanner,Hudson,Tanner Hudson,TE,TB,Concussion,DNP,Out
-33941,5298,2019,17,TH-2875,Tanner,Hudson,Tanner Hudson,TE,TB,Concussion,FP,Available
-30388,5209,2019,11,TJ-2275,Ty,Johnson,Ty Johnson,RB,DET,Concussion,Full,Questionable
-25894,5079,2019,2,TJ-2400,Taiwan,Jones,Taiwan Jones,RB,HOU,Elbow,Limited,Questionable
-26559,5101,2019,3,TJ-2400,Taiwan,Jones,Taiwan Jones,RB,HOU,Hamstring,Limited,Questionable
-26772,5107,2019,4,TJ-2400,Taiwan,Jones,Taiwan Jones,RB,HOU,Hamstring,Full,Available
-27833,5139,2019,6,TJ-2400,Taiwan,Jones,Taiwan Jones,RB,HOU,Hip,Limited,Questionable
-28295,5152,2019,7,TJ-2400,Taiwan,Jones,Taiwan Jones,RB,HOU,Hip,Full,Available
-28928,5170,2019,8,TJ-2400,Taiwan,Jones,Taiwan Jones,RB,HOU,Hip,Full,Available
-29320,5180,2019,9,TJ-2400,Taiwan,Jones,Taiwan Jones,RB,HOU,Hip,Full,Available
 32108,5254,2019,14,TJ-2400,Taiwan,Jones,Taiwan Jones,RB,HOU,Hamstring,DNP,Out
-32737,5270,2019,15,TJ-2400,Taiwan,Jones,Taiwan Jones,RB,HOU,Hamstring,LP,Questionable
-33455,5287,2019,16,TJ-2400,Taiwan,Jones,Taiwan Jones,RB,HOU,Hamstring,LP,Questionable
-26269,5092,2019,3,TK-0150,Travis,Kelce,Travis Kelce,TE,KC,Knee,Full,Available
-34859,5320,2019,19,TK-0150,Travis,Kelce,Travis Kelce,TE,KC,Knee,LP,Questionable
-34937,5322,2019,20,TK-0150,Travis,Kelce,Travis Kelce,TE,KC,Knee,LP,Available
-35035,5324,2019,21,TK-0150,Travis,Kelce,Travis Kelce,TE,KC,Knee,FP,Available
-25395,5061,2019,1,TK-0850,Tyler,Kroft,Tyler Kroft,TE,BUF,Foot,Limited,Doubtful
-25789,5076,2019,2,TK-0850,Tyler,Kroft,Tyler Kroft,TE,BUF,Foot,Limited,Questionable
 26289,5093,2019,3,TK-0850,Tyler,Kroft,Tyler Kroft,TE,BUF,Foot/Ankle,DNP,Out
 26870,5111,2019,4,TK-0850,Tyler,Kroft,Tyler Kroft,TE,BUF,Ankle,DNP,Out
 27335,5125,2019,5,TK-0850,Tyler,Kroft,Tyler Kroft,TE,BUF,Ankle,DNP,Out
-28397,5155,2019,7,TK-0850,Tyler,Kroft,Tyler Kroft,TE,BUF,Ankle,Full,Available
-26033,5084,2019,2,TL-1025,Tyler,Lockett,Tyler Lockett,WR,SEA,Back,Full,Available
-26590,5102,2019,3,TL-1025,Tyler,Lockett,Tyler Lockett,WR,SEA,NIR,,Available
-27029,5115,2019,4,TL-1025,Tyler,Lockett,Tyler Lockett,WR,SEA,Not Injury Related,Limited,Available
-28594,5160,2019,7,TL-1025,Tyler,Lockett,Tyler Lockett,WR,SEA,Not Injury Related,Full,Available
-29014,5172,2019,8,TL-1025,Tyler,Lockett,Tyler Lockett,WR,SEA,Not Injury Related,Full,Available
-29595,5188,2019,9,TL-1025,Tyler,Lockett,Tyler Lockett,WR,SEA,Not Injury Related,Full,Available
-30192,5205,2019,10,TL-1025,Tyler,Lockett,Tyler Lockett,WR,SEA,Hip,Limited,Available
-31249,5232,2019,12,TL-1025,Tyler,Lockett,Tyler Lockett,WR,SEA,Shin,Limited,Available
-31925,5249,2019,13,TL-1025,Tyler,Lockett,Tyler Lockett,WR,SEA,Shin/Illness,DNP,Available
-32903,5274,2019,15,TL-1025,Tyler,Lockett,Tyler Lockett,WR,SEA,Shin,FP,Available
-33778,5294,2019,16,TL-1025,Tyler,Lockett,Tyler Lockett,WR,SEA,NIR,FP,Available
-27773,5137,2019,6,TL-1037,T.J.,Logan,T.J. Logan,RB,TB,Ankle,Limited,Questionable
 32176,5256,2019,14,TL-1037,T.J.,Logan,T.J. Logan,RB,TB,Thumb,LP,Out
 32954,5275,2019,15,TL-1037,T.J.,Logan,T.J. Logan,RB,TB,Thumb,,IR
 33459,5287,2019,16,TL-1037,T.J.,Logan,T.J. Logan,RB,TB,Thumb,,IR
 33942,5298,2019,17,TL-1037,T.J.,Logan,T.J. Logan,RB,TB,Thumb,,IR
-27597,5132,2019,5,TL-1062,Ty,Long,Ty Long,K,LAC,Left Foot,Full,Available
-28140,5148,2019,6,TL-1062,Ty,Long,Ty Long,K,LAC,Left Foot,Full,Available
 25433,5062,2019,1,TM-2075,Taj,McGowan,Taj McGowan,RB,JAC,Knee,,IR
 25908,5079,2019,2,TM-2075,Taj,McGowan,Taj McGowan,RB,JAC,Knee,,IR
 26204,5090,2019,3,TM-2075,Taj,McGowan,Taj McGowan,RB,JAC,Knee,,IR
@@ -3065,14 +1815,7 @@
 33047,5277,2019,15,TM-2075,Taj,McGowan,Taj McGowan,RB,JAC,Knee,,IR
 33539,5288,2019,16,TM-2075,Taj,McGowan,Taj McGowan,RB,JAC,Knee,,IR
 34131,5302,2019,17,TM-2075,Taj,McGowan,Taj McGowan,RB,JAC,Knee,,IR
-26994,5114,2019,4,TM-2275,Terry,McLaurin,Terry McLaurin,WR,WAS,Hamstring,DNP,Questionable
-27497,5129,2019,5,TM-2275,Terry,McLaurin,Terry McLaurin,WR,WAS,Hamstring,Limited,Questionable
-30906,5223,2019,12,TM-2275,Terry,McLaurin,Terry McLaurin,WR,WAS,Wrist,Full,Available
 34457,5310,2019,17,TM-2275,Terry,McLaurin,Terry McLaurin,WR,WAS,Concussion,DNP,Out
-26426,5097,2019,3,TM-3150,Ty,Montgomery,Ty Montgomery,RB,NYJ,Non-Injury,DNP,Available
-29463,5184,2019,9,TM-3150,Ty,Montgomery,Ty Montgomery,RB,NYJ,Not Injury Related,Full,Available
-32574,5266,2019,15,TM-3150,Ty,Montgomery,Ty Montgomery,RB,NYJ,Foot/Hip,LP,Questionable
-27159,5119,2019,4,TM-3300,Thomas,Morstead,Thomas Morstead,K,NO,Illness,Full,Available
 26097,5086,2019,2,TP-0675,Tim,Patrick,Tim Patrick,WR,DEN,Hand,,IR
 26312,5094,2019,3,TP-0675,Tim,Patrick,Tim Patrick,WR,DEN,Hand,,IR
 27073,5117,2019,4,TP-0675,Tim,Patrick,Tim Patrick,WR,DEN,Hand,,IR
@@ -3081,16 +1824,6 @@
 28209,5150,2019,7,TP-0675,Tim,Patrick,Tim Patrick,WR,DEN,Hand,,IR
 29140,5176,2019,8,TP-0675,Tim,Patrick,Tim Patrick,WR,DEN,Hand,,IR
 29653,5189,2019,9,TP-0675,Tim,Patrick,Tim Patrick,WR,DEN,Hand,,IR
-30858,5222,2019,12,TP-0675,Tim,Patrick,Tim Patrick,WR,DEN,Shoulder,Limited,Questionable
-31809,5247,2019,13,TP-0675,Tim,Patrick,Tim Patrick,WR,DEN,Shoulder,FP,Available
-32104,5254,2019,14,TP-0675,Tim,Patrick,Tim Patrick,WR,DEN,Shoulder,FP,Available
-32669,5269,2019,15,TP-0675,Tim,Patrick,Tim Patrick,WR,DEN,Shoulder,FP,Available
-33385,5286,2019,16,TP-0675,Tim,Patrick,Tim Patrick,WR,DEN,Shoulder,FP,Available
-34525,5312,2019,17,TP-0675,Tim,Patrick,Tim Patrick,WR,DEN,Shoulder,FP,Available
-28074,5146,2019,6,TP-1650,Tony,Pollard,Tony Pollard,RB,DAL,Knee,Full,Available
-28647,5162,2019,7,TP-1650,Tony,Pollard,Tony Pollard,RB,DAL,Knee,Full,Available
-31940,5250,2019,14,TP-1650,Tony,Pollard,Tony Pollard,RB,DAL,Ankle,DNP,Questionable
-33144,5279,2019,15,TP-1650,Tony,Pollard,Tony Pollard,RB,DAL,Ankle,FP,Available
 32310,5259,2019,14,TQ-0100,Trey,Quinn,Trey Quinn,WR,WAS,Concussion,DNP,Out
 32878,5273,2019,15,TQ-0100,Trey,Quinn,Trey Quinn,WR,WAS,Concussion,DNP,Out
 33633,5291,2019,16,TQ-0100,Trey,Quinn,Trey Quinn,WR,WAS,Concussion,,IR
@@ -3111,9 +1844,6 @@
 32670,5269,2019,15,TR-0370,Theo,Riddick,Theo Riddick,WR,DEN,Shoulder,,IR
 33386,5286,2019,16,TR-0370,Theo,Riddick,Theo Riddick,WR,DEN,Shoulder,,IR
 34526,5312,2019,17,TR-0370,Theo,Riddick,Theo Riddick,WR,DEN,Shoulder,,IR
-31659,5243,2019,13,TS-1262,Tajae,Sharpe,Tajae Sharpe,WR,TEN,Hamstring,FP,Available
-32484,5263,2019,14,TS-1262,Tajae,Sharpe,Tajae Sharpe,WR,TEN,Hamstring,LP,Questionable
-29272,5179,2019,9,TS-1425,Trent,Sherfield,Trent Sherfield,WR,ARI,Knee,Full,Available
 26425,5097,2019,3,TS-1450,Trevor,Siemian,Trevor Siemian,QB,NYJ,Ankle,,IR
 27517,5130,2019,5,TS-1450,Trevor,Siemian,Trevor Siemian,QB,NYJ,Ankle,,IR
 28089,5146,2019,6,TS-1450,Trevor,Siemian,Trevor Siemian,QB,NYJ,Ankle,,IR
@@ -3130,12 +1860,9 @@
 34282,5306,2019,17,TS-1450,Trevor,Siemian,Trevor Siemian,QB,NYJ,Ankle,,IR
 26578,5102,2019,3,TS-2425,Tre'Quan,Smith,Tre'Quan Smith,WR,NO,Ankle,DNP,Out
 27160,5119,2019,4,TS-2425,Tre'Quan,Smith,Tre'Quan Smith,WR,NO,Ankle,DNP,Out
-27543,5131,2019,5,TS-2425,Tre'Quan,Smith,Tre'Quan Smith,WR,NO,Ankle,Full,Available
 27882,5140,2019,6,TS-2425,Tre'Quan,Smith,Tre'Quan Smith,WR,NO,Ankle,DNP,Out
 28621,5161,2019,7,TS-2425,Tre'Quan,Smith,Tre'Quan Smith,WR,NO,Ankle,DNP,Out
 28777,5165,2019,8,TS-2425,Tre'Quan,Smith,Tre'Quan Smith,WR,NO,Ankle,DNP,Out
-29878,5195,2019,10,TS-2425,Tre'Quan,Smith,Tre'Quan Smith,WR,NO,Ankle,FP,Available
-25655,5070,2019,1,TT-0450,Trent,Taylor,Trent Taylor,WR,SF,Foot,DNP,Available
 26013,5083,2019,2,TT-0450,Trent,Taylor,Trent Taylor,WR,SF,Foot,DNP,Out
 26636,5103,2019,3,TT-0450,Trent,Taylor,Trent Taylor,WR,SF,Foot,DNP,IR
 27699,5135,2019,5,TT-0450,Trent,Taylor,Trent Taylor,WR,SF,Foot,,IR
@@ -3154,18 +1881,7 @@
 34803,5318,2019,19,TT-0450,Trent,Taylor,Trent Taylor,WR,SF,Foot,,IR
 35015,5323,2019,20,TT-0450,Trent,Taylor,Trent Taylor,WR,SF,Foot,,IR
 35036,5324,2019,21,TT-0450,Trent,Taylor,Trent Taylor,WR,SF,Foot,,IR
-30905,5223,2019,12,TW-1175,Tress,Way,Tress Way,K,WAS,Right Shin,Full,Available
-28090,5146,2019,6,TW-1325,Trevon,Wesco,Trevon Wesco,RB,NYJ,Knee,Full,Available
-25520,5066,2019,1,TW-2762,Trayveon,Williams,Trayveon Williams,RB,CIN,Foot,DNP,Available
-26000,5083,2019,2,TW-2762,Trayveon,Williams,Trayveon Williams,RB,CIN,Foot,Limited,Questionable
-26084,5085,2019,2,TW-2875,Tyrell,Williams,Tyrell Williams,WR,OAK,Illness,Limited,Available
-26477,5098,2019,3,TW-2875,Tyrell,Williams,Tyrell Williams,WR,OAK,Hip,Full,Available
-27375,5126,2019,5,TW-2875,Tyrell,Williams,Tyrell Williams,WR,OAK,Foot,DNP,Questionable
 28489,5157,2019,7,TW-2875,Tyrell,Williams,Tyrell Williams,WR,OAK,Foot,DNP,Out
-28950,5170,2019,8,TW-2875,Tyrell,Williams,Tyrell Williams,WR,OAK,Foot,Limited,Questionable
-29585,5187,2019,9,TW-2875,Tyrell,Williams,Tyrell Williams,WR,OAK,Foot,Full,Available
-34566,5312,2019,17,TW-2875,Tyrell,Williams,Tyrell Williams,WR,OAK,Foot,LP,Available
-33139,5279,2019,15,VB-0325,Ventell,Bryant,Ventell Bryant,WR,DAL,Knee,DNP,Available
 27496,5129,2019,5,VD-0100,Vernon,Davis,Vernon Davis,TE,WAS,Concussion,DNP,Out
 27973,5143,2019,6,VD-0100,Vernon,Davis,Vernon Davis,TE,WAS,Concussion,Limited,Out
 28520,5158,2019,7,VD-0100,Vernon,Davis,Vernon Davis,TE,WAS,Concussion,Limited,Out
@@ -3179,22 +1895,8 @@
 33631,5291,2019,16,VD-0100,Vernon,Davis,Vernon Davis,TE,WAS,Concussion,,IR
 34459,5310,2019,17,VD-0100,Vernon,Davis,Vernon Davis,TE,WAS,Concussion,,IR
 26833,5110,2019,4,VG-0300,Virgil,Green,Virgil Green,TE,LAC,Groin,DNP,Out
-27599,5132,2019,5,VG-0300,Virgil,Green,Virgil Green,TE,LAC,Groin,Full,Questionable
 25561,5067,2019,1,VM-0225,Vince,Mayle,Vince Mayle,TE,LAC,Undisclosed,,IR
-26623,5103,2019,3,VM-0250,Vance,McDonald,Vance McDonald,TE,PIT,Back,Full,Available
-27202,5120,2019,4,VM-0250,Vance,McDonald,Vance McDonald,TE,PIT,Shoulder,DNP,Doubtful
-27322,5124,2019,5,VM-0250,Vance,McDonald,Vance McDonald,TE,PIT,Shoulder,Full,Questionable
-28162,5148,2019,6,VM-0250,Vance,McDonald,Vance McDonald,TE,PIT,Shoulder,Full,Available
-29245,5178,2019,8,VM-0250,Vance,McDonald,Vance McDonald,TE,PIT,Shoulder,Full,Available
-29404,5182,2019,9,VM-0250,Vance,McDonald,Vance McDonald,TE,PIT,Not Injury Related,Full,Available
-30152,5203,2019,10,VM-0250,Vance,McDonald,Vance McDonald,TE,PIT,NIR,FP,Available
-31056,5227,2019,12,VM-0250,Vance,McDonald,Vance McDonald,TE,PIT,Not Injury Related,Full,Available
-32449,5262,2019,14,VM-0250,Vance,McDonald,Vance McDonald,TE,PIT,Not Injury Related,FP,Available
 32632,5267,2019,15,VM-0250,Vance,McDonald,Vance McDonald,TE,PIT,Concussion,DNP,Out
-33750,5293,2019,16,VM-0250,Vance,McDonald,Vance McDonald,TE,PIT,Concussion,FP,Available
-34377,5308,2019,17,VM-0250,Vance,McDonald,Vance McDonald,TE,PIT,NIR,FP,Available
-29460,5184,2019,9,VS-0175,Vyncint,Smith,Vyncint Smith,WR,NYJ,Ankle,Full,Available
-26031,5084,2019,2,WD-0550,Will,Dissly,Will Dissly,TE,SEA,Knee,Full,Available
 28595,5160,2019,7,WD-0550,Will,Dissly,Will Dissly,TE,SEA,Achilles,DNP,IR
 29012,5172,2019,8,WD-0550,Will,Dissly,Will Dissly,TE,SEA,Achilles,,IR
 29592,5188,2019,9,WD-0550,Will,Dissly,Will Dissly,TE,SEA,Achilles,,IR
@@ -3207,40 +1909,13 @@
 34572,5313,2019,17,WD-0550,Will,Dissly,Will Dissly,TE,SEA,Achilles,,IR
 34766,5317,2019,18,WD-0550,Will,Dissly,Will Dissly,TE,SEA,Achilles,,IR
 34904,5321,2019,19,WD-0550,Will,Dissly,Will Dissly,TE,SEA,Achilles,,IR
-25891,5079,2019,2,WF-0300,Will,Fuller,Will Fuller,WR,HOU,Not Injury Related,Full,Available
-26556,5101,2019,3,WF-0300,Will,Fuller,Will Fuller,WR,HOU,Not Injury Related,Full,Available
-26768,5107,2019,4,WF-0300,Will,Fuller,Will Fuller,WR,HOU,Not Injury Related,Full,Available
-27289,5123,2019,5,WF-0300,Will,Fuller,Will Fuller,WR,HOU,Not Injury Related,Full,Available
-28296,5152,2019,7,WF-0300,Will,Fuller,Will Fuller,WR,HOU,Calf,Full,Available
 28929,5170,2019,8,WF-0300,Will,Fuller,Will Fuller,WR,HOU,Hamstring,DNP,Out
 29317,5180,2019,9,WF-0300,Will,Fuller,Will Fuller,WR,HOU,Hamstring,DNP,Out
 30458,5211,2019,11,WF-0300,Will,Fuller,Will Fuller,WR,HOU,Hamstring,Limited,Out
-30784,5220,2019,12,WF-0300,Will,Fuller,Will Fuller,WR,HOU,Hamstring,Limited,Questionable
-31827,5248,2019,13,WF-0300,Will,Fuller,Will Fuller,WR,HOU,Hamstring,FP,Available
-32109,5254,2019,14,WF-0300,Will,Fuller,Will Fuller,WR,HOU,Hamstring,LP,Questionable
-32739,5270,2019,15,WF-0300,Will,Fuller,Will Fuller,WR,HOU,Hamstring,LP,Questionable
-33456,5287,2019,16,WF-0300,Will,Fuller,Will Fuller,WR,HOU,Hamstring,LP,Questionable
 34404,5309,2019,17,WF-0300,Will,Fuller,Will Fuller,WR,HOU,Groin,DNP,Out
-34631,5314,2019,18,WF-0300,Will,Fuller,Will Fuller,WR,HOU,Groin,LP,Questionable
-34857,5320,2019,19,WF-0300,Will,Fuller,Will Fuller,WR,HOU,Groin,LP,Questionable
-27445,5128,2019,5,WG-0050,Wayne,Gallman,Wayne Gallman,RB,NYG,Neck,Full,Available
 27739,5136,2019,6,WG-0050,Wayne,Gallman,Wayne Gallman,RB,NYG,Concussion,DNP,Out
-28274,5151,2019,7,WG-0050,Wayne,Gallman,Wayne Gallman,RB,NYG,Concussion,Full,Available
-30572,5214,2019,11,WS-0650,Wendell,Smallwood,Wendell Smallwood,RB,WAS,Not Injury Related,DNP,Available
 27204,5120,2019,4,XG-0100,Xavier,Grimble,Xavier Grimble,TE,PIT,Calf,,IR
-33484,5288,2019,16,YK-0100,Younghoe,Koo,Younghoe Koo,K,ATL,Left foot,,Available
-31554,5240,2019,13,ZE-0100,Zach,Ertz,Zach Ertz,TE,PHI,Hamstring,LP,Questionable
 34328,5307,2019,17,ZE-0100,Zach,Ertz,Zach Ertz,TE,PHI,Ribs,DNP,Out
-34720,5317,2019,18,ZE-0100,Zach,Ertz,Zach Ertz,TE,PHI,Ribs,LP,Questionable
-26865,5111,2019,4,ZJ-0100,Zay,Jones,Zay Jones,WR,BUF,Shoulder,Full,Available
-25707,5072,2019,1,ZL-0200,Zach,Line,Zach Line,RB,NO,Knee,Full,Available
-26579,5102,2019,3,ZL-0200,Zach,Line,Zach Line,RB,NO,Knee,Full,Available
-27161,5119,2019,4,ZL-0200,Zach,Line,Zach Line,RB,NO,Knee,Full,Available
-30504,5213,2019,11,ZL-0200,Zach,Line,Zach Line,RB,NO,Knee,Limited,Available
 30833,5221,2019,12,ZL-0200,Zach,Line,Zach Line,RB,NO,Knee,DNP,Out
 31399,5236,2019,13,ZL-0200,Zach,Line,Zach Line,RB,NO,Knee,DNP,Out
 32252,5258,2019,14,ZL-0200,Zach,Line,Zach Line,RB,NO,Knee,LP,Out
-33210,5281,2019,15,ZL-0200,Zach,Line,Zach Line,RB,NO,Knee,LP,Available
-34242,5305,2019,17,ZL-0200,Zach,Line,Zach Line,RB,NO,Knee,LP,Questionable
-34719,5316,2019,18,ZL-0200,Zach,Line,Zach Line,RB,NO,Knee,FP,Available
-26239,5091,2019,3,ZP-0050,Zach,Pascal,Zach Pascal,WR,IND,Shoulder,Full,Available
